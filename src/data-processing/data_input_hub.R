@@ -40,10 +40,3 @@ d <- d %>%
   select(doi, language, method, method2, measurement:validation) 
 
 write_csv(d, here("data/intermediate/data_living_hub.csv"))
-
-head(d, 10)
-#Input hub: methods2, language, data (politieke actoren, citizens, media -- andere wp's via doi connectie linken aan de hub)
-      ## COderen van data onderdeel van gesprek in Sept -- hoe linken we dit! Wat is their idea?
-# Output hub: papers based on methods, language, data, 
-            # measurement met verschillende kleuren per categorie (zie viz Laslo) (pop-up box van categorien Measurement die begrijpelijk zijn), 
-            # validation
