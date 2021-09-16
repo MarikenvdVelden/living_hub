@@ -1,4 +1,4 @@
-#!/Users/farzam/Projects/VU Coding/Living Hub Server/venv/bin/python
+#!/Users/farzam/Projects/VU Coding/living_hub/Server/venv/bin/python
 
 import datetime
 import sys
