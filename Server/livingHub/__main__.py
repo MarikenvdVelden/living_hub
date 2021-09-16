@@ -71,4 +71,4 @@ if (args.create_test_index or True):
         logging.info("**** Creating test index {} ****".format(defIndex))
         admin = User.get(User.email == "admin")
         upload_test_data().set_role(admin, Role.ADMIN)
-app.run(debug=True)
+app.run(debug=True, port=5001)

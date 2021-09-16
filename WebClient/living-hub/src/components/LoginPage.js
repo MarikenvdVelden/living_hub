@@ -25,7 +25,7 @@ const idleColor = "grey";
 
 // just delete this if you dont want default users
 const defaultLoginCredentials = {
-  host: "http://127.0.0.1:5000",
+  host: "http://127.0.0.1:5001",
   email: "admin",
   password: "admin",
 };
