@@ -77,7 +77,7 @@ const Records = ({ runQuery }) => {
         <br />
         <Label
           as="a"
-          color="blue"
+          color="red"
           tag
           style={{ marginBottom: "0.5em" }}
           onClick={() => {
@@ -86,7 +86,7 @@ const Records = ({ runQuery }) => {
         >
           Measurement: {document.measurement}
         </Label>
-        <br />
+        {/* <br />
         <Label
           as="a"
           color="blue"
@@ -98,10 +98,10 @@ const Records = ({ runQuery }) => {
         >
           Primary Method: {document.method}
         </Label>
-        <br />
+        <br /> */}
         <Label
           as="a"
-          color="blue"
+          color="orange"
           tag
           style={{ marginBottom: "0.5em" }}
           onClick={() => {
@@ -110,7 +110,7 @@ const Records = ({ runQuery }) => {
         >
           Secondary Method: {document.method2}
         </Label>
-        <br />
+        {/* <br />
         <Label
           as="a"
           color="blue"
@@ -122,7 +122,7 @@ const Records = ({ runQuery }) => {
         >
           Validation: {document.validation}
         </Label>
-        <br />
+        <br /> */}
       </div>
     );
   };
