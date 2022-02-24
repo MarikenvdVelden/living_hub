@@ -1,0 +1,3073 @@
+_id,doi,language,method,method2,measurement,validation
+1,10.1002/jae.2550,en,key,Rule-based,theme,no validation attempt
+2,10.1080/1369118X.2015.1092565,en,sna,Unsupervised,theme,discussion
+3,10.1080/1369118X.2015.1092565,en,sna,Unsupervised,frame,discussion
+4,10.1080/1369118X.2015.1092565,en,sna,Unsupervised,other,discussion
+5,10.1080/1369118X.2015.1093526,nl,man,Manual,theme,no validation attempt
+6,10.1080/1369118X.2015.1093526,nl,nlp,Rule-based,theme,no validation attempt
+7,10.1080/1369118X.2016.1139615,en,lda,Unsupervised,theme,discussion
+8,10.1080/1369118X.2016.1167228,en,sml,Supervised,theme,discussion & demonstration
+9,10.1080/1369118X.2016.1168469,pt,man,Manual,quali,discussion
+10,10.1080/1369118X.2016.1168469,pt,man,Manual,frame,discussion
+11,10.1080/1369118X.2016.1168469,pt,man,Manual,other,discussion
+12,10.1080/1369118X.2016.1168469,pt,sna,Unsupervised,quali,discussion
+13,10.1080/1369118X.2016.1168469,pt,sna,Unsupervised,frame,discussion
+14,10.1080/1369118X.2016.1168469,pt,sna,Unsupervised,other,discussion
+15,10.1080/1369118X.2016.1182197,en,sml,Supervised,theme,discussion
+16,10.1080/1369118X.2016.1182197,en,sml,Supervised,senti,discussion
+17,10.1080/1369118X.2016.1182197,en,sml,Supervised,quali,discussion
+18,10.1080/1369118X.2016.1186717,en,sof,Rule-based,forma,no validation attempt
+19,10.1080/1369118X.2016.1186717,en,sof,Rule-based,const,no validation attempt
+20,10.1080/1369118X.2016.1186717,en,sof,Rule-based,quali,no validation attempt
+21,10.1080/1369118X.2016.1253762,en,nlp,Rule-based,theme,no validation attempt
+22,10.1080/1369118X.2016.1266374,en,sml,Supervised,const,discussion & demonstration
+23,10.1080/1369118X.2017.1301515,no,lnk,Rule-based,forma,no validation attempt
+24,10.1080/1369118X.2017.1346136,en,lnk,Rule-based,other,no validation attempt
+25,10.1080/1369118X.2017.1386705,en,man,Manual,frame,discussion
+26,10.1080/1369118X.2017.1386705,en,dct,Rule-based,frame,discussion
+27,10.1080/1369118X.2017.1388427,en,man,Manual,theme,discussion
+28,10.1080/1369118X.2017.1388427,en,man,Manual,senti,discussion
+29,10.1080/1369118X.2017.1388427,en,lnk,Rule-based,theme,discussion
+30,10.1080/1369118X.2017.1388427,en,lnk,Rule-based,senti,discussion
+31,10.1080/1369118X.2017.1388427,en,nlp,Rule-based,theme,discussion
+32,10.1080/1369118X.2017.1388427,en,nlp,Rule-based,senti,discussion
+33,10.1080/1369118X.2018.1433224,en,lnk,Rule-based,quali,discussion & demonstration
+34,10.1080/1369118X.2018.1433224,en,lnk,Rule-based,pragm,discussion & demonstration
+35,10.1080/1369118X.2018.1433224,en,sml,Supervised,quali,discussion & demonstration
+36,10.1080/1369118X.2018.1433224,en,sml,Supervised,pragm,discussion & demonstration
+37,10.1080/1369118X.2018.1444076,nl,nlp,Rule-based,senti,no validation attempt
+38,10.1080/1369118X.2018.1444076,nl,nlp,Rule-based,quali,no validation attempt
+39,10.1080/1369118X.2018.1444076,nl,nlp,Rule-based,attri,no validation attempt
+40,10.1080/1369118X.2018.1444076,nl,key,Rule-based,senti,no validation attempt
+41,10.1080/1369118X.2018.1444076,nl,key,Rule-based,quali,no validation attempt
+42,10.1080/1369118X.2018.1444076,nl,key,Rule-based,attri,no validation attempt
+43,10.1080/1369118X.2018.1444076,nl,lda,Unsupervised,senti,no validation attempt
+44,10.1080/1369118X.2018.1444076,nl,lda,Unsupervised,quali,no validation attempt
+45,10.1080/1369118X.2018.1444076,nl,lda,Unsupervised,attri,no validation attempt
+46,10.1080/1369118X.2018.1468919,he,man,Manual,types,no validation attempt
+47,10.1080/1369118X.2018.1468919,he,man,Manual,theme,no validation attempt
+48,10.1080/1369118X.2018.1468919,he,lda,Unsupervised,types,no validation attempt
+49,10.1080/1369118X.2018.1468919,he,lda,Unsupervised,theme,no validation attempt
+50,10.1080/1369118X.2018.1476576,cn,bot,Other,other,no validation attempt
+51,10.1080/1369118X.2018.1499793,en,sml,Supervised,senti,discussion & demonstration
+52,10.1080/1369118X.2018.1500622,en,dct,Rule-based,const,discussion & demonstration
+53,10.1080/1369118X.2018.1555271,it,lnk,Rule-based,attri,no validation attempt
+54,10.1080/1369118X.2018.1555271,it,lnk,Rule-based,pragm,no validation attempt
+55,10.1080/1369118X.2019.1566484,en,man,Manual,senti,no validation attempt
+56,10.1080/1369118X.2019.1566484,en,man,Manual,attri,no validation attempt
+57,10.1080/1369118X.2019.1566484,en,sof,Rule-based,senti,no validation attempt
+58,10.1080/1369118X.2019.1566484,en,sof,Rule-based,attri,no validation attempt
+59,10.1080/1369118X.2019.1566484,en,sml,Supervised,senti,no validation attempt
+60,10.1080/1369118X.2019.1566484,en,sml,Supervised,attri,no validation attempt
+61,10.1080/1369118X.2020.1716039,en,plg,Unsupervised,quali,discussion
+62,10.1080/1369118X.2020.1720770,nl,man,Manual,thing,discussion
+63,10.1080/1369118X.2020.1720770,nl,man,Manual,theme,discussion
+64,10.1080/1369118X.2020.1720770,nl,lnk,Rule-based,thing,discussion
+65,10.1080/1369118X.2020.1720770,nl,lnk,Rule-based,theme,discussion
+66,10.1080/1369118X.2020.1776372,cn,man,Manual,senti,discussion
+67,10.1080/1369118X.2020.1776372,cn,man,Manual,attri,discussion
+68,10.1080/1369118X.2020.1776372,cn,man,Manual,frame,discussion
+69,10.1080/1369118X.2020.1776372,cn,sof,Rule-based,senti,discussion
+70,10.1080/1369118X.2020.1776372,cn,sof,Rule-based,attri,discussion
+71,10.1080/1369118X.2020.1776372,cn,sof,Rule-based,frame,discussion
+72,10.1080/1369118X.2020.1776372,cn,lda,Unsupervised,senti,discussion
+73,10.1080/1369118X.2020.1776372,cn,lda,Unsupervised,attri,discussion
+74,10.1080/1369118X.2020.1776372,cn,lda,Unsupervised,frame,discussion
+75,10.1080/1369118X.2020.1792532,en,dct,Rule-based,theme,discussion & demonstration
+76,10.1080/15022250.2019.1651671,en,lda,Unsupervised,theme,discussion
+77,10.1111/1468-4446.12624,en,sof,Rule-based,const,no validation attempt
+78,10.1111/risa.13425,en,sml,Supervised,quali,discussion & demonstration
+79,10.1111/risa.13533,it,key,Rule-based,theme,discussion
+80,10.1111/risa.13582,en,lnk,Rule-based,const,discussion & demonstration
+81,10.1111/risa.13582,en,key,Rule-based,const,discussion & demonstration
+82,10.1111/risa.13582,en,dct,Rule-based,const,discussion & demonstration
+83,10.1111/rssa.12421,en,sml,Supervised,const,discussion & demonstration
+84,10.1140/epjds/s13688-016-0066-4,en,key,Rule-based,theme,no validation attempt
+85,10.1140/epjds/s13688-016-0072-6,en,sml,Supervised,const,discussion & demonstration
+86,10.1140/epjds/s13688-016-0085-1,en,dct,Rule-based,senti,discussion & demonstration
+87,10.1140/epjds/s13688-017-0111-y,en,lnk,Rule-based,theme,discussion
+88,10.1140/epjds/s13688-017-0121-9,en,dct,Rule-based,senti,discussion & demonstration
+89,10.1140/epjds/s13688-019-0190-z,en,sml,Supervised,const,discussion
+90,10.1140/epjds/s13688-019-0193-9,en,dct,Rule-based,const,discussion & demonstration
+91,10.1140/epjds/s13688-019-0193-9,en,sof,Rule-based,const,discussion & demonstration
+92,10.1140/epjds/s13688-019-0219-3,en,dct,Rule-based,senti,no validation attempt
+93,10.1140/epjds/s13688-020-00245-8,ru,sml,Supervised,theme,discussion
+94,10.1177/0003122417733673,en,dct,Rule-based,const,discussion & demonstration
+95,10.1177/0003122419877135,en,nlp,Rule-based,const,discussion & demonstration
+96,10.1177/0038040720953218,en,dct,Rule-based,forma,discussion & demonstration
+97,10.1177/0049124117729696,en,lda,Unsupervised,theme,discussion & demonstration
+98,10.1177/0049124117729701,en,sml,Supervised,theme,discussion & demonstration
+99,10.1177/0049124119882481,en,sof,Rule-based,forma,discussion & demonstration
+100,10.1177/0049124119882481,en,sof,Rule-based,thing,discussion & demonstration
+101,10.1177/0049124119882481,en,sna,Unsupervised,forma,discussion & demonstration
+102,10.1177/0049124119882481,en,sna,Unsupervised,thing,discussion & demonstration
+103,10.3982/ECTA16566,en,key,Rule-based,theme,discussion & demonstration
+104,10.3982/ECTA16566,en,lda,Unsupervised,theme,discussion & demonstration
+105,10.1080/1369118X.2015.1086013,cn,man,Manual,quali,NA
+106,10.1080/1369118X.2015.1088049,ar,man,Manual,const,NA
+107,10.1080/1369118X.2015.1088049,ar,man,Manual,pragm,NA
+108,10.1080/1369118X.2015.1088881,cz,man,Manual,thing,NA
+109,10.1080/1369118X.2015.1088881,cz,man,Manual,senti,NA
+110,10.1080/1369118X.2015.1094113,en,man,Manual,pragm,NA
+111,10.1080/1369118X.2015.1104372,cn,man,Manual,thing,NA
+112,10.1080/1369118X.2015.1104372,cn,man,Manual,const,NA
+113,10.1080/1369118X.2015.1104372,cn,man,Manual,theme,NA
+114,10.1080/1369118X.2015.1104372,cn,man,Manual,frame,NA
+115,10.1080/1369118X.2016.1142595,en,man,Manual,const,NA
+116,10.1080/1369118X.2016.1142595,en,man,Manual,props,NA
+117,10.1080/1369118X.2016.1142595,en,man,Manual,pragm,NA
+118,10.1080/1369118X.2016.1146319,en,man,Manual,const,NA
+119,10.1080/1369118X.2016.1146319,en,man,Manual,attri,NA
+120,10.1080/1369118X.2016.1187192,en,man,Manual,attri,NA
+121,10.1080/1369118X.2016.1198411,hu,man,Manual,forma,NA
+122,10.1080/1369118X.2016.1198411,hu,man,Manual,types,NA
+123,10.1080/1369118X.2016.1198411,hu,man,Manual,senti,NA
+124,10.1080/1369118X.2016.1198411,hu,man,Manual,quali,NA
+125,10.1080/1369118X.2016.1203971,pt,man,Manual,thing,NA
+126,10.1080/1369118X.2016.1203971,pt,man,Manual,attri,NA
+127,10.1080/1369118X.2016.1203974,cn,man,Manual,quali,NA
+128,10.1080/1369118X.2016.1203974,cn,man,Manual,other,NA
+129,10.1080/1369118X.2016.1252413,en,man,Manual,pragm,NA
+130,10.1080/1369118X.2016.1254269,de,man,Manual,forma,NA
+131,10.1080/1369118X.2016.1254269,de,man,Manual,pragm,NA
+132,10.1080/1369118X.2016.1257040,en,man,Manual,thing,NA
+133,10.1080/1369118X.2016.1257040,en,man,Manual,const,NA
+134,10.1080/1369118X.2016.1257040,en,man,Manual,attri,NA
+135,10.1080/1369118X.2016.1257040,en,man,Manual,props,NA
+136,10.1080/1369118X.2016.1257040,en,man,Manual,pragm,NA
+137,10.1080/1369118X.2017.1284880,es,man,Manual,forma,NA
+138,10.1080/1369118X.2017.1284880,es,man,Manual,const,NA
+139,10.1080/1369118X.2017.1284880,es,man,Manual,theme,NA
+140,10.1080/1369118X.2017.1284880,es,man,Manual,pragm,NA
+141,10.1080/1369118X.2017.1285951,en,man,Manual,senti,NA
+142,10.1080/1369118X.2017.1285951,en,man,Manual,frame,NA
+143,10.1080/1369118X.2017.1301518,en,man,Manual,theme,NA
+144,10.1080/1369118X.2017.1301518,en,man,Manual,senti,NA
+145,10.1080/1369118X.2017.1301522,en,man,Manual,const,NA
+146,10.1080/1369118X.2017.1301522,en,man,Manual,pragm,NA
+147,10.1080/1369118X.2017.1314532,en,man,Manual,thing,NA
+148,10.1080/1369118X.2017.1314532,en,man,Manual,const,NA
+149,10.1080/1369118X.2017.1314532,en,man,Manual,theme,NA
+150,10.1080/1369118X.2017.1314532,en,man,Manual,quali,NA
+151,10.1080/1369118X.2017.1324504,he,man,Manual,const,NA
+152,10.1080/1369118X.2017.1340499,en,man,Manual,thing,NA
+153,10.1080/1369118X.2017.1340499,en,man,Manual,const,NA
+154,10.1080/1369118X.2017.1340499,en,man,Manual,theme,NA
+155,10.1080/1369118X.2017.1340499,en,man,Manual,attri,NA
+156,10.1080/1369118X.2017.1340499,en,man,Manual,pragm,NA
+157,10.1080/1369118X.2017.1366539,en,man,Manual,pragm,NA
+158,10.1080/1369118X.2017.1402943,en,man,Manual,const,NA
+159,10.1080/1369118X.2017.1402943,en,man,Manual,pragm,NA
+160,10.1080/1369118X.2018.1439985,he,man,Manual,const,NA
+161,10.1080/1369118X.2018.1439985,he,man,Manual,theme,NA
+162,10.1080/1369118X.2018.1439985,he,man,Manual,quali,NA
+163,10.1080/1369118X.2018.1445273,de,man,Manual,const,NA
+164,10.1080/1369118X.2018.1445273,de,man,Manual,types,NA
+165,10.1080/1369118X.2018.1445273,de,man,Manual,theme,NA
+166,10.1080/1369118X.2018.1445273,de,man,Manual,senti,NA
+167,10.1080/1369118X.2018.1445273,de,man,Manual,quali,NA
+168,10.1080/1369118X.2018.1449882,de,man,Manual,thing,NA
+169,10.1080/1369118X.2018.1449882,de,man,Manual,pragm,NA
+170,10.1080/1369118X.2018.1450436,en,man,Manual,theme,NA
+171,10.1080/1369118X.2018.1451550,es,man,Manual,const,NA
+172,10.1080/1369118X.2018.1451550,es,man,Manual,theme,NA
+173,10.1080/1369118X.2018.1451550,es,man,Manual,pragm,NA
+174,10.1080/1369118X.2018.1476573,cn,man,Manual,thing,NA
+175,10.1080/1369118X.2018.1476573,cn,man,Manual,const,NA
+176,10.1080/1369118X.2018.1476573,cn,man,Manual,theme,NA
+177,10.1080/1369118X.2018.1476573,cn,man,Manual,quali,NA
+178,10.1080/1369118X.2019.1566393,en,man,Manual,frame,NA
+179,10.1080/1369118X.2019.1621921,en,man,Manual,const,NA
+180,10.1080/1369118X.2019.1621921,en,man,Manual,pragm,NA
+181,10.1080/1369118X.2019.1629692,it,man,Manual,attri,NA
+182,10.1080/1369118X.2020.1716040,cz,man,Manual,forma,NA
+183,10.1080/1369118X.2020.1716040,cz,man,Manual,const,NA
+184,10.1080/1369118X.2020.1716040,cz,man,Manual,quali,NA
+185,10.1080/1369118X.2020.1716040,cz,man,Manual,pragm,NA
+186,10.1080/1369118X.2020.1748089,en,man,Manual,pragm,NA
+187,10.1080/1369118X.2020.1751867,en,man,Manual,thing,NA
+188,10.1080/1369118X.2020.1751867,en,man,Manual,const,NA
+189,10.1080/1369118X.2020.1751867,en,man,Manual,theme,NA
+190,10.1080/1369118X.2020.1751867,en,man,Manual,attri,NA
+191,10.1080/1369118X.2020.1751867,en,man,Manual,props,NA
+192,10.1080/1369118X.2020.1751867,en,man,Manual,pragm,NA
+193,10.1080/1369118X.2020.1757132,en,man,Manual,theme,NA
+194,10.1080/1369118X.2020.1757132,en,man,Manual,pragm,NA
+195,10.1080/1369118X.2020.1761858,en,man,Manual,theme,NA
+196,10.1080/1369118X.2020.1764605,en,man,Manual,theme,NA
+197,10.1080/1369118X.2020.1776367,de,man,Manual,thing,NA
+198,10.1080/1369118X.2020.1776367,de,man,Manual,const,NA
+199,10.1080/1369118X.2020.1776367,de,man,Manual,theme,NA
+200,10.1080/1369118X.2020.1776367,de,man,Manual,attri,NA
+201,10.1080/1369118X.2020.1776367,de,man,Manual,props,NA
+202,10.1080/1369118X.2020.1787483,en,man,Manual,const,NA
+203,10.1111/1468-4446.12191,en,man,Manual,theme,NA
+204,10.1111/risa.12467,en,man,Manual,theme,NA
+205,10.1111/risa.12510,en,man,Manual,frame,NA
+206,10.1111/risa.12961,en,man,Manual,theme,NA
+207,10.1111/risa.13140,en,man,Manual,theme,NA
+208,10.1177/0891243218786686,un,man,Manual,frame,NA
+209,10.1080/10584609.2020.1785067,he,man,Manual,theme,discussion & demonstration
+210,10.1080/10584609.2020.1785067,he,man,Manual,senti,discussion & demonstration
+211,10.1080/10584609.2020.1785067,he,man,Manual,quali,discussion & demonstration
+212,10.1080/10584609.2020.1785067,he,hca,Supervised,theme,discussion & demonstration
+213,10.1080/10584609.2020.1785067,he,hca,Supervised,senti,discussion & demonstration
+214,10.1080/10584609.2020.1785067,he,hca,Supervised,quali,discussion & demonstration
+215,10.1080/19312458.2020.1803247,he,hca,Supervised,const,discussion & demonstration
+216,10.1080/19312458.2020.1803247,he,hca,Supervised,theme,discussion & demonstration
+217,10.1080/19312458.2020.1803247,he,hca,Supervised,senti,discussion & demonstration
+218,10.1080/19312458.2020.1803247,he,hca,Supervised,attri,discussion & demonstration
+219,10.1080/19312458.2020.1803247,he,hca,Supervised,pragm,discussion & demonstration
+220,10.1177/2056305120944393,he,man,Manual,theme,discussion & demonstration
+221,10.1177/2056305120944393,he,man,Manual,senti,discussion & demonstration
+222,10.1177/2056305120944393,he,man,Manual,quali,discussion & demonstration
+223,10.1177/2056305120944393,he,man,Manual,attri,discussion & demonstration
+224,10.1177/2056305120944393,he,hca,Supervised,theme,discussion & demonstration
+225,10.1177/2056305120944393,he,hca,Supervised,senti,discussion & demonstration
+226,10.1177/2056305120944393,he,hca,Supervised,quali,discussion & demonstration
+227,10.1177/2056305120944393,he,hca,Supervised,attri,discussion & demonstration
+228,10.1002/poi3.120,en,man,Manual,theme,discussion
+229,10.1002/poi3.120,en,lnk,Rule-based,theme,discussion
+230,10.1002/poi3.127,en,lnk,Rule-based,theme,no validation attempt
+231,10.1002/poi3.194,en,nlp,Rule-based,theme,discussion & demonstration
+232,10.1002/poi3.194,en,sna,Unsupervised,theme,discussion & demonstration
+233,10.1002/poi3.194,en,sml,Supervised,theme,discussion & demonstration
+234,10.1002/poi3.197,en,man,Manual,const,discussion
+235,10.1002/poi3.197,en,man,Manual,theme,discussion
+236,10.1002/poi3.197,en,man,Manual,pragm,discussion
+237,10.1002/poi3.197,en,dct,Rule-based,const,discussion
+238,10.1002/poi3.197,en,dct,Rule-based,theme,discussion
+239,10.1002/poi3.197,en,dct,Rule-based,pragm,discussion
+240,10.1002/poi3.202,en,sml,Supervised,types,discussion & demonstration
+241,10.1002/poi3.202,en,sml,Supervised,theme,discussion & demonstration
+242,10.1002/poi3.202,en,sml,Supervised,pragm,discussion & demonstration
+243,10.1002/poi3.212,en,nlp,Rule-based,theme,no validation attempt
+244,10.1002/poi3.212,en,nlp,Rule-based,quali,no validation attempt
+245,10.1002/poi3.212,en,lda,Unsupervised,theme,no validation attempt
+246,10.1002/poi3.212,en,lda,Unsupervised,quali,no validation attempt
+247,10.1002/poi3.222,de,nlp,Rule-based,senti,discussion & demonstration
+248,10.1002/poi3.223,en,man,Manual,const,discussion
+249,10.1002/poi3.223,en,man,Manual,theme,discussion
+250,10.1002/poi3.223,en,nlp,Rule-based,const,discussion
+251,10.1002/poi3.223,en,nlp,Rule-based,theme,discussion
+252,10.1002/poi3.223,en,dct,Rule-based,const,discussion
+253,10.1002/poi3.223,en,dct,Rule-based,theme,discussion
+254,10.1002/poi3.223,en,lda,Unsupervised,const,discussion
+255,10.1002/poi3.223,en,lda,Unsupervised,theme,discussion
+256,10.1002/poi3.245,en,sml,Supervised,theme,discussion & demonstration
+257,10.1002/poi3.247,en,sna,Unsupervised,theme,no validation attempt
+258,10.1002/poi3.247,en,sna,Unsupervised,pragm,no validation attempt
+259,10.1007/s11109-016-9368-2,de,lda,Unsupervised,theme,discussion & demonstration
+260,10.1007/s11109-017-9394-8,en,man,Manual,quali,discussion & demonstration
+261,10.1007/s11109-017-9394-8,en,nlp,Rule-based,quali,discussion & demonstration
+262,10.1007/s11109-017-9394-8,en,dct,Rule-based,quali,discussion & demonstration
+263,10.1007/s11109-017-9418-4,en,lda,Unsupervised,theme,discussion & demonstration
+264,10.1007/s11109-018-9457-5,en,lda,Unsupervised,theme,discussion
+265,10.1007/s11109-018-9457-5,en,lda,Unsupervised,senti,discussion
+266,10.1007/s11109-018-9478-0,en,dct,Rule-based,senti,discussion & demonstration
+267,10.1007/s11109-019-09577-2,de,man,Manual,props,discussion
+268,10.1007/s11109-019-09577-2,de,dct,Rule-based,props,discussion
+269,10.1007/s11558-020-09378-x,en,plg,Unsupervised,relas,no validation attempt
+270,10.1007/s11558-020-09391-0,en,lda,Unsupervised,theme,discussion & demonstration
+271,10.1007/s11558-020-09391-0,en,lda,Unsupervised,relas,discussion & demonstration
+272,10.1007/s11558-020-09391-0,en,plg,Unsupervised,theme,discussion & demonstration
+273,10.1007/s11558-020-09391-0,en,plg,Unsupervised,relas,discussion & demonstration
+274,10.1016/j.chb.2016.07.035,es,lnk,Rule-based,senti,no validation attempt
+275,10.1016/j.chb.2016.07.035,es,lnk,Rule-based,attri,no validation attempt
+276,10.1016/j.chb.2016.07.035,es,sof,Rule-based,senti,no validation attempt
+277,10.1016/j.chb.2016.07.035,es,sof,Rule-based,attri,no validation attempt
+278,10.1016/j.chb.2016.12.003,en,man,Manual,attri,discussion
+279,10.1016/j.chb.2016.12.003,en,lnk,Rule-based,attri,discussion
+280,10.1016/j.chb.2016.12.064,en,lnk,Rule-based,attri,no validation attempt
+281,10.1016/j.chb.2016.12.064,en,sml,Supervised,attri,no validation attempt
+282,10.1016/j.chb.2018.07.006,en,sof,Rule-based,senti,no validation attempt
+283,10.1016/j.chb.2018.08.008,en,sof,Rule-based,types,discussion & demonstration
+284,10.1016/j.chb.2018.08.034,en,man,Manual,attri,no validation attempt
+285,10.1016/j.chb.2018.08.034,en,sof,Rule-based,attri,no validation attempt
+286,10.1016/j.chb.2018.08.051,en,sof,Rule-based,attri,no validation attempt
+287,10.1016/j.chb.2020.106353,en,lnk,Rule-based,attri,no validation attempt
+288,10.1016/j.chb.2020.106353,en,sna,Unsupervised,attri,no validation attempt
+289,10.1017/pan.2016.7,en,lda,Unsupervised,theme,discussion & demonstration
+290,10.1017/pan.2017.39,en,sml,Supervised,quali,discussion & demonstration
+291,10.1017/pan.2017.44,en,lda,Unsupervised,theme,discussion & demonstration
+292,10.1017/pan.2017.44,en,lda,Unsupervised,quali,discussion & demonstration
+293,10.1017/pan.2017.44,en,dcs,Unsupervised,theme,discussion & demonstration
+294,10.1017/pan.2017.44,en,dcs,Unsupervised,quali,discussion & demonstration
+295,10.1017/pan.2018.11,en,sml,Supervised,other,discussion & demonstration
+296,10.1017/pan.2018.47,en,dct,Rule-based,other,discussion & demonstration
+297,10.1017/pan.2018.7,en,dcs,Unsupervised,quali,discussion & demonstration
+298,10.1017/pan.2019.18,sk,lda,Unsupervised,theme,discussion & demonstration
+299,10.1017/pan.2019.18,sk,lda,Unsupervised,quali,discussion & demonstration
+300,10.1017/pan.2019.2,en,sml,Supervised,quali,discussion & demonstration
+301,10.1017/pan.2019.2,en,dcs,Unsupervised,quali,discussion & demonstration
+302,10.1017/pan.2019.23,en,nlp,Rule-based,const,discussion & demonstration
+303,10.1017/pan.2019.23,en,nlp,Rule-based,attri,discussion & demonstration
+304,10.1017/pan.2019.26,en,nlp,Rule-based,quali,discussion & demonstration
+305,10.1017/pan.2019.49,en,nlp,Rule-based,quali,discussion & demonstration
+306,10.1017/pan.2020.1,en,plg,Unsupervised,senti,discussion & demonstration
+307,10.1017/S0003055416000769,ar,lnk,Rule-based,other,no validation attempt
+308,10.1017/S0003055417000144,cn,sml,Supervised,types,discussion & demonstration
+309,10.1017/S0003055417000302,en,sof,Rule-based,senti,discussion & demonstration
+310,10.1017/S0003055417000375,en,dcs,Unsupervised,quali,discussion & demonstration
+311,10.1017/S0003055417000399,jp,dcs,Unsupervised,quali,discussion & demonstration
+312,10.1017/S0003055417000570,en,lda,Unsupervised,theme,discussion & demonstration
+313,10.1017/S0003055418000242,cn,key,Rule-based,types,no validation attempt
+314,10.1017/S0003055418000242,cn,key,Rule-based,senti,no validation attempt
+315,10.1017/S0003055418000643,en,man,Manual,types,discussion
+316,10.1017/S0003055418000643,en,man,Manual,theme,discussion
+317,10.1017/S0003055418000643,en,dct,Rule-based,types,discussion
+318,10.1017/S0003055418000643,en,dct,Rule-based,theme,discussion
+319,10.1017/S0003055418000643,en,sml,Supervised,types,discussion
+320,10.1017/S0003055418000643,en,sml,Supervised,theme,discussion
+321,10.1017/S0003055418000801,en,dcs,Unsupervised,theme,no validation attempt
+322,10.1017/S0003055418000801,en,dcs,Unsupervised,attri,no validation attempt
+323,10.1017/S0003055418000886,en,dct,Rule-based,theme,discussion & demonstration
+324,10.1017/S0003055418000886,en,dct,Rule-based,senti,discussion & demonstration
+325,10.1017/S0003055418000886,en,dct,Rule-based,attri,discussion & demonstration
+326,10.1017/S0003055418000965,en,lda,Unsupervised,theme,discussion & demonstration
+327,10.1017/S0003055418000965,en,lda,Unsupervised,quali,discussion & demonstration
+328,10.1017/S0003055419000182,en,lda,Unsupervised,theme,discussion & demonstration
+329,10.1017/S0003055419000522,en,sml,Supervised,const,discussion & demonstration
+330,10.1017/S0003055419000650,ar,sml,Supervised,theme,discussion & demonstration
+331,10.1017/S0003055419000650,ar,sml,Supervised,senti,discussion & demonstration
+332,10.1017/S0003055419000856,pt,dct,Rule-based,theme,discussion
+333,10.1017/S000305542000009X,en,dct,Rule-based,theme,no validation attempt
+334,10.1017/S0003055420000258,en,nlp,Rule-based,types,discussion & demonstration
+335,10.1017/S0003055420000258,en,nlp,Rule-based,theme,discussion & demonstration
+336,10.1017/S0003055420000258,en,sml,Supervised,types,discussion & demonstration
+337,10.1017/S0003055420000258,en,sml,Supervised,theme,discussion & demonstration
+338,10.1017/S000305542000026X,es,sml,Supervised,other,discussion & demonstration
+339,10.1017/S0007123414000192,en,dcs,Unsupervised,quali,discussion & demonstration
+340,10.1017/S0007123414000428,es,lda,Unsupervised,theme,demonstration
+341,10.1017/S0007123414000362,en,nlp,Rule-based,quali,no validation attempt
+342,10.1017/S0007123417000400,de,man,Manual,thing,discussion
+343,10.1017/S0007123417000400,de,man,Manual,theme,discussion
+344,10.1017/S0007123417000400,de,man,Manual,other,discussion
+345,10.1017/S0007123417000400,de,plg,Unsupervised,thing,discussion
+346,10.1017/S0007123417000400,de,plg,Unsupervised,theme,discussion
+347,10.1017/S0007123417000400,de,plg,Unsupervised,other,discussion
+348,10.1017/S0007123418000145,en,key,Rule-based,forma,no validation attempt
+349,10.1017/S0007123417000795,nl,dct,Rule-based,attri,discussion
+350,10.1017/S0020818318000188,en,lda,Unsupervised,theme,no validation attempt
+351,10.1017/S0020818318000383,he,dct,Rule-based,attri,no validation attempt
+352,10.1080/00913367.2017.1297273,en,nlp,Rule-based,theme,discussion
+353,10.1080/00913367.2017.1297273,en,lda,Unsupervised,theme,discussion
+354,10.1080/00913367.2019.1567409,en,key,Rule-based,theme,discussion
+355,10.1080/00913367.2019.1567409,en,key,Rule-based,relas,discussion
+356,10.1080/01972243.2018.1463334,nl,key,Rule-based,thing,discussion & demonstration
+357,10.1080/02650487.2019.1601910,kr,nlp,Rule-based,theme,no validation attempt
+358,10.1080/02650487.2019.1601910,kr,nlp,Rule-based,senti,no validation attempt
+359,10.1080/02650487.2019.1622345,en,key,Rule-based,const,no validation attempt
+360,10.1080/02650487.2019.1622345,en,key,Rule-based,props,no validation attempt
+361,10.1080/03637751.2016.1250932,en,nlp,Rule-based,thing,no validation attempt
+362,10.1080/03637751.2016.1250932,en,nlp,Rule-based,const,no validation attempt
+363,10.1080/03637751.2019.1641730,kr,man,Manual,forma,discussion
+364,10.1080/03637751.2019.1641730,kr,man,Manual,thing,discussion
+365,10.1080/03637751.2019.1641730,kr,lnk,Rule-based,forma,discussion
+366,10.1080/03637751.2019.1641730,kr,lnk,Rule-based,thing,discussion
+367,10.1080/09644016.2015.1105177,en,sml,Supervised,theme,discussion
+368,10.1080/09644016.2015.1118790,en,key,Rule-based,forma,no validation attempt
+369,10.1080/09644016.2016.1263433,en,dct,Rule-based,senti,no validation attempt
+370,10.1080/09644016.2016.1274504,en,dct,Rule-based,theme,no validation attempt
+371,10.1080/09644016.2016.1274504,en,dct,Rule-based,senti,no validation attempt
+372,10.1080/09644016.2016.1274504,en,dct,Rule-based,frame,no validation attempt
+373,10.1080/09644016.2018.1425106,en,dct,Rule-based,senti,discussion
+374,10.1080/09644016.2018.1425106,en,dct,Rule-based,frame,discussion
+375,10.1080/09644016.2018.1560743,en,sof,Rule-based,senti,discussion & demonstration
+376,10.1080/09644016.2019.1565462,en,key,Rule-based,const,no validation attempt
+377,10.1080/09644016.2019.1565468,en,dct,Rule-based,frame,no validation attempt
+378,10.1080/09644016.2020.1778990,en,dct,Rule-based,theme,no validation attempt
+379,10.1080/09644016.2020.1786333,en,lda,Unsupervised,theme,no validation attempt
+380,10.1080/10584609.2014.969465,en,dct,Rule-based,const,discussion
+381,10.1080/10584609.2014.969465,en,sof,Rule-based,const,discussion
+382,10.1080/10584609.2016.1265619,de,man,Manual,relas,discussion
+383,10.1080/10584609.2016.1265619,de,plg,Unsupervised,relas,discussion
+384,10.1080/10584609.2016.1271374,nl,dct,Rule-based,theme,discussion & demonstration
+385,10.1080/10584609.2017.1289288,en,key,Rule-based,theme,no validation attempt
+386,10.1080/10584609.2017.1334728,de,lda,Unsupervised,theme,no validation attempt
+387,10.1080/10584609.2017.1334728,de,sml,Supervised,theme,no validation attempt
+388,10.1080/10584609.2017.1384771,nl,lda,Unsupervised,theme,discussion & demonstration
+389,10.1080/10584609.2018.1452811,en,key,Rule-based,theme,no validation attempt
+390,10.1080/10584609.2018.1490836,cn,key,Rule-based,thing,discussion
+391,10.1080/10584609.2018.1504840,en,sml,Supervised,theme,discussion & demonstration
+392,10.1080/10584609.2018.1517843,en,dct,Rule-based,const,discussion & demonstration
+393,10.1080/10584609.2018.1526238,de,lnk,Rule-based,theme,no validation attempt
+394,10.1080/10584609.2018.1526238,de,bot,Other,theme,no validation attempt
+395,10.1080/10584609.2019.1660440,es,sof,Rule-based,pragm,discussion & demonstration
+396,10.1080/10584609.2019.1661890,de,dct,Rule-based,const,discussion & demonstration
+397,10.1080/10584609.2019.1661890,de,dct,Rule-based,attri,discussion & demonstration
+398,10.1080/10584609.2019.1663322,en,man,Manual,thing,discussion & demonstration
+399,10.1080/10584609.2019.1663322,en,man,Manual,types,discussion & demonstration
+400,10.1080/10584609.2019.1663322,en,lnk,Rule-based,thing,discussion & demonstration
+401,10.1080/10584609.2019.1663322,en,lnk,Rule-based,types,discussion & demonstration
+402,10.1080/10584609.2020.1713269,en,dct,Rule-based,thing,discussion & demonstration
+403,10.1080/10584609.2020.1713269,en,dct,Rule-based,theme,discussion & demonstration
+404,10.1080/10584609.2020.1713269,en,dct,Rule-based,attri,discussion & demonstration
+405,10.1080/10584609.2020.1713269,en,sml,Supervised,thing,discussion & demonstration
+406,10.1080/10584609.2020.1713269,en,sml,Supervised,theme,discussion & demonstration
+407,10.1080/10584609.2020.1713269,en,sml,Supervised,attri,discussion & demonstration
+408,10.1080/10584609.2020.1723753,en,dct,Rule-based,thing,no validation attempt
+409,10.1080/10584609.2020.1723753,en,dct,Rule-based,attri,no validation attempt
+410,10.1080/10584609.2020.1723753,en,dct,Rule-based,props,no validation attempt
+411,10.1080/10584609.2020.1723753,en,sof,Rule-based,thing,no validation attempt
+412,10.1080/10584609.2020.1723753,en,sof,Rule-based,attri,no validation attempt
+413,10.1080/10584609.2020.1723753,en,sof,Rule-based,props,no validation attempt
+414,10.1080/10584609.2020.1744779,en,man,Manual,pragm,discussion
+415,10.1080/10584609.2020.1744779,en,dct,Rule-based,pragm,discussion
+416,10.1080/10584609.2020.1763527,en,sof,Rule-based,senti,no validation attempt
+417,10.1080/10584609.2020.1763528,nl,man,Manual,relas,discussion & demonstration
+418,10.1080/10584609.2020.1763528,nl,plg,Unsupervised,relas,discussion & demonstration
+419,10.1080/13501763.2018.1428215,en,plg,Unsupervised,quali,discussion
+420,10.1080/13501763.2020.1712457,en,lda,Unsupervised,theme,discussion & demonstration
+421,10.1080/13501763.2020.1797144,en,man,Manual,thing,discussion & demonstration
+422,10.1080/13501763.2020.1797144,en,lnk,Rule-based,thing,discussion & demonstration
+423,10.1080/13563467.2020.1806221,en,man,Manual,theme,discussion & demonstration
+424,10.1080/13563467.2020.1806221,en,sml,Supervised,theme,discussion & demonstration
+425,10.1080/1461670X.2015.1022204,no,man,Manual,forma,NA
+426,10.1080/1461670X.2015.1022204,no,man,Manual,theme,NA
+427,10.1080/1461670X.2015.1022204,no,nlp,Rule-based,forma,NA
+428,10.1080/1461670X.2015.1022204,no,nlp,Rule-based,theme,NA
+429,10.1080/1461670X.2015.1089183,dk,key,Rule-based,theme,discussion & demonstration
+430,10.1080/1461670X.2015.1089183,dk,key,Rule-based,senti,discussion & demonstration
+431,10.1080/1461670X.2015.1089183,dk,sof,Rule-based,theme,discussion & demonstration
+432,10.1080/1461670X.2015.1089183,dk,sof,Rule-based,senti,discussion & demonstration
+433,10.1080/1461670X.2015.1099460,en,sof,Rule-based,const,no validation attempt
+434,10.1080/1461670X.2016.1168711,de,key,Rule-based,theme,no validation attempt
+435,10.1080/1461670X.2016.1190663,nl,nlp,Rule-based,relas,discussion & demonstration
+436,10.1080/1461670X.2016.1190663,nl,plg,Unsupervised,relas,discussion & demonstration
+437,10.1080/1461670X.2016.1209977,en,man,Manual,theme,NA
+438,10.1080/1461670X.2016.1209977,en,man,Manual,quali,NA
+439,10.1080/1461670X.2016.1209977,en,man,Manual,pragm,NA
+440,10.1080/1461670X.2016.1209977,en,dct,Rule-based,theme,NA
+441,10.1080/1461670X.2016.1209977,en,dct,Rule-based,quali,NA
+442,10.1080/1461670X.2016.1209977,en,dct,Rule-based,pragm,NA
+443,10.1080/1461670X.2017.1299033,nl,man,Manual,const,NA
+444,10.1080/1461670X.2017.1299033,nl,man,Manual,quali,NA
+445,10.1080/1461670X.2017.1299033,nl,man,Manual,props,NA
+446,10.1080/1461670X.2017.1299033,nl,key,Rule-based,const,NA
+447,10.1080/1461670X.2017.1299033,nl,key,Rule-based,quali,NA
+448,10.1080/1461670X.2017.1299033,nl,key,Rule-based,props,NA
+449,10.1080/1461670X.2017.1338154,nl,plg,Unsupervised,thing,no validation attempt
+450,10.1080/1461670X.2017.1338154,nl,plg,Unsupervised,relas,no validation attempt
+451,10.1080/1461670X.2017.1349547,de,man,Manual,theme,NA
+452,10.1080/1461670X.2017.1349547,de,dct,Rule-based,theme,NA
+453,10.1080/1461670X.2017.1389295,en,key,Rule-based,quali,no validation attempt
+454,10.1080/1461670X.2017.1418672,nl,nlp,Rule-based,senti,discussion & demonstration
+455,10.1080/1461670X.2017.1418672,nl,nlp,Rule-based,quali,discussion & demonstration
+456,10.1080/1461670X.2017.1418672,nl,sml,Supervised,senti,discussion & demonstration
+457,10.1080/1461670X.2017.1418672,nl,sml,Supervised,quali,discussion & demonstration
+458,10.1080/1461670X.2018.1423632,nl,lda,Unsupervised,theme,no validation attempt
+459,10.1080/1461670X.2018.1423632,nl,lda,Unsupervised,frame,no validation attempt
+460,10.1080/1461670X.2019.1601029,cn,lda,Unsupervised,theme,discussion & demonstration
+461,10.1080/1461670X.2019.1601029,cn,sml,Supervised,theme,discussion & demonstration
+462,10.1080/1461670X.2019.1612266,nl,key,Rule-based,thing,no validation attempt
+463,10.1080/1461670X.2019.1612266,nl,key,Rule-based,senti,no validation attempt
+464,10.1080/1461670X.2019.1612266,nl,sof,Rule-based,thing,no validation attempt
+465,10.1080/1461670X.2019.1612266,nl,sof,Rule-based,senti,no validation attempt
+466,10.1080/1461670X.2019.1620114,nl,dct,Rule-based,const,discussion & demonstration
+467,10.1080/1461670X.2020.1745665,en,nlp,Rule-based,frame,discussion
+468,10.1080/1461670X.2020.1745665,en,sna,Unsupervised,frame,discussion
+469,10.1080/1461670X.2020.1753092,en,man,Manual,const,NA
+470,10.1080/1461670X.2020.1753092,en,man,Manual,theme,NA
+471,10.1080/1461670X.2020.1753092,en,lda,Unsupervised,const,NA
+472,10.1080/1461670X.2020.1753092,en,lda,Unsupervised,theme,NA
+473,10.1080/1461670X.2020.1761865,de,man,Manual,theme,NA
+474,10.1080/1461670X.2020.1761865,de,man,Manual,relas,NA
+475,10.1080/1461670X.2020.1761865,de,plg,Unsupervised,theme,NA
+476,10.1080/1461670X.2020.1761865,de,plg,Unsupervised,relas,NA
+477,10.1080/1461670X.2020.1788974,cn,dct,Rule-based,theme,discussion & demonstration
+478,10.1080/1461670X.2020.1790027,en,key,Rule-based,theme,discussion
+479,10.1080/1461670X.2020.1790027,en,key,Rule-based,senti,discussion
+480,10.1080/1461670X.2020.1790027,en,sof,Rule-based,theme,discussion
+481,10.1080/1461670X.2020.1790027,en,sof,Rule-based,senti,discussion
+482,10.1080/19312458.2015.1118447,en,nlp,Rule-based,theme,no validation attempt
+483,10.1080/19312458.2015.1118447,en,nlp,Rule-based,frame,no validation attempt
+484,10.1080/19312458.2015.1118447,en,sna,Unsupervised,theme,no validation attempt
+485,10.1080/19312458.2015.1118447,en,sna,Unsupervised,frame,no validation attempt
+486,10.1080/19312458.2016.1276894,de,man,Manual,const,discussion & demonstration
+487,10.1080/19312458.2016.1276894,de,man,Manual,props,discussion & demonstration
+488,10.1080/19312458.2016.1276894,de,key,Rule-based,const,discussion & demonstration
+489,10.1080/19312458.2016.1276894,de,key,Rule-based,props,discussion & demonstration
+490,10.1080/19312458.2018.1430754,en,lda,Unsupervised,theme,discussion & demonstration
+491,10.1080/19312458.2018.1430755,en,sml,Supervised,pragm,discussion
+492,10.1080/19312458.2018.1447656,en,man,Manual,const,discussion & demonstration
+493,10.1080/19312458.2018.1447656,en,man,Manual,attri,discussion & demonstration
+494,10.1080/19312458.2018.1447656,en,dct,Rule-based,const,discussion & demonstration
+495,10.1080/19312458.2018.1447656,en,dct,Rule-based,attri,discussion & demonstration
+496,10.1080/19312458.2018.1455817,de,sml,Supervised,thing,discussion & demonstration
+497,10.1080/19312458.2018.1455817,de,sml,Supervised,const,discussion & demonstration
+498,10.1080/19312458.2018.1455817,de,sml,Supervised,senti,discussion & demonstration
+499,10.1080/19312458.2018.1536972,en,man,Manual,relas,discussion & demonstration
+500,10.1080/19312458.2018.1536972,en,plg,Unsupervised,relas,discussion & demonstration
+501,10.1080/19312458.2018.1536972,en,sml,Supervised,relas,discussion & demonstration
+502,10.1080/19312458.2018.1536973,en,nlp,Rule-based,thing,discussion & demonstration
+503,10.1080/19312458.2018.1536973,en,nlp,Rule-based,const,discussion & demonstration
+504,10.1080/19312458.2018.1536973,en,nlp,Rule-based,senti,discussion & demonstration
+505,10.1080/19312458.2018.1536973,en,nlp,Rule-based,attri,discussion & demonstration
+506,10.1080/19312458.2018.1536973,en,nlp,Rule-based,props,discussion & demonstration
+507,10.1080/19312458.2019.1639145,en,sna,Unsupervised,thing,no validation attempt
+508,10.1080/19312458.2019.1639145,en,sna,Unsupervised,frame,no validation attempt
+509,10.1080/19312458.2019.1639145,en,lda,Unsupervised,thing,no validation attempt
+510,10.1080/19312458.2019.1639145,en,lda,Unsupervised,frame,no validation attempt
+511,10.1080/19312458.2019.1650166,en,man,Manual,const,discussion & demonstration
+512,10.1080/19312458.2019.1650166,en,sml,Supervised,const,discussion & demonstration
+513,10.1080/19312458.2019.1671966,nl,man,Manual,senti,discussion & demonstration
+514,10.1080/19312458.2019.1671966,nl,nlp,Rule-based,senti,discussion & demonstration
+515,10.1080/21670811.2015.1133249,en,lda,Unsupervised,theme,no validation attempt
+516,10.1080/21670811.2017.1293487,en,nlp,Rule-based,thing,discussion & demonstration
+517,10.1080/21670811.2017.1293487,en,dct,Rule-based,thing,discussion & demonstration
+518,10.1080/21670811.2017.1293487,en,sml,Supervised,thing,discussion & demonstration
+519,10.1080/21670811.2017.1340094,en,lnk,Rule-based,theme,no validation attempt
+520,10.1080/21670811.2017.1340094,en,lda,Unsupervised,theme,no validation attempt
+521,10.1080/21670811.2017.1342209,gr,man,Manual,thing,discussion
+522,10.1080/21670811.2017.1342209,gr,man,Manual,const,discussion
+523,10.1080/21670811.2017.1342209,gr,man,Manual,types,discussion
+524,10.1080/21670811.2017.1342209,gr,man,Manual,relas,discussion
+525,10.1080/21670811.2017.1342209,gr,plg,Unsupervised,thing,discussion
+526,10.1080/21670811.2017.1342209,gr,plg,Unsupervised,const,discussion
+527,10.1080/21670811.2017.1342209,gr,plg,Unsupervised,types,discussion
+528,10.1080/21670811.2017.1342209,gr,plg,Unsupervised,relas,discussion
+529,10.1080/21670811.2018.1493939,nl,nlp,Rule-based,senti,discussion & demonstration
+530,10.1080/21670811.2018.1493939,nl,nlp,Rule-based,quali,discussion & demonstration
+531,10.1080/21670811.2018.1493939,nl,sof,Rule-based,senti,discussion & demonstration
+532,10.1080/21670811.2018.1493939,nl,sof,Rule-based,quali,discussion & demonstration
+533,10.1080/21670811.2018.1510741,dk,lda,Unsupervised,forma,no validation attempt
+534,10.1080/21670811.2018.1510741,dk,lda,Unsupervised,theme,no validation attempt
+535,10.1080/21670811.2018.1510741,dk,lda,Unsupervised,relas,no validation attempt
+536,10.1080/21670811.2018.1512879,en,lda,Unsupervised,other,no validation attempt
+537,10.1080/21670811.2019.1682629,en,lda,Unsupervised,theme,discussion & demonstration
+538,10.1080/21670811.2020.1761264,en,man,Manual,forma,discussion
+539,10.1080/21670811.2020.1761264,en,man,Manual,quali,discussion
+540,10.1080/21670811.2020.1761264,en,man,Manual,frame,discussion
+541,10.1080/21670811.2020.1761264,en,sof,Rule-based,forma,discussion
+542,10.1080/21670811.2020.1761264,en,sof,Rule-based,quali,discussion
+543,10.1080/21670811.2020.1761264,en,sof,Rule-based,frame,discussion
+544,10.1080/21670811.2020.1767509,nl,sml,Supervised,theme,discussion & demonstration
+545,10.1093/jcmc/zmy006,en,sof,Rule-based,const,no validation attempt
+546,10.1093/jcmc/zmy006,en,sof,Rule-based,senti,no validation attempt
+547,10.1093/jcmc/zmy006,en,sof,Rule-based,quali,no validation attempt
+548,10.1093/jcmc/zmz009,en,lnk,Rule-based,theme,discussion & demonstration
+549,10.1093/jcmc/zmz009,en,sml,Supervised,theme,discussion & demonstration
+550,10.1093/jcmc/zmz014,en,nlp,Rule-based,const,discussion & demonstration
+551,10.1093/jcmc/zmz014,en,nlp,Rule-based,relas,discussion & demonstration
+552,10.1093/jcmc/zmz014,en,dct,Rule-based,const,discussion & demonstration
+553,10.1093/jcmc/zmz014,en,dct,Rule-based,relas,discussion & demonstration
+554,10.1093/jcmc/zmz014,en,sof,Rule-based,const,discussion & demonstration
+555,10.1093/jcmc/zmz014,en,sof,Rule-based,relas,discussion & demonstration
+556,10.1093/jcmc/zmz014,en,lda,Unsupervised,const,discussion & demonstration
+557,10.1093/jcmc/zmz014,en,lda,Unsupervised,relas,discussion & demonstration
+558,10.1093/joc/jqy007,es,lnk,Rule-based,const,no validation attempt
+559,10.1093/joc/jqy007,es,lnk,Rule-based,other,no validation attempt
+560,10.1093/joc/jqy032,en,key,Rule-based,const,discussion
+561,10.1093/joc/jqz023,en,sof,Rule-based,attri,discussion & demonstration
+562,10.1093/joc/jqz023,en,sof,Rule-based,props,discussion & demonstration
+563,10.1093/joc/jqz023,en,sof,Rule-based,pragm,discussion & demonstration
+564,10.1093/joc/jqz033,en,sml,Supervised,const,discussion & demonstration
+565,10.1093/joc/jqz033,en,sml,Supervised,props,discussion & demonstration
+566,10.1093/jopart/muu052,kr,sna,Unsupervised,quali,no validation attempt
+567,10.1093/jopart/muy033,en,man,Manual,quali,no validation attempt
+568,10.1093/jopart/muy033,en,plg,Unsupervised,quali,no validation attempt
+569,10.1093/jopart/muy045,en,lda,Unsupervised,theme,discussion & demonstration
+570,10.1093/jopart/muy060,en,sml,Supervised,quali,discussion & demonstration
+571,10.1093/pan/mpw017,en,dcs,Unsupervised,quali,discussion & demonstration
+572,10.1093/poq/nfw007,en,sml,Supervised,theme,discussion & demonstration
+573,10.1093/poq/nfw039,dk,dct,Rule-based,const,discussion & demonstration
+574,10.1093/poq/nfw039,dk,dct,Rule-based,senti,discussion & demonstration
+575,10.1093/poq/nfy034,en,man,Manual,thing,no validation attempt
+576,10.1093/poq/nfy034,en,man,Manual,theme,no validation attempt
+577,10.1093/poq/nfy034,en,man,Manual,quali,no validation attempt
+578,10.1093/poq/nfy034,en,nlp,Rule-based,thing,no validation attempt
+579,10.1093/poq/nfy034,en,nlp,Rule-based,theme,no validation attempt
+580,10.1093/poq/nfy034,en,nlp,Rule-based,quali,no validation attempt
+581,10.1093/poq/nfy034,en,lda,Unsupervised,thing,no validation attempt
+582,10.1093/poq/nfy034,en,lda,Unsupervised,theme,no validation attempt
+583,10.1093/poq/nfy034,en,lda,Unsupervised,quali,no validation attempt
+584,10.1093/ser/mwz020,en,lda,Unsupervised,theme,discussion & demonstration
+585,10.1111/ajps.12274,en,sna,Unsupervised,other,discussion & demonstration
+586,10.1111/ajps.12329,en,key,Rule-based,theme,no validation attempt
+587,10.1111/ajps.12346,en,lda,Unsupervised,theme,no validation attempt
+588,10.1111/ajps.12459,ar,lda,Unsupervised,theme,discussion & demonstration
+589,10.1111/ajps.12476,en,dct,Rule-based,quali,discussion & demonstration
+590,10.1111/ajps.12509,en,sml,Supervised,const,discussion & demonstration
+591,10.1111/ajps.12510,en,nlp,Rule-based,thing,discussion
+592,10.1111/ajps.12510,en,nlp,Rule-based,attri,discussion
+593,10.1111/ajps.12516,de,man,Manual,relas,discussion & demonstration
+594,10.1111/ajps.12516,de,plg,Unsupervised,relas,discussion & demonstration
+595,10.1111/ajps.12521,en,lda,Unsupervised,theme,discussion & demonstration
+596,10.1111/jcc4.12145,cn,nlp,Rule-based,const,no validation attempt
+597,10.1111/jcc4.12145,cn,key,Rule-based,const,no validation attempt
+598,10.1111/jcom.12245,es,sof,Rule-based,const,no validation attempt
+599,10.1111/jcom.12266,nl,key,Rule-based,thing,discussion & demonstration
+600,10.1111/jcom.12311,en,dct,Rule-based,thing,no validation attempt
+601,10.1111/jcom.12311,en,dct,Rule-based,theme,no validation attempt
+602,10.1111/jcom.12327,se,key,Rule-based,theme,discussion
+603,10.1111/pops.12415,en,key,Rule-based,const,no validation attempt
+604,10.1111/pops.12415,en,sof,Rule-based,const,no validation attempt
+605,10.1111/pops.12539,en,dct,Rule-based,quali,discussion
+606,10.1111/pops.12584,en,nlp,Rule-based,senti,discussion
+607,10.1111/pops.12584,en,nlp,Rule-based,quali,discussion
+608,10.1111/pops.12693,de,man,Manual,senti,discussion & demonstration
+609,10.1111/pops.12693,de,nlp,Rule-based,senti,discussion & demonstration
+610,10.1111/psj.12110,en,lda,Unsupervised,theme,discussion
+611,10.1111/psj.12119,en,man,Manual,const,discussion & demonstration
+612,10.1111/psj.12119,en,man,Manual,theme,discussion & demonstration
+613,10.1111/psj.12119,en,dct,Rule-based,const,discussion & demonstration
+614,10.1111/psj.12119,en,dct,Rule-based,theme,discussion & demonstration
+615,10.1111/psj.12134,dk,lnk,Rule-based,other,no validation attempt
+616,10.1111/psj.12175,en,man,Manual,relas,no validation attempt
+617,10.1111/psj.12175,en,nlp,Rule-based,relas,no validation attempt
+618,10.1111/psj.12210,en,lnk,Rule-based,other,no validation attempt
+619,10.1111/psj.12245,dk,sml,Supervised,theme,discussion
+620,10.1111/psj.12255,en,man,Manual,thing,discussion
+621,10.1111/psj.12255,en,man,Manual,const,discussion
+622,10.1111/psj.12255,en,man,Manual,quali,discussion
+623,10.1111/psj.12255,en,key,Rule-based,thing,discussion
+624,10.1111/psj.12255,en,key,Rule-based,const,discussion
+625,10.1111/psj.12255,en,key,Rule-based,quali,discussion
+626,10.1111/psj.12255,en,sof,Rule-based,thing,discussion
+627,10.1111/psj.12255,en,sof,Rule-based,const,discussion
+628,10.1111/psj.12255,en,sof,Rule-based,quali,discussion
+629,10.1111/psj.12257,en,plg,Unsupervised,quali,discussion & demonstration
+630,10.1111/psj.12266,en,nlp,Rule-based,thing,no validation attempt
+631,10.1111/psj.12266,en,nlp,Rule-based,attri,no validation attempt
+632,10.1111/psj.12284,en,man,Manual,quali,discussion & demonstration
+633,10.1111/psj.12284,en,plg,Unsupervised,quali,discussion & demonstration
+634,10.1111/psj.12285,en,nlp,Rule-based,theme,discussion
+635,10.1111/psj.12285,en,nlp,Rule-based,attri,discussion
+636,10.1111/psj.12285,en,key,Rule-based,theme,discussion
+637,10.1111/psj.12285,en,key,Rule-based,attri,discussion
+638,10.1111/psj.12410,en,lda,Unsupervised,theme,discussion & demonstration
+639,10.1111/psj.12410,en,lda,Unsupervised,frame,discussion & demonstration
+640,10.1111/rego.12199,en,nlp,Rule-based,thing,discussion & demonstration
+641,10.1111/rego.12199,en,nlp,Rule-based,attri,discussion & demonstration
+642,10.1111/rego.12282,es,lda,Unsupervised,types,discussion & demonstration
+643,10.1111/rego.12312,en,sml,Supervised,attri,discussion & demonstration
+644,10.1111/rego.12346,en,plg,Unsupervised,quali,discussion & demonstration
+645,10.1111/rego.12346,en,plg,Unsupervised,relas,discussion & demonstration
+646,10.1111/sltb.12569,en,man,Manual,quali,discussion & demonstration
+647,10.1111/sltb.12569,en,sof,Rule-based,quali,discussion & demonstration
+648,10.1111/sltb.12569,en,lda,Unsupervised,quali,discussion & demonstration
+649,10.1111/sltb.12642,en,lnk,Rule-based,attri,discussion & demonstration
+650,10.1111/sltb.12642,en,dct,Rule-based,attri,discussion & demonstration
+651,10.1111/sltb.12642,en,sml,Supervised,attri,discussion & demonstration
+652,10.1146/annurev-polisci-052615-025542,en,lda,Unsupervised,theme,discussion
+653,10.1162/glep_a_00480,en,man,Manual,theme,discussion
+654,10.1162/glep_a_00480,en,dct,Rule-based,theme,discussion
+655,10.1162/glep_a_00480,en,dcs,Unsupervised,theme,discussion
+656,10.1177/0010414018758765,vn,lda,Unsupervised,theme,discussion & demonstration
+657,10.1177/0010414018774354,th,man,Manual,forma,no validation attempt
+658,10.1177/0010414018784059,en,man,Manual,thing,no validation attempt
+659,10.1177/0010414018784059,en,man,Manual,attri,no validation attempt
+660,10.1177/0010414018797942,en,dct,Rule-based,senti,discussion
+661,10.1177/0010414019843567,pt,lda,Unsupervised,theme,no validation attempt
+662,10.1177/0010414019858964,pt,lda,Unsupervised,thing,no validation attempt
+663,10.1177/0010414019897686,en,dct,Rule-based,theme,no validation attempt
+664,10.1177/0010414020912267,cn,lda,Unsupervised,theme,discussion
+665,10.1177/0093650216644027,nl,man,Manual,frame,discussion
+666,10.1177/0093650216644027,nl,lda,Unsupervised,frame,discussion
+667,10.1177/0093650217719177,en,dct,Rule-based,thing,no validation attempt
+668,10.1177/0093650217719177,en,dct,Rule-based,senti,no validation attempt
+669,10.1177/0093650217719177,en,dct,Rule-based,quali,no validation attempt
+670,10.1177/0093650217719177,en,dct,Rule-based,props,no validation attempt
+671,10.1177/0093650217719177,en,sof,Rule-based,thing,no validation attempt
+672,10.1177/0093650217719177,en,sof,Rule-based,senti,no validation attempt
+673,10.1177/0093650217719177,en,sof,Rule-based,quali,no validation attempt
+674,10.1177/0093650217719177,en,sof,Rule-based,props,no validation attempt
+675,10.1177/0093650217725870,en,nlp,Rule-based,senti,no validation attempt
+676,10.1177/0093650218777177,en,sof,Rule-based,thing,no validation attempt
+677,10.1177/0093650218777177,en,sof,Rule-based,theme,no validation attempt
+678,10.1177/0093650218777177,en,sof,Rule-based,attri,no validation attempt
+679,10.1177/0093650219836059,nl,sof,Rule-based,senti,discussion & demonstration
+680,10.1177/0267323116629879,nl,plg,Unsupervised,theme,no validation attempt
+681,10.1177/0267323116680132,fr,key,Rule-based,thing,no validation attempt
+682,10.1177/0267323116680132,fr,key,Rule-based,quali,no validation attempt
+683,10.1177/0267323117695735,en,dct,Rule-based,thing,discussion & demonstration
+684,10.1177/0267323117695735,en,dct,Rule-based,frame,discussion & demonstration
+685,10.1177/0267323117725971,de,dct,Rule-based,thing,discussion
+686,10.1177/0267323117725971,de,dct,Rule-based,theme,discussion
+687,10.1177/0267323118775297,en,man,Manual,thing,no validation attempt
+688,10.1177/0267323118775297,en,man,Manual,const,no validation attempt
+689,10.1177/0267323118775297,en,man,Manual,attri,no validation attempt
+690,10.1177/0267323118775297,en,man,Manual,frame,no validation attempt
+691,10.1177/0267323118775297,en,key,Rule-based,thing,no validation attempt
+692,10.1177/0267323118775297,en,key,Rule-based,const,no validation attempt
+693,10.1177/0267323118775297,en,key,Rule-based,attri,no validation attempt
+694,10.1177/0267323118775297,en,key,Rule-based,frame,no validation attempt
+695,10.1177/0267323119830050,en,nlp,Rule-based,const,no validation attempt
+696,10.1177/0267323119830050,en,nlp,Rule-based,quali,no validation attempt
+697,10.1177/0267323119830050,en,dct,Rule-based,const,no validation attempt
+698,10.1177/0267323119830050,en,dct,Rule-based,quali,no validation attempt
+699,10.1177/0267323119874253,sf,lda,Unsupervised,theme,discussion
+700,10.1177/0267323119894484,de,key,Rule-based,forma,no validation attempt
+701,10.1177/0267323119894484,de,key,Rule-based,pragm,no validation attempt
+702,10.1177/0267323120922068,de,lda,Unsupervised,theme,no validation attempt
+703,10.1177/0267323120940909,se,nlp,Rule-based,theme,no validation attempt
+704,10.1177/0267323120940909,se,nlp,Rule-based,senti,no validation attempt
+705,10.1177/0956797619894557,en,dct,Rule-based,quali,no validation attempt
+706,10.1177/0956797620902380,en,lnk,Rule-based,thing,no validation attempt
+707,10.1177/0956797620902380,en,lda,Unsupervised,thing,no validation attempt
+708,10.1177/1461444814567987,en,lda,Unsupervised,theme,no validation attempt
+709,10.1177/1461444816643504,fr,lda,Unsupervised,thing,no validation attempt
+710,10.1177/1461444816643504,fr,lda,Unsupervised,quali,no validation attempt
+711,10.1177/1461444816661552,en,sof,Rule-based,const,discussion & demonstration
+712,10.1177/1461444816668187,it,sna,Unsupervised,quali,discussion
+713,10.1177/1461444816668187,it,sna,Unsupervised,pragm,discussion
+714,10.1177/1461444817712086,en,dct,Rule-based,theme,no validation attempt
+715,10.1177/1461444817712086,en,sof,Rule-based,theme,no validation attempt
+716,10.1177/1461444817712723,en,nlp,Rule-based,forma,no validation attempt
+717,10.1177/1461444817712723,en,nlp,Rule-based,theme,no validation attempt
+718,10.1177/1461444817712723,en,nlp,Rule-based,frame,no validation attempt
+719,10.1177/1461444817744790,en,sna,Unsupervised,frame,no validation attempt
+720,10.1177/1461444818757205,en,sml,Supervised,const,discussion & demonstration
+721,10.1177/1461444818757205,en,sml,Supervised,quali,discussion & demonstration
+722,10.1177/1461444818788323,en,man,Manual,theme,discussion
+723,10.1177/1461444818788323,en,lnk,Rule-based,theme,discussion
+724,10.1177/1461444818788323,en,sna,Unsupervised,theme,discussion
+725,10.1177/1461444818807133,en,nlp,Rule-based,quali,no validation attempt
+726,10.1177/1461444818807133,en,dct,Rule-based,quali,no validation attempt
+727,10.1177/1461444818821376,ar,man,Manual,quali,discussion
+728,10.1177/1461444818821376,ar,man,Manual,attri,discussion
+729,10.1177/1461444818821376,ar,nlp,Rule-based,quali,discussion
+730,10.1177/1461444818821376,ar,nlp,Rule-based,attri,discussion
+731,10.1177/1461444819827030,en,lnk,Rule-based,theme,no validation attempt
+732,10.1177/1461444819827030,en,lnk,Rule-based,other,no validation attempt
+733,10.1177/1461444819893984,en,man,Manual,forma,discussion
+734,10.1177/1461444819893984,en,man,Manual,const,discussion
+735,10.1177/1461444819893984,en,man,Manual,senti,discussion
+736,10.1177/1461444819893984,en,man,Manual,pragm,discussion
+737,10.1177/1461444819893984,en,sof,Rule-based,forma,discussion
+738,10.1177/1461444819893984,en,sof,Rule-based,const,discussion
+739,10.1177/1461444819893984,en,sof,Rule-based,senti,discussion
+740,10.1177/1461444819893984,en,sof,Rule-based,pragm,discussion
+741,10.1177/1461444820903319,en,man,Manual,theme,discussion
+742,10.1177/1461444820903319,en,man,Manual,attri,discussion
+743,10.1177/1461444820903319,en,lnk,Rule-based,theme,discussion
+744,10.1177/1461444820903319,en,lnk,Rule-based,attri,discussion
+745,10.1177/1461444820912534,en,man,Manual,frame,discussion
+746,10.1177/1461444820912534,en,man,Manual,other,discussion
+747,10.1177/1461444820912534,en,lnk,Rule-based,frame,discussion
+748,10.1177/1461444820912534,en,lnk,Rule-based,other,discussion
+749,10.1177/1464884915595475,de,dct,Rule-based,theme,discussion & demonstration
+750,10.1177/1464884916636142,ar,nlp,Rule-based,thing,no validation attempt
+751,10.1177/1464884916636142,ar,nlp,Rule-based,theme,no validation attempt
+752,10.1177/1464884916636168,cn,lnk,Rule-based,thing,discussion & demonstration
+753,10.1177/1464884916636168,cn,lnk,Rule-based,types,discussion & demonstration
+754,10.1177/1464884916636168,cn,lnk,Rule-based,theme,discussion & demonstration
+755,10.1177/1464884916636168,cn,lnk,Rule-based,senti,discussion & demonstration
+756,10.1177/1464884916648097,gr,nlp,Rule-based,frame,no validation attempt
+757,10.1177/1464884916673387,en,man,Manual,types,no validation attempt
+758,10.1177/1464884916673387,en,man,Manual,quali,no validation attempt
+759,10.1177/1464884916673387,en,nlp,Rule-based,types,no validation attempt
+760,10.1177/1464884916673387,en,nlp,Rule-based,quali,no validation attempt
+761,10.1177/1464884916673387,en,sof,Rule-based,types,no validation attempt
+762,10.1177/1464884916673387,en,sof,Rule-based,quali,no validation attempt
+763,10.1177/1464884916680371,nl,nlp,Rule-based,thing,no validation attempt
+764,10.1177/1464884916680371,nl,dct,Rule-based,thing,no validation attempt
+765,10.1177/1464884917699034,en,nlp,Rule-based,thing,no validation attempt
+766,10.1177/1464884917699034,en,key,Rule-based,thing,no validation attempt
+767,10.1177/1464884917716699,nl,nlp,Rule-based,thing,discussion & demonstration
+768,10.1177/1464884917716699,nl,nlp,Rule-based,const,discussion & demonstration
+769,10.1177/1464884917716699,nl,nlp,Rule-based,types,discussion & demonstration
+770,10.1177/1464884917716699,nl,nlp,Rule-based,theme,discussion & demonstration
+771,10.1177/1464884917716699,nl,nlp,Rule-based,senti,discussion & demonstration
+772,10.1177/1464884917716699,nl,nlp,Rule-based,relas,discussion & demonstration
+773,10.1177/1464884917716699,nl,dct,Rule-based,thing,discussion & demonstration
+774,10.1177/1464884917716699,nl,dct,Rule-based,const,discussion & demonstration
+775,10.1177/1464884917716699,nl,dct,Rule-based,types,discussion & demonstration
+776,10.1177/1464884917716699,nl,dct,Rule-based,theme,discussion & demonstration
+777,10.1177/1464884917716699,nl,dct,Rule-based,senti,discussion & demonstration
+778,10.1177/1464884917716699,nl,dct,Rule-based,relas,discussion & demonstration
+779,10.1177/1464884917716699,nl,sof,Rule-based,thing,discussion & demonstration
+780,10.1177/1464884917716699,nl,sof,Rule-based,const,discussion & demonstration
+781,10.1177/1464884917716699,nl,sof,Rule-based,types,discussion & demonstration
+782,10.1177/1464884917716699,nl,sof,Rule-based,theme,discussion & demonstration
+783,10.1177/1464884917716699,nl,sof,Rule-based,senti,discussion & demonstration
+784,10.1177/1464884917716699,nl,sof,Rule-based,relas,discussion & demonstration
+785,10.1177/1464884917737212,en,key,Rule-based,theme,no validation attempt
+786,10.1177/1940161216673195,en,man,Manual,senti,no validation attempt
+787,10.1177/1940161216673195,en,man,Manual,attri,no validation attempt
+788,10.1177/1940161216673195,en,key,Rule-based,senti,no validation attempt
+789,10.1177/1940161216673195,en,key,Rule-based,attri,no validation attempt
+790,10.1177/1940161216673196,en,lda,Unsupervised,forma,no validation attempt
+791,10.1177/1940161216673196,en,lda,Unsupervised,quali,no validation attempt
+792,10.1177/1940161216673196,en,lda,Unsupervised,frame,no validation attempt
+793,10.1177/1940161217740696,nl,dct,Rule-based,thing,discussion
+794,10.1177/1940161217740696,nl,dct,Rule-based,attri,discussion
+795,10.1177/1940161218771893,en,sml,Supervised,frame,discussion & demonstration
+796,10.1177/1940161218771897,en,nlp,Rule-based,quali,discussion
+797,10.1177/1940161218809160,dk,man,Manual,thing,discussion
+798,10.1177/1940161218809160,dk,man,Manual,theme,discussion
+799,10.1177/1940161218809160,dk,man,Manual,frame,discussion
+800,10.1177/1940161218809160,dk,dct,Rule-based,thing,discussion
+801,10.1177/1940161218809160,dk,dct,Rule-based,theme,discussion
+802,10.1177/1940161218809160,dk,dct,Rule-based,frame,discussion
+803,10.1177/1940161218821509,en,key,Rule-based,thing,discussion & demonstration
+804,10.1177/1940161218821509,en,sof,Rule-based,thing,discussion & demonstration
+805,10.1177/1940161219832416,en,nlp,Rule-based,const,discussion & demonstration
+806,10.1177/1940161219832416,en,nlp,Rule-based,attri,discussion & demonstration
+807,10.1177/1940161219832416,en,key,Rule-based,const,discussion & demonstration
+808,10.1177/1940161219832416,en,key,Rule-based,attri,discussion & demonstration
+809,10.1177/1940161219895215,en,man,Manual,forma,discussion
+810,10.1177/1940161219895215,en,man,Manual,attri,discussion
+811,10.1177/1940161219895215,en,plg,Unsupervised,forma,discussion
+812,10.1177/1940161219895215,en,plg,Unsupervised,attri,discussion
+813,10.1177/1940161220935058,jp,lda,Unsupervised,theme,discussion & demonstration
+814,10.1177/1940161220935058,jp,lda,Unsupervised,quali,discussion & demonstration
+815,10.1177/1940161220935058,jp,lda,Unsupervised,attri,discussion & demonstration
+816,10.1177/1940161220935058,jp,dcs,Unsupervised,theme,discussion & demonstration
+817,10.1177/1940161220935058,jp,dcs,Unsupervised,quali,discussion & demonstration
+818,10.1177/1940161220935058,jp,dcs,Unsupervised,attri,discussion & demonstration
+819,10.1177/2050157920934509,en,lda,Unsupervised,theme,discussion & demonstration
+820,10.1177/2056305117691545,en,man,Manual,theme,no validation attempt
+821,10.1177/2056305117691545,en,lnk,Rule-based,theme,no validation attempt
+822,10.1177/2056305117733224,en,lnk,Rule-based,frame,no validation attempt
+823,10.1177/2056305118768299,en,key,Rule-based,forma,no validation attempt
+824,10.1177/2056305118768299,en,key,Rule-based,props,no validation attempt
+825,10.1177/2056305118776010,en,nlp,Rule-based,const,no validation attempt
+826,10.1177/2056305118776010,en,nlp,Rule-based,pragm,no validation attempt
+827,10.1177/2056305118776010,en,key,Rule-based,const,no validation attempt
+828,10.1177/2056305118776010,en,key,Rule-based,pragm,no validation attempt
+829,10.1177/2056305118784774,en,sml,Supervised,pragm,discussion & demonstration
+830,10.1177/2056305118785638,en,sof,Rule-based,thing,no validation attempt
+831,10.1177/2056305118785638,en,sof,Rule-based,const,no validation attempt
+832,10.1177/2056305118785638,en,sof,Rule-based,senti,no validation attempt
+833,10.1177/2056305118785638,en,lda,Unsupervised,thing,no validation attempt
+834,10.1177/2056305118785638,en,lda,Unsupervised,const,no validation attempt
+835,10.1177/2056305118785638,en,lda,Unsupervised,senti,no validation attempt
+836,10.1177/2056305118786720,de,man,Manual,theme,discussion
+837,10.1177/2056305118786720,de,man,Manual,other,discussion
+838,10.1177/2056305118786720,de,lnk,Rule-based,theme,discussion
+839,10.1177/2056305118786720,de,lnk,Rule-based,other,discussion
+840,10.1177/2056305118786720,de,lda,Unsupervised,theme,discussion
+841,10.1177/2056305118786720,de,lda,Unsupervised,other,discussion
+842,10.1177/2056305118789630,en,nlp,Rule-based,attri,no validation attempt
+843,10.1177/2056305118789630,en,nlp,Rule-based,pragm,no validation attempt
+844,10.1177/2056305118789630,en,key,Rule-based,attri,no validation attempt
+845,10.1177/2056305118789630,en,key,Rule-based,pragm,no validation attempt
+846,10.1177/2056305118790763,en,sna,Unsupervised,theme,no validation attempt
+847,10.1177/2056305119832588,en,key,Rule-based,const,no validation attempt
+848,10.1177/2056305119832588,en,sof,Rule-based,const,no validation attempt
+849,10.1177/2056305119841387,en,key,Rule-based,forma,no validation attempt
+850,10.1177/2056305119841387,en,key,Rule-based,const,no validation attempt
+851,10.1177/2056305119841387,en,key,Rule-based,theme,no validation attempt
+852,10.1177/2056305119841387,en,key,Rule-based,pragm,no validation attempt
+853,10.1177/2056305119841387,en,lda,Unsupervised,forma,no validation attempt
+854,10.1177/2056305119841387,en,lda,Unsupervised,const,no validation attempt
+855,10.1177/2056305119841387,en,lda,Unsupervised,theme,no validation attempt
+856,10.1177/2056305119841387,en,lda,Unsupervised,pragm,no validation attempt
+857,10.1177/2056305119861807,en,nlp,Rule-based,theme,discussion
+858,10.1177/2056305119861807,en,key,Rule-based,theme,discussion
+859,10.1177/2056305119866008,en,sna,Unsupervised,theme,discussion
+860,10.1177/2056305119866008,en,lda,Unsupervised,theme,discussion
+861,10.1177/2056305119881695,en,lda,Unsupervised,theme,discussion & demonstration
+862,10.1177/2056305119881695,en,lda,Unsupervised,pragm,discussion & demonstration
+863,10.1177/2056305119883427,en,man,Manual,theme,discussion
+864,10.1177/2056305119883427,en,lda,Unsupervised,theme,discussion
+865,10.1177/2056305119897320,en,nlp,Rule-based,thing,no validation attempt
+866,10.1177/2056305120912475,en,man,Manual,thing,discussion & demonstration
+867,10.1177/2056305120912475,en,man,Manual,senti,discussion & demonstration
+868,10.1177/2056305120912475,en,man,Manual,quali,discussion & demonstration
+869,10.1177/2056305120912475,en,lda,Unsupervised,thing,discussion & demonstration
+870,10.1177/2056305120912475,en,lda,Unsupervised,senti,discussion & demonstration
+871,10.1177/2056305120912475,en,lda,Unsupervised,quali,discussion & demonstration
+872,10.1177/2056305120912475,en,sml,Supervised,thing,discussion & demonstration
+873,10.1177/2056305120912475,en,sml,Supervised,senti,discussion & demonstration
+874,10.1177/2056305120912475,en,sml,Supervised,quali,discussion & demonstration
+875,10.1177/2056305120913990,en,sof,Rule-based,const,no validation attempt
+876,10.1177/2056305120916841,en,nlp,Rule-based,thing,no validation attempt
+877,10.1177/2056305120916841,en,nlp,Rule-based,const,no validation attempt
+878,10.1177/2056305120916841,en,nlp,Rule-based,senti,no validation attempt
+879,10.1177/2056305120916841,en,key,Rule-based,thing,no validation attempt
+880,10.1177/2056305120916841,en,key,Rule-based,const,no validation attempt
+881,10.1177/2056305120916841,en,key,Rule-based,senti,no validation attempt
+882,10.1177/2056305120916850,en,sml,Supervised,attri,discussion & demonstration
+883,10.3758/s13428-015-0639-3,es,sof,Rule-based,senti,no validation attempt
+884,10.3758/s13428-015-0649-1,cn,sof,Rule-based,forma,discussion
+885,10.3758/s13428-015-0651-7,en,nlp,Rule-based,other,discussion & demonstration
+886,10.3758/s13428-015-0651-7,en,sof,Rule-based,other,discussion & demonstration
+887,10.3758/s13428-015-0700-2,es,man,Manual,senti,NA
+888,10.3758/s13428-016-0743-z,en,sof,Rule-based,senti,discussion & demonstration
+889,10.3758/s13428-016-0749-6,en,sof,Rule-based,other,discussion & demonstration
+890,10.3758/s13428-016-0753-x,jp,sml,Supervised,forma,discussion & demonstration
+891,10.3758/s13428-016-0753-x,jp,sml,Supervised,quali,discussion & demonstration
+892,10.3758/s13428-017-0875-9,en,dct,Rule-based,senti,discussion & demonstration
+893,10.3758/s13428-017-0924-4,en,nlp,Rule-based,other,discussion & demonstration
+894,10.3758/s13428-017-0924-4,en,sof,Rule-based,other,discussion & demonstration
+895,10.3758/s13428-017-0926-2,en,nlp,Rule-based,other,discussion & demonstration
+896,10.3758/s13428-017-0931-5,en,nlp,Rule-based,theme,discussion & demonstration
+897,10.3758/s13428-017-0931-5,en,sna,Unsupervised,theme,discussion & demonstration
+898,10.3758/s13428-017-0962-y,es,man,Manual,quali,NA
+899,10.3758/s13428-017-0975-6,en,sof,Rule-based,senti,discussion & demonstration
+900,10.3758/s13428-017-0993-4,cn,nlp,Rule-based,other,no validation attempt
+901,10.3758/s13428-017-0993-4,cn,sof,Rule-based,other,no validation attempt
+902,10.3758/s13428-017-0994-3,ru,nlp,Rule-based,other,discussion & demonstration
+903,10.3758/s13428-017-0994-3,ru,sof,Rule-based,other,discussion & demonstration
+904,10.3758/s13428-017-0999-y,no,sof,Rule-based,senti,no validation attempt
+905,10.3758/s13428-018-1142-4,en,nlp,Rule-based,other,discussion & demonstration
+906,10.3758/s13428-018-1142-4,en,sof,Rule-based,other,discussion & demonstration
+907,10.3758/s13428-018-1177-6,en,lnk,Rule-based,senti,discussion & demonstration
+908,10.3758/s13428-019-01202-8,en,lda,Unsupervised,theme,discussion
+909,10.3758/s13428-019-01223-3,en,sof,Rule-based,other,discussion & demonstration
+910,10.3758/s13428-020-01433-0,en,dct,Rule-based,quali,discussion & demonstration
+911,10.3758/s13428-020-01450-z,fr,dct,Rule-based,quali,discussion & demonstration
+912,10.3758/s13428-020-01453-w,en,sof,Rule-based,relas,discussion & demonstration
+913,10.1002/poi3.128,en,man,Manual,theme,NA
+914,10.1002/poi3.155,cn,man,Manual,theme,NA
+915,10.1002/poi3.167,is,man,Manual,theme,NA
+916,10.1002/poi3.175,en,man,Manual,quali,NA
+917,10.1002/poi3.175,en,man,Manual,pragm,NA
+918,10.1002/poi3.191,cn,man,Manual,thing,NA
+919,10.1002/poi3.191,cn,man,Manual,senti,NA
+920,10.1002/poi3.191,cn,man,Manual,attri,NA
+921,10.1002/poi3.196,pt,man,Manual,pragm,NA
+922,10.1002/poi3.224,en,man,Manual,theme,NA
+923,10.1002/poi3.232,de,man,Manual,const,NA
+924,10.1002/poi3.232,de,man,Manual,quali,NA
+925,10.1002/poi3.232,de,man,Manual,pragm,NA
+926,10.1007/s11109-016-9346-8,en,man,Manual,senti,NA
+927,10.1007/s11109-020-09642-1,en,man,Manual,quali,NA
+928,10.1007/s11558-020-09404-y,en,man,Manual,attri,NA
+929,10.1016/j.chb.2015.07.050,en,man,Manual,attri,NA
+930,10.1016/j.chb.2015.08.023,en,man,Manual,attri,NA
+931,10.1016/j.chb.2017.03.024,en,man,Manual,quali,NA
+932,10.1016/j.chb.2017.04.007,en,man,Manual,quali,NA
+933,10.1016/j.chb.2019.03.024,en,man,Manual,attri,NA
+934,10.1016/j.chb.2019.03.030,en,man,Manual,attri,NA
+935,10.1016/j.chb.2019.106183,en,man,Manual,attri,NA
+936,10.1017/S0007123415000022,dk,man,Manual,thing,NA
+937,10.1017/S0007123415000022,dk,man,Manual,theme,NA
+938,10.1017/S0007123416000636,en,man,Manual,theme,NA
+939,10.1017/S0020818316000138,en,man,Manual,frame,NA
+940,10.1017/S0020818316000138,en,man,Manual,relas,NA
+941,10.1080/00913367.2015.1083918,en,man,Manual,forma,NA
+942,10.1080/00913367.2015.1083918,en,man,Manual,const,NA
+943,10.1080/00913367.2015.1083918,en,man,Manual,theme,NA
+944,10.1080/00913367.2015.1083918,en,man,Manual,quali,NA
+945,10.1080/00913367.2015.1083918,en,man,Manual,pragm,NA
+946,10.1080/00913367.2016.1172387,en,man,Manual,thing,NA
+947,10.1080/00913367.2016.1274924,en,man,Manual,const,NA
+948,10.1080/00913367.2016.1274924,en,man,Manual,quali,NA
+949,10.1080/01972243.2017.1354111,he,man,Manual,frame,NA
+950,10.1080/01972243.2018.1444253,it,man,Manual,theme,NA
+951,10.1080/01972243.2018.1542646,en,man,Manual,quali,NA
+952,10.1080/02650487.2016.1167812,en,man,Manual,forma,NA
+953,10.1080/02650487.2016.1167812,en,man,Manual,thing,NA
+954,10.1080/02650487.2016.1167812,en,man,Manual,types,NA
+955,10.1080/02650487.2016.1167812,en,man,Manual,theme,NA
+956,10.1080/02650487.2016.1167812,en,man,Manual,quali,NA
+957,10.1080/02650487.2016.1189250,gr,man,Manual,const,NA
+958,10.1080/02650487.2016.1247489,en,man,Manual,theme,NA
+959,10.1080/02650487.2016.1247489,en,man,Manual,props,NA
+960,10.1080/02650487.2016.1247489,en,man,Manual,pragm,NA
+961,10.1080/02650487.2017.1348329,en,man,Manual,const,NA
+962,10.1080/02650487.2017.1348329,en,man,Manual,props,NA
+963,10.1080/02650487.2017.1410000,de,man,Manual,forma,NA
+964,10.1080/02650487.2017.1410000,de,man,Manual,const,NA
+965,10.1080/02650487.2017.1410000,de,man,Manual,attri,NA
+966,10.1080/02650487.2018.1485214,nl,man,Manual,forma,NA
+967,10.1080/02650487.2018.1485214,nl,man,Manual,const,NA
+968,10.1080/02650487.2018.1485214,nl,man,Manual,quali,NA
+969,10.1080/02650487.2018.1485214,nl,man,Manual,pragm,NA
+970,10.1080/02650487.2020.1717856,en,man,Manual,theme,NA
+971,10.1080/03637751.2015.1030683,en,man,Manual,const,NA
+972,10.1080/03637751.2015.1030683,en,man,Manual,attri,NA
+973,10.1080/03637751.2017.1359748,en,man,Manual,theme,NA
+974,10.1080/03637751.2018.1501503,en,man,Manual,pragm,NA
+975,10.1080/03637751.2019.1621361,en,man,Manual,const,NA
+976,10.1080/03637751.2019.1621361,en,man,Manual,attri,NA
+977,10.1080/09644016.2015.1090369,en,man,Manual,theme,NA
+978,10.1080/09644016.2016.1156106,en,man,Manual,theme,NA
+979,10.1080/09644016.2017.1287624,en,man,Manual,quali,NA
+980,10.1080/09644016.2017.1287624,en,man,Manual,frame,NA
+981,10.1080/09644016.2017.1319017,en,man,Manual,frame,NA
+982,10.1080/09644016.2017.1324754,en,man,Manual,attri,NA
+983,10.1080/09644016.2018.1439353,en,man,Manual,frame,NA
+984,10.1080/09644016.2018.1494967,en,man,Manual,const,NA
+985,10.1080/09644016.2018.1507290,en,man,Manual,frame,NA
+986,10.1080/09644016.2018.1525805,en,man,Manual,thing,NA
+987,10.1080/09644016.2018.1525805,en,man,Manual,frame,NA
+988,10.1080/09644016.2020.1740555,en,man,Manual,theme,NA
+989,10.1080/09644016.2020.1740555,en,man,Manual,frame,NA
+990,10.1080/09644016.2020.1742551,un,man,Manual,theme,NA
+991,10.1080/09644016.2020.1742551,un,man,Manual,frame,NA
+992,10.1080/09644016.2020.1743610,en,man,Manual,attri,NA
+993,10.1080/09644016.2020.1743610,en,man,Manual,frame,NA
+994,10.1080/09644016.2020.1787056,nl,man,Manual,frame,NA
+995,10.1080/09644016.2020.1787056,nl,man,Manual,relas,NA
+996,10.1080/10584609.2014.958261,en,man,Manual,thing,NA
+997,10.1080/10584609.2014.958261,en,man,Manual,types,NA
+998,10.1080/10584609.2014.958261,en,man,Manual,theme,NA
+999,10.1080/10584609.2015.1016639,nl,man,Manual,theme,NA
+1000,10.1080/10584609.2015.1055526,en,man,Manual,thing,NA
+1001,10.1080/10584609.2015.1055526,en,man,Manual,const,NA
+1002,10.1080/10584609.2015.1055526,en,man,Manual,senti,NA
+1003,10.1080/10584609.2015.1055526,en,man,Manual,props,NA
+1004,10.1080/10584609.2015.1055526,en,man,Manual,pragm,NA
+1005,10.1080/10584609.2015.1107158,en,man,Manual,forma,NA
+1006,10.1080/10584609.2015.1107158,en,man,Manual,senti,NA
+1007,10.1080/10584609.2015.1107158,en,man,Manual,props,NA
+1008,10.1080/10584609.2016.1142489,en,man,Manual,props,NA
+1009,10.1080/10584609.2016.1271068,de,man,Manual,thing,NA
+1010,10.1080/10584609.2016.1271068,de,man,Manual,attri,NA
+1011,10.1080/10584609.2017.1336502,en,man,Manual,pragm,NA
+1012,10.1080/10584609.2017.1339221,en,man,Manual,theme,NA
+1013,10.1080/10584609.2017.1339222,de,man,Manual,attri,NA
+1014,10.1080/10584609.2017.1375581,en,man,Manual,types,NA
+1015,10.1080/10584609.2017.1375581,en,man,Manual,theme,NA
+1016,10.1080/10584609.2018.1541032,bg,man,Manual,thing,NA
+1017,10.1080/10584609.2018.1541032,bg,man,Manual,theme,NA
+1018,10.1080/10584609.2018.1541032,bg,man,Manual,props,NA
+1019,10.1080/10584609.2020.1765913,tr,man,Manual,thing,NA
+1020,10.1080/10584609.2020.1765913,tr,man,Manual,theme,NA
+1021,10.1080/10584609.2020.1765913,tr,man,Manual,senti,NA
+1022,10.1080/10584609.2020.1784329,de,man,Manual,theme,NA
+1023,10.1080/10584609.2020.1784329,de,man,Manual,relas,NA
+1024,10.1080/13501763.2016.1253764,en,man,Manual,const,NA
+1025,10.1080/13501763.2016.1253764,en,man,Manual,theme,NA
+1026,10.1080/13501763.2018.1458890,de,man,Manual,theme,NA
+1027,10.1080/13501763.2020.1748096,de,man,Manual,theme,NA
+1028,10.1080/13563467.2017.1420641,de,man,Manual,attri,NA
+1029,10.1080/13563467.2018.1426562,en,man,Manual,thing,NA
+1030,10.1080/1461670X.2014.962927,cn,man,Manual,quali,NA
+1031,10.1080/1461670X.2015.1019549,en,man,Manual,thing,NA
+1032,10.1080/1461670X.2015.1019549,en,man,Manual,const,NA
+1033,10.1080/1461670X.2015.1019549,en,man,Manual,attri,NA
+1034,10.1080/1461670X.2015.1040892,de,man,Manual,theme,NA
+1035,10.1080/1461670X.2015.1040892,de,man,Manual,quali,NA
+1036,10.1080/1461670X.2015.1046995,cz,man,Manual,thing,NA
+1037,10.1080/1461670X.2015.1046995,cz,man,Manual,types,NA
+1038,10.1080/1461670X.2015.1046995,cz,man,Manual,attri,NA
+1039,10.1080/1461670X.2015.1058182,en,man,Manual,theme,NA
+1040,10.1080/1461670X.2015.1058182,en,man,Manual,quali,NA
+1041,10.1080/1461670X.2015.1058182,en,man,Manual,frame,NA
+1042,10.1080/1461670X.2015.1074865,en,man,Manual,thing,NA
+1043,10.1080/1461670X.2015.1074865,en,man,Manual,const,NA
+1044,10.1080/1461670X.2015.1074865,en,man,Manual,props,NA
+1045,10.1080/1461670X.2015.1104260,en,man,Manual,forma,NA
+1046,10.1080/1461670X.2015.1104260,en,man,Manual,thing,NA
+1047,10.1080/1461670X.2015.1104260,en,man,Manual,quali,NA
+1048,10.1080/1461670X.2015.1111162,nl,man,Manual,frame,NA
+1049,10.1080/1461670X.2015.1112243,de,man,Manual,attri,NA
+1050,10.1080/1461670X.2015.1133252,en,man,Manual,senti,NA
+1051,10.1080/1461670X.2016.1150193,en,man,Manual,quali,NA
+1052,10.1080/1461670X.2016.1154797,se,man,Manual,theme,NA
+1053,10.1080/1461670X.2016.1171163,en,man,Manual,props,NA
+1054,10.1080/1461670X.2016.1178594,en,man,Manual,props,NA
+1055,10.1080/1461670X.2016.1181528,en,man,Manual,thing,NA
+1056,10.1080/1461670X.2016.1181528,en,man,Manual,theme,NA
+1057,10.1080/1461670X.2016.1181528,en,man,Manual,senti,NA
+1058,10.1080/1461670X.2016.1181528,en,man,Manual,attri,NA
+1059,10.1080/1461670X.2016.1181528,en,man,Manual,frame,NA
+1060,10.1080/1461670X.2016.1187576,nl,man,Manual,const,NA
+1061,10.1080/1461670X.2016.1187576,nl,man,Manual,theme,NA
+1062,10.1080/1461670X.2016.1187576,nl,man,Manual,attri,NA
+1063,10.1080/1461670X.2016.1215254,en,man,Manual,thing,NA
+1064,10.1080/1461670X.2016.1215254,en,man,Manual,types,NA
+1065,10.1080/1461670X.2016.1215254,en,man,Manual,theme,NA
+1066,10.1080/1461670X.2016.1215254,en,man,Manual,quali,NA
+1067,10.1080/1461670X.2016.1234356,de,man,Manual,thing,NA
+1068,10.1080/1461670X.2016.1234356,de,man,Manual,senti,NA
+1069,10.1080/1461670X.2016.1234356,de,man,Manual,relas,NA
+1070,10.1080/1461670X.2016.1245111,de,man,Manual,const,NA
+1071,10.1080/1461670X.2016.1246377,nl,man,Manual,frame,NA
+1072,10.1080/1461670X.2016.1266281,de,man,Manual,thing,NA
+1073,10.1080/1461670X.2016.1266281,de,man,Manual,const,NA
+1074,10.1080/1461670X.2016.1266281,de,man,Manual,quali,NA
+1075,10.1080/1461670X.2017.1292860,en,man,Manual,quali,NA
+1076,10.1080/1461670X.2017.1292860,en,man,Manual,frame,NA
+1077,10.1080/1461670X.2017.1297686,no,man,Manual,theme,NA
+1078,10.1080/1461670X.2017.1330665,se,man,Manual,props,NA
+1079,10.1080/1461670X.2017.1353432,de,man,Manual,thing,NA
+1080,10.1080/1461670X.2017.1353432,de,man,Manual,attri,NA
+1081,10.1080/1461670X.2017.1360150,en,man,Manual,thing,NA
+1082,10.1080/1461670X.2017.1360150,en,man,Manual,quali,NA
+1083,10.1080/1461670X.2017.1360150,en,man,Manual,pragm,NA
+1084,10.1080/1461670X.2017.1364140,en,man,Manual,const,NA
+1085,10.1080/1461670X.2017.1364140,en,man,Manual,pragm,NA
+1086,10.1080/1461670X.2018.1464403,dk,man,Manual,types,NA
+1087,10.1080/1461670X.2018.1467783,nl,man,Manual,forma,NA
+1088,10.1080/1461670X.2018.1467783,nl,man,Manual,const,NA
+1089,10.1080/1461670X.2018.1467783,nl,man,Manual,quali,NA
+1090,10.1080/1461670X.2018.1467783,nl,man,Manual,pragm,NA
+1091,10.1080/1461670X.2018.1492880,dk,man,Manual,thing,NA
+1092,10.1080/1461670X.2018.1513814,cn,man,Manual,thing,NA
+1093,10.1080/1461670X.2018.1513814,cn,man,Manual,const,NA
+1094,10.1080/1461670X.2018.1513814,cn,man,Manual,attri,NA
+1095,10.1080/1461670X.2018.1513817,en,man,Manual,const,NA
+1096,10.1080/1461670X.2018.1513817,en,man,Manual,props,NA
+1097,10.1080/1461670X.2018.1519637,en,man,Manual,thing,NA
+1098,10.1080/1461670X.2018.1520609,de,man,Manual,theme,NA
+1099,10.1080/1461670X.2018.1520610,en,man,Manual,const,NA
+1100,10.1080/1461670X.2018.1520610,en,man,Manual,types,NA
+1101,10.1080/1461670X.2019.1566871,en,man,Manual,const,NA
+1102,10.1080/1461670X.2019.1566871,en,man,Manual,quali,NA
+1103,10.1080/1461670X.2019.1586564,fr,man,Manual,const,NA
+1104,10.1080/1461670X.2019.1586564,fr,man,Manual,attri,NA
+1105,10.1080/1461670X.2019.1586564,fr,man,Manual,props,NA
+1106,10.1080/1461670X.2019.1632733,en,man,Manual,types,NA
+1107,10.1080/1461670X.2019.1632733,en,man,Manual,quali,NA
+1108,10.1080/1461670X.2019.1632733,en,man,Manual,pragm,NA
+1109,10.1080/1461670X.2019.1670719,en,man,Manual,const,NA
+1110,10.1080/1461670X.2019.1670719,en,man,Manual,props,NA
+1111,10.1080/1461670X.2019.1697855,en,man,Manual,forma,NA
+1112,10.1080/1461670X.2019.1697855,en,man,Manual,props,NA
+1113,10.1080/1461670X.2019.1697855,en,man,Manual,frame,NA
+1114,10.1080/1461670X.2019.1702476,de,man,Manual,theme,NA
+1115,10.1080/1461670X.2019.1702476,de,man,Manual,senti,NA
+1116,10.1080/1461670X.2019.1707705,en,man,Manual,theme,NA
+1117,10.1080/1461670X.2019.1707705,en,man,Manual,frame,NA
+1118,10.1080/1461670X.2020.1719369,en,man,Manual,const,NA
+1119,10.1080/1461670X.2020.1719369,en,man,Manual,theme,NA
+1120,10.1080/1461670X.2020.1727355,en,man,Manual,thing,NA
+1121,10.1080/1461670X.2020.1734857,es,man,Manual,const,NA
+1122,10.1080/1461670X.2020.1734857,es,man,Manual,types,NA
+1123,10.1080/1461670X.2020.1734857,es,man,Manual,theme,NA
+1124,10.1080/1461670X.2020.1734857,es,man,Manual,quali,NA
+1125,10.1080/1461670X.2020.1734857,es,man,Manual,attri,NA
+1126,10.1080/1461670X.2020.1745667,de,man,Manual,const,NA
+1127,10.1080/1461670X.2020.1745668,fr,man,Manual,attri,NA
+1128,10.1080/1461670X.2020.1760730,nl,man,Manual,frame,NA
+1129,10.1080/1461670X.2020.1781546,en,man,Manual,const,NA
+1130,10.1080/1461670X.2020.1781546,en,man,Manual,theme,NA
+1131,10.1080/1461670X.2020.1781546,en,man,Manual,attri,NA
+1132,10.1080/1461670X.2020.1789496,en,man,Manual,forma,NA
+1133,10.1080/1461670X.2020.1789496,en,man,Manual,thing,NA
+1134,10.1080/1461670X.2020.1789496,en,man,Manual,const,NA
+1135,10.1080/1461670X.2020.1789496,en,man,Manual,theme,NA
+1136,10.1080/1461670X.2020.1799238,en,man,Manual,theme,NA
+1137,10.1080/1461670X.2020.1799238,en,man,Manual,frame,NA
+1138,10.1080/19312458.2017.1317338,de,man,Manual,thing,NA
+1139,10.1080/19312458.2017.1317338,de,man,Manual,attri,NA
+1140,10.1080/19312458.2017.1380175,nl,man,Manual,senti,NA
+1141,10.1080/21670811.2015.1006861,en,man,Manual,const,NA
+1142,10.1080/21670811.2015.1006861,en,man,Manual,quali,NA
+1143,10.1080/21670811.2015.1040043,en,man,Manual,thing,NA
+1144,10.1080/21670811.2015.1040043,en,man,Manual,attri,NA
+1145,10.1080/21670811.2015.1042982,en,man,Manual,forma,NA
+1146,10.1080/21670811.2015.1054408,dk,man,Manual,thing,NA
+1147,10.1080/21670811.2015.1054408,dk,man,Manual,const,NA
+1148,10.1080/21670811.2015.1054408,dk,man,Manual,theme,NA
+1149,10.1080/21670811.2016.1160790,nl,man,Manual,relas,NA
+1150,10.1080/21670811.2016.1161493,nl,man,Manual,senti,NA
+1151,10.1080/21670811.2016.1161493,nl,man,Manual,relas,NA
+1152,10.1080/21670811.2016.1163233,en,man,Manual,thing,NA
+1153,10.1080/21670811.2016.1168707,en,man,Manual,types,NA
+1154,10.1080/21670811.2016.1168709,en,man,Manual,other,NA
+1155,10.1080/21670811.2016.1176534,nl,man,Manual,types,NA
+1156,10.1080/21670811.2016.1176534,nl,man,Manual,quali,NA
+1157,10.1080/21670811.2016.1176534,nl,man,Manual,pragm,NA
+1158,10.1080/21670811.2016.1178074,en,man,Manual,theme,NA
+1159,10.1080/21670811.2016.1178592,en,man,Manual,quali,NA
+1160,10.1080/21670811.2016.1209082,en,man,Manual,quali,NA
+1161,10.1080/21670811.2016.1209082,en,man,Manual,pragm,NA
+1162,10.1080/21670811.2016.1234938,nl,man,Manual,thing,NA
+1163,10.1080/21670811.2016.1234938,nl,man,Manual,frame,NA
+1164,10.1080/21670811.2016.1234938,nl,man,Manual,relas,NA
+1165,10.1080/21670811.2016.1243452,en,man,Manual,attri,NA
+1166,10.1080/21670811.2016.1243452,en,man,Manual,frame,NA
+1167,10.1080/21670811.2016.1250607,en,man,Manual,thing,NA
+1168,10.1080/21670811.2016.1250607,en,man,Manual,const,NA
+1169,10.1080/21670811.2016.1250607,en,man,Manual,theme,NA
+1170,10.1080/21670811.2016.1250607,en,man,Manual,attri,NA
+1171,10.1080/21670811.2016.1250607,en,man,Manual,frame,NA
+1172,10.1080/21670811.2017.1338144,en,man,Manual,const,NA
+1173,10.1080/21670811.2017.1338144,en,man,Manual,theme,NA
+1174,10.1080/21670811.2017.1338144,en,man,Manual,props,NA
+1175,10.1080/21670811.2017.1338145,de,man,Manual,theme,NA
+1176,10.1080/21670811.2017.1343089,se,man,Manual,forma,NA
+1177,10.1080/21670811.2017.1343089,se,man,Manual,thing,NA
+1178,10.1080/21670811.2017.1343089,se,man,Manual,theme,NA
+1179,10.1080/21670811.2017.1345644,en,man,Manual,const,NA
+1180,10.1080/21670811.2017.1345644,en,man,Manual,quali,NA
+1181,10.1080/21670811.2017.1359644,de,man,Manual,quali,NA
+1182,10.1080/21670811.2017.1366865,cc,man,Manual,other,NA
+1183,10.1080/21670811.2017.1377093,en,man,Manual,thing,NA
+1184,10.1080/21670811.2017.1377093,en,man,Manual,const,NA
+1185,10.1080/21670811.2017.1377093,en,man,Manual,theme,NA
+1186,10.1080/21670811.2017.1387501,en,man,Manual,forma,NA
+1187,10.1080/21670811.2017.1387501,en,man,Manual,thing,NA
+1188,10.1080/21670811.2017.1387501,en,man,Manual,const,NA
+1189,10.1080/21670811.2017.1387501,en,man,Manual,quali,NA
+1190,10.1080/21670811.2017.1399805,en,man,Manual,forma,NA
+1191,10.1080/21670811.2017.1412800,de,man,Manual,thing,NA
+1192,10.1080/21670811.2017.1412800,de,man,Manual,theme,NA
+1193,10.1080/21670811.2017.1412801,en,man,Manual,forma,NA
+1194,10.1080/21670811.2017.1412801,en,man,Manual,theme,NA
+1195,10.1080/21670811.2017.1412801,en,man,Manual,attri,NA
+1196,10.1080/21670811.2018.1497449,nl,man,Manual,const,NA
+1197,10.1080/21670811.2018.1497449,nl,man,Manual,attri,NA
+1198,10.1080/21670811.2018.1522962,de,man,Manual,forma,NA
+1199,10.1080/21670811.2018.1522962,de,man,Manual,types,NA
+1200,10.1080/21670811.2018.1554409,en,man,Manual,forma,NA
+1201,10.1080/21670811.2018.1554409,en,man,Manual,thing,NA
+1202,10.1080/21670811.2018.1554409,en,man,Manual,const,NA
+1203,10.1080/21670811.2018.1554409,en,man,Manual,theme,NA
+1204,10.1080/21670811.2019.1571931,en,man,Manual,thing,NA
+1205,10.1080/21670811.2019.1571931,en,man,Manual,types,NA
+1206,10.1080/21670811.2019.1571931,en,man,Manual,quali,NA
+1207,10.1080/21670811.2019.1631706,de,man,Manual,theme,NA
+1208,10.1080/21670811.2019.1631706,de,man,Manual,quali,NA
+1209,10.1080/21670811.2019.1661262,en,man,Manual,theme,NA
+1210,10.1080/21670811.2019.1661262,en,man,Manual,senti,NA
+1211,10.1080/21670811.2019.1661262,en,man,Manual,quali,NA
+1212,10.1080/21670811.2019.1680301,es,man,Manual,thing,NA
+1213,10.1080/21670811.2019.1680301,es,man,Manual,theme,NA
+1214,10.1080/21670811.2020.1777881,fs,man,Manual,thing,NA
+1215,10.1080/21670811.2020.1777881,fs,man,Manual,senti,NA
+1216,10.1080/21670811.2020.1777881,fs,man,Manual,quali,NA
+1217,10.1080/21670811.2020.1777881,fs,man,Manual,attri,NA
+1218,10.1093/hcr/hqy009,en,man,Manual,forma,NA
+1219,10.1093/hcr/hqy009,en,man,Manual,const,NA
+1220,10.1093/hcr/hqy009,en,man,Manual,attri,NA
+1221,10.1093/hcr/hqy009,en,man,Manual,pragm,NA
+1222,10.1093/jcmc/zmy019,en,man,Manual,forma,NA
+1223,10.1093/jcmc/zmy019,en,man,Manual,const,NA
+1224,10.1093/jcmc/zmy019,en,man,Manual,types,NA
+1225,10.1093/jcmc/zmy019,en,man,Manual,pragm,NA
+1226,10.1093/joc/jqz039,en,man,Manual,thing,NA
+1227,10.1093/jopart/muv001,en,man,Manual,senti,NA
+1228,10.1093/jopart/mux045,dk,man,Manual,theme,NA
+1229,10.1093/jopart/muz033,en,man,Manual,quali,NA
+1230,10.1093/poq/nfx040,nl,man,Manual,theme,NA
+1231,10.1093/poq/nfz035,en,man,Manual,const,NA
+1232,10.1093/poq/nfz035,en,man,Manual,quali,NA
+1233,10.1093/poq/nfz035,en,man,Manual,props,NA
+1234,10.1111/ajps.12423,en,man,Manual,quali,NA
+1235,10.1111/ajps.12501,de,man,Manual,theme,NA
+1236,10.1111/jcom.12298,en,man,Manual,forma,NA
+1237,10.1111/jcom.12298,en,man,Manual,thing,NA
+1238,10.1111/jcom.12298,en,man,Manual,const,NA
+1239,10.1111/jcom.12325,es,man,Manual,forma,NA
+1240,10.1111/jcom.12325,es,man,Manual,theme,NA
+1241,10.1111/jcom.12325,es,man,Manual,senti,NA
+1242,10.1111/jcom.12325,es,man,Manual,quali,NA
+1243,10.1111/jcom.12325,es,man,Manual,frame,NA
+1244,10.1111/jcom.12333,en,man,Manual,const,NA
+1245,10.1111/jcom.12333,en,man,Manual,theme,NA
+1246,10.1111/jcom.12333,en,man,Manual,frame,NA
+1247,10.1111/jcom.12333,en,man,Manual,pragm,NA
+1248,10.1111/jcom.12335,en,man,Manual,const,NA
+1249,10.1111/jcom.12335,en,man,Manual,types,NA
+1250,10.1111/jcom.12335,en,man,Manual,attri,NA
+1251,10.1111/jcom.12335,en,man,Manual,props,NA
+1252,10.1111/jcom.12335,en,man,Manual,frame,NA
+1253,10.1111/jcom.12335,en,man,Manual,other,NA
+1254,10.1111/pops.12262,sr,man,Manual,attri,NA
+1255,10.1111/pops.12262,sr,man,Manual,frame,NA
+1256,10.1111/pops.12328,en,man,Manual,theme,NA
+1257,10.1111/pops.12328,en,man,Manual,attri,NA
+1258,10.1111/pops.12385,en,man,Manual,attri,NA
+1259,10.1111/pops.12388,pt,man,Manual,thing,NA
+1260,10.1111/pops.12388,pt,man,Manual,attri,NA
+1261,10.1111/pops.12448,en,man,Manual,attri,NA
+1262,10.1111/pops.12525,en,man,Manual,quali,NA
+1263,10.1111/pops.12551,en,man,Manual,theme,NA
+1264,10.1111/pops.12551,en,man,Manual,senti,NA
+1265,10.1111/pops.12551,en,man,Manual,quali,NA
+1266,10.1111/pops.12648,ph,man,Manual,senti,NA
+1267,10.1111/pops.12648,ph,man,Manual,quali,NA
+1268,10.1111/pops.12652,ru,man,Manual,quali,NA
+1269,10.1111/pops.12659,pt,man,Manual,theme,NA
+1270,10.1111/psj.12142,en,man,Manual,thing,NA
+1271,10.1111/psj.12142,en,man,Manual,attri,NA
+1272,10.1111/psj.12174,de,man,Manual,thing,NA
+1273,10.1111/psj.12174,de,man,Manual,attri,NA
+1274,10.1111/psj.12176,en,man,Manual,thing,NA
+1275,10.1111/psj.12176,en,man,Manual,quali,NA
+1276,10.1111/psj.12176,en,man,Manual,attri,NA
+1277,10.1111/psj.12207,en,man,Manual,thing,NA
+1278,10.1111/psj.12207,en,man,Manual,attri,NA
+1279,10.1111/psj.12208,en,man,Manual,quali,NA
+1280,10.1111/psj.12208,en,man,Manual,frame,NA
+1281,10.1111/psj.12273,en,man,Manual,const,NA
+1282,10.1111/psj.12273,en,man,Manual,quali,NA
+1283,10.1111/psj.12274,en,man,Manual,thing,NA
+1284,10.1111/psj.12274,en,man,Manual,quali,NA
+1285,10.1111/psj.12291,en,man,Manual,thing,NA
+1286,10.1111/psj.12291,en,man,Manual,quali,NA
+1287,10.1111/psj.12295,tr,man,Manual,theme,NA
+1288,10.1111/rego.12129,en,man,Manual,theme,NA
+1289,10.1111/rego.12147,en,man,Manual,thing,NA
+1290,10.1111/rego.12173,en,man,Manual,theme,NA
+1291,10.1111/rego.12231,en,man,Manual,attri,NA
+1292,10.1162/GLEP_a_00379,en,man,Manual,theme,NA
+1293,10.1162/GLEP_a_00379,en,man,Manual,frame,NA
+1294,10.1162/GLEP_a_00430,en,man,Manual,frame,NA
+1295,10.1162/GLEP_a_00447,en,man,Manual,theme,NA
+1296,10.1162/GLEP_a_00447,en,man,Manual,quali,NA
+1297,10.1177/0010414016633230,en,man,Manual,quali,NA
+1298,10.1177/0010414017730082,it,man,Manual,theme,NA
+1299,10.1177/0010414018784065,en,dcs,Unsupervised,quali,discussion & demonstration
+1300,10.1177/0093650213510943,en,man,Manual,theme,NA
+1301,10.1177/0093650213510943,en,man,Manual,pragm,NA
+1302,10.1177/0093650215573861,en,man,Manual,forma,NA
+1303,10.1177/0093650215579223,en,man,Manual,thing,NA
+1304,10.1177/0093650215579223,en,man,Manual,const,NA
+1305,10.1177/0093650215579223,en,man,Manual,props,NA
+1306,10.1177/0093650215607612,en,man,Manual,pragm,NA
+1307,10.1177/0093650215614364,de,man,Manual,theme,NA
+1308,10.1177/0093650215614364,de,man,Manual,senti,NA
+1309,10.1177/0093650217705528,en,man,Manual,forma,NA
+1310,10.1177/0093650217705528,en,man,Manual,thing,NA
+1311,10.1177/0093650217705528,en,man,Manual,const,NA
+1312,10.1177/0093650217705528,en,man,Manual,senti,NA
+1313,10.1177/0093650218797884,de,man,Manual,thing,NA
+1314,10.1177/0093650218797884,de,man,Manual,const,NA
+1315,10.1177/0093650218797884,de,man,Manual,quali,NA
+1316,10.1177/0093650218797884,de,man,Manual,pragm,NA
+1317,10.1177/0093650219870087,nl,man,Manual,senti,NA
+1318,10.1177/0267323115612211,en,man,Manual,thing,NA
+1319,10.1177/0267323115612211,en,man,Manual,const,NA
+1320,10.1177/0267323115612211,en,man,Manual,props,NA
+1321,10.1177/0267323116629878,de,man,Manual,thing,NA
+1322,10.1177/0267323116629878,de,man,Manual,quali,NA
+1323,10.1177/0267323116655510,gr,man,Manual,thing,NA
+1324,10.1177/0267323116655510,gr,man,Manual,frame,NA
+1325,10.1177/0267323116669455,tr,man,Manual,const,NA
+1326,10.1177/0267323116669455,tr,man,Manual,quali,NA
+1327,10.1177/0267323116669455,tr,man,Manual,frame,NA
+1328,10.1177/0267323116669456,nl,man,Manual,const,NA
+1329,10.1177/0267323116669456,nl,man,Manual,senti,NA
+1330,10.1177/0267323116669456,nl,man,Manual,quali,NA
+1331,10.1177/0267323116669456,nl,man,Manual,frame,NA
+1332,10.1177/0267323116677205,dk,man,Manual,const,NA
+1333,10.1177/0267323116677205,dk,man,Manual,senti,NA
+1334,10.1177/0267323117689994,de,man,Manual,attri,NA
+1335,10.1177/0267323117689994,de,man,Manual,props,NA
+1336,10.1177/0267323117695736,en,man,Manual,thing,NA
+1337,10.1177/0267323117695736,en,man,Manual,const,NA
+1338,10.1177/0267323117695736,en,man,Manual,attri,NA
+1339,10.1177/0267323117695736,en,man,Manual,props,NA
+1340,10.1177/0267323118763876,de,man,Manual,frame,NA
+1341,10.1177/0267323118763907,es,man,Manual,thing,NA
+1342,10.1177/0267323118763907,es,man,Manual,frame,NA
+1343,10.1177/0267323118763919,en,man,Manual,theme,NA
+1344,10.1177/0267323118784816,bh,man,Manual,thing,NA
+1345,10.1177/0267323118784816,bh,man,Manual,const,NA
+1346,10.1177/0267323118784816,bh,man,Manual,theme,NA
+1347,10.1177/0267323118784816,bh,man,Manual,attri,NA
+1348,10.1177/0267323118784819,se,man,Manual,thing,NA
+1349,10.1177/0267323118784819,se,man,Manual,types,NA
+1350,10.1177/0267323118784819,se,man,Manual,attri,NA
+1351,10.1177/0267323118790163,cz,man,Manual,thing,NA
+1352,10.1177/0267323118790163,cz,man,Manual,attri,NA
+1353,10.1177/0267323118790163,cz,man,Manual,props,NA
+1354,10.1177/0267323118793779,en,man,Manual,thing,NA
+1355,10.1177/0267323118793779,en,man,Manual,attri,NA
+1356,10.1177/0267323118810865,cz,man,Manual,const,NA
+1357,10.1177/0267323118810865,cz,man,Manual,quali,NA
+1358,10.1177/0267323118810865,cz,man,Manual,pragm,NA
+1359,10.1177/0267323119830052,de,man,Manual,const,NA
+1360,10.1177/0267323119830052,de,man,Manual,quali,NA
+1361,10.1177/0267323120903680,tr,man,Manual,theme,NA
+1362,10.1177/0267323120903681,de,man,Manual,const,NA
+1363,10.1177/0267323120903681,de,man,Manual,quali,NA
+1364,10.1177/0267323120928224,cz,man,Manual,frame,NA
+1365,10.1177/1461444814541216,en,man,Manual,attri,NA
+1366,10.1177/1461444814543989,en,man,Manual,const,NA
+1367,10.1177/1461444814543989,en,man,Manual,types,NA
+1368,10.1177/1461444814543989,en,man,Manual,theme,NA
+1369,10.1177/1461444814544886,en,man,Manual,thing,NA
+1370,10.1177/1461444814546451,de,man,Manual,forma,NA
+1371,10.1177/1461444814546451,de,man,Manual,props,NA
+1372,10.1177/1461444814546451,de,man,Manual,other,NA
+1373,10.1177/1461444814547683,nl,man,Manual,theme,NA
+1374,10.1177/1461444814555096,en,man,Manual,forma,NA
+1375,10.1177/1461444814555096,en,man,Manual,theme,NA
+1376,10.1177/1461444814555096,en,man,Manual,senti,NA
+1377,10.1177/1461444814555096,en,man,Manual,quali,NA
+1378,10.1177/1461444815569723,en,man,Manual,attri,NA
+1379,10.1177/1461444815569723,en,man,Manual,props,NA
+1380,10.1177/1461444815569723,en,man,Manual,frame,NA
+1381,10.1177/1461444815571915,it,man,Manual,quali,NA
+1382,10.1177/1461444815621512,en,man,Manual,const,NA
+1383,10.1177/1461444815621512,en,man,Manual,quali,NA
+1384,10.1177/1461444815625944,en,man,Manual,forma,NA
+1385,10.1177/1461444815625944,en,man,Manual,theme,NA
+1386,10.1177/1461444816631506,en,man,Manual,thing,NA
+1387,10.1177/1461444816631506,en,man,Manual,quali,NA
+1388,10.1177/1461444816644697,en,man,Manual,const,NA
+1389,10.1177/1461444816644697,en,man,Manual,theme,NA
+1390,10.1177/1461444816644697,en,man,Manual,senti,NA
+1391,10.1177/1461444816644697,en,man,Manual,pragm,NA
+1392,10.1177/1461444816660730,es,man,Manual,theme,NA
+1393,10.1177/1461444816660730,es,man,Manual,pragm,NA
+1394,10.1177/1461444816660783,en,man,Manual,senti,NA
+1395,10.1177/1461444817698479,en,man,Manual,thing,NA
+1396,10.1177/1461444817698479,en,man,Manual,const,NA
+1397,10.1177/1461444817712085,de,man,Manual,frame,NA
+1398,10.1177/1461444817712085,de,man,Manual,pragm,NA
+1399,10.1177/1461444817718162,en,man,Manual,thing,NA
+1400,10.1177/1461444817718162,en,man,Manual,const,NA
+1401,10.1177/1461444817718162,en,man,Manual,theme,NA
+1402,10.1177/1461444817718162,en,man,Manual,props,NA
+1403,10.1177/1461444817741883,de,man,Manual,senti,NA
+1404,10.1177/1461444817741883,de,man,Manual,attri,NA
+1405,10.1177/1461444817749516,en,man,Manual,const,NA
+1406,10.1177/1461444817749516,en,man,Manual,quali,NA
+1407,10.1177/1461444817749516,en,man,Manual,pragm,NA
+1408,10.1177/1461444818768090,en,man,Manual,pragm,NA
+1409,10.1177/1461444818769689,en,man,Manual,pragm,NA
+1410,10.1177/1461444818784303,en,man,Manual,thing,NA
+1411,10.1177/1461444818784303,en,man,Manual,attri,NA
+1412,10.1177/1461444818784870,pt,man,Manual,theme,NA
+1413,10.1177/1461444819846054,he,man,Manual,theme,NA
+1414,10.1177/1461444819858749,en,man,Manual,forma,NA
+1415,10.1177/1461444819858749,en,man,Manual,theme,NA
+1416,10.1177/1461444819858749,en,man,Manual,pragm,NA
+1417,10.1177/1461444819865720,en,man,Manual,const,NA
+1418,10.1177/1461444819887141,en,man,Manual,const,NA
+1419,10.1177/1461444819887141,en,man,Manual,theme,NA
+1420,10.1177/1461444820923674,en,man,Manual,const,NA
+1421,10.1177/1464884914542743,es,man,Manual,thing,NA
+1422,10.1177/1464884914542743,es,man,Manual,const,NA
+1423,10.1177/1464884914542743,es,man,Manual,frame,NA
+1424,10.1177/1464884914553079,en,man,Manual,theme,NA
+1425,10.1177/1464884914553079,en,man,Manual,frame,NA
+1426,10.1177/1464884914557923,en,man,Manual,attri,NA
+1427,10.1177/1464884914557923,en,man,Manual,pragm,NA
+1428,10.1177/1464884914568076,en,man,Manual,forma,NA
+1429,10.1177/1464884914568076,en,man,Manual,types,NA
+1430,10.1177/1464884914568076,en,man,Manual,quali,NA
+1431,10.1177/1464884914568076,en,man,Manual,frame,NA
+1432,10.1177/1464884915576728,en,man,Manual,const,NA
+1433,10.1177/1464884915576728,en,man,Manual,types,NA
+1434,10.1177/1464884915576728,en,man,Manual,quali,NA
+1435,10.1177/1464884915576728,en,man,Manual,pragm,NA
+1436,10.1177/1464884915585954,kr,man,Manual,forma,NA
+1437,10.1177/1464884915585954,kr,man,Manual,thing,NA
+1438,10.1177/1464884915585954,kr,man,Manual,theme,NA
+1439,10.1177/1464884915585954,kr,man,Manual,pragm,NA
+1440,10.1177/1464884915593239,es,man,Manual,forma,NA
+1441,10.1177/1464884915593239,es,man,Manual,const,NA
+1442,10.1177/1464884915610994,en,man,Manual,const,NA
+1443,10.1177/1464884915610994,en,man,Manual,types,NA
+1444,10.1177/1464884915610994,en,man,Manual,props,NA
+1445,10.1177/1464884915610994,en,man,Manual,frame,NA
+1446,10.1177/1464884915614242,kr,man,Manual,thing,NA
+1447,10.1177/1464884915614242,kr,man,Manual,const,NA
+1448,10.1177/1464884915614242,kr,man,Manual,types,NA
+1449,10.1177/1464884915614245,en,man,Manual,const,NA
+1450,10.1177/1464884915614245,en,man,Manual,theme,NA
+1451,10.1177/1464884915614245,en,man,Manual,props,NA
+1452,10.1177/1464884915620230,en,man,Manual,quali,NA
+1453,10.1177/1464884915625632,gr,man,Manual,forma,NA
+1454,10.1177/1464884915625632,gr,man,Manual,thing,NA
+1455,10.1177/1464884915625632,gr,man,Manual,const,NA
+1456,10.1177/1464884915625632,gr,man,Manual,theme,NA
+1457,10.1177/1464884915625632,gr,man,Manual,attri,NA
+1458,10.1177/1464884916636143,nl,man,Manual,thing,NA
+1459,10.1177/1464884916636143,nl,man,Manual,const,NA
+1460,10.1177/1464884916636143,nl,man,Manual,frame,NA
+1461,10.1177/1464884916636169,en,man,Manual,const,NA
+1462,10.1177/1464884916636169,en,man,Manual,frame,NA
+1463,10.1177/1464884916636176,en,man,Manual,theme,NA
+1464,10.1177/1464884916648094,en,man,Manual,const,NA
+1465,10.1177/1464884916648094,en,man,Manual,theme,NA
+1466,10.1177/1464884916648098,de,man,Manual,types,NA
+1467,10.1177/1464884916648098,de,man,Manual,theme,NA
+1468,10.1177/1464884916648098,de,man,Manual,frame,NA
+1469,10.1177/1464884916657523,nl,man,Manual,theme,NA
+1470,10.1177/1464884916657523,nl,man,Manual,quali,NA
+1471,10.1177/1464884916657523,nl,man,Manual,frame,NA
+1472,10.1177/1464884916663601,gr,man,Manual,thing,NA
+1473,10.1177/1464884916663601,gr,man,Manual,frame,NA
+1474,10.1177/1464884916665403,kr,man,Manual,const,NA
+1475,10.1177/1464884916665403,kr,man,Manual,theme,NA
+1476,10.1177/1464884916665404,en,man,Manual,senti,NA
+1477,10.1177/1464884916665404,en,man,Manual,frame,NA
+1478,10.1177/1464884916669737,en,man,Manual,thing,NA
+1479,10.1177/1464884916669737,en,man,Manual,theme,NA
+1480,10.1177/1464884916670931,en,man,Manual,const,NA
+1481,10.1177/1464884916671159,en,man,Manual,const,NA
+1482,10.1177/1464884916671159,en,man,Manual,attri,NA
+1483,10.1177/1464884916671159,en,man,Manual,props,NA
+1484,10.1177/1464884916671896,en,man,Manual,frame,NA
+1485,10.1177/1464884916671897,en,man,Manual,theme,NA
+1486,10.1177/1464884916671897,en,man,Manual,senti,NA
+1487,10.1177/1464884916671897,en,man,Manual,frame,NA
+1488,10.1177/1464884916673557,en,man,Manual,const,NA
+1489,10.1177/1464884916674231,en,man,Manual,frame,NA
+1490,10.1177/1464884916675633,nl,man,Manual,const,NA
+1491,10.1177/1464884916675633,nl,man,Manual,quali,NA
+1492,10.1177/1464884916683552,de,man,Manual,theme,NA
+1493,10.1177/1464884916683555,en,man,Manual,thing,NA
+1494,10.1177/1464884916683555,en,man,Manual,const,NA
+1495,10.1177/1464884916683555,en,man,Manual,types,NA
+1496,10.1177/1464884916683555,en,man,Manual,theme,NA
+1497,10.1177/1464884916685909,en,man,Manual,types,NA
+1498,10.1177/1464884916685909,en,man,Manual,theme,NA
+1499,10.1177/1464884916688928,kr,man,Manual,thing,NA
+1500,10.1177/1464884916688928,kr,man,Manual,const,NA
+1501,10.1177/1464884916688928,kr,man,Manual,pragm,NA
+1502,10.1177/1464884917691987,cn,man,Manual,const,NA
+1503,10.1177/1464884917691987,cn,man,Manual,quali,NA
+1504,10.1177/1464884917698170,nl,man,Manual,thing,NA
+1505,10.1177/1464884917698170,nl,man,Manual,quali,NA
+1506,10.1177/1464884917698170,nl,man,Manual,props,NA
+1507,10.1177/1464884917698170,nl,man,Manual,pragm,NA
+1508,10.1177/1464884917699238,en,man,Manual,attri,NA
+1509,10.1177/1464884917699238,en,man,Manual,frame,NA
+1510,10.1177/1464884917700914,it,man,Manual,theme,NA
+1511,10.1177/1464884917706860,nl,man,Manual,relas,NA
+1512,10.1177/1464884917707675,un,man,Manual,forma,NA
+1513,10.1177/1464884917707675,un,man,Manual,props,NA
+1514,10.1177/1464884917707843,de,man,Manual,forma,NA
+1515,10.1177/1464884917707843,de,man,Manual,theme,NA
+1516,10.1177/1464884917707843,de,man,Manual,quali,NA
+1517,10.1177/1464884917708870,en,man,Manual,attri,NA
+1518,10.1177/1464884917708870,en,man,Manual,frame,NA
+1519,10.1177/1464884917717536,en,man,Manual,thing,NA
+1520,10.1177/1464884917717536,en,man,Manual,frame,NA
+1521,10.1177/1464884917725989,nl,man,Manual,types,NA
+1522,10.1177/1464884917731179,cn,man,Manual,frame,NA
+1523,10.1177/1464884917731180,en,man,Manual,thing,NA
+1524,10.1177/1464884917731180,en,man,Manual,const,NA
+1525,10.1177/1464884917731180,en,man,Manual,theme,NA
+1526,10.1177/1464884917731180,en,man,Manual,senti,NA
+1527,10.1177/1464884917734054,se,man,Manual,forma,NA
+1528,10.1177/1464884917734055,en,man,Manual,thing,NA
+1529,10.1177/1464884917734055,en,man,Manual,attri,NA
+1530,10.1177/1464884917734055,en,man,Manual,props,NA
+1531,10.1177/1464884917735690,cn,man,Manual,const,NA
+1532,10.1177/1464884917735690,cn,man,Manual,attri,NA
+1533,10.1177/1464884917746560,en,man,Manual,forma,NA
+1534,10.1177/1464884917746560,en,man,Manual,attri,NA
+1535,10.1177/1464884918776450,en,man,Manual,theme,NA
+1536,10.1177/1464884918776450,en,man,Manual,quali,NA
+1537,10.1177/1464884918776450,en,man,Manual,frame,NA
+1538,10.1177/1464884918791349,en,man,Manual,thing,NA
+1539,10.1177/1464884918791349,en,man,Manual,theme,NA
+1540,10.1177/1464884918809299,nl,man,Manual,theme,NA
+1541,10.1177/1464884918809299,nl,man,Manual,quali,NA
+1542,10.1177/1464884918821522,en,man,Manual,const,NA
+1543,10.1177/1464884918821522,en,man,Manual,theme,NA
+1544,10.1177/1464884918821522,en,man,Manual,pragm,NA
+1545,10.1177/1464884918822666,en,man,Manual,thing,NA
+1546,10.1177/1464884918822666,en,man,Manual,types,NA
+1547,10.1177/1464884918822666,en,man,Manual,attri,NA
+1548,10.1177/1464884919845445,en,man,Manual,thing,NA
+1549,10.1177/1464884919845445,en,man,Manual,attri,NA
+1550,10.1177/1464884919845458,en,man,Manual,theme,NA
+1551,10.1177/1464884919845459,en,man,Manual,types,NA
+1552,10.1177/1464884919845459,en,man,Manual,theme,NA
+1553,10.1177/1464884919845459,en,man,Manual,frame,NA
+1554,10.1177/1464884919848183,es,man,Manual,forma,NA
+1555,10.1177/1464884919848183,es,man,Manual,thing,NA
+1556,10.1177/1464884919848183,es,man,Manual,types,NA
+1557,10.1177/1464884919848183,es,man,Manual,theme,NA
+1558,10.1177/1464884919859709,en,man,Manual,thing,NA
+1559,10.1177/1464884919859709,en,man,Manual,props,NA
+1560,10.1177/1464884919866077,se,man,Manual,types,NA
+1561,10.1177/1464884919866077,se,man,Manual,theme,NA
+1562,10.1177/1464884919867216,en,man,Manual,const,NA
+1563,10.1177/1464884919867216,en,man,Manual,attri,NA
+1564,10.1177/1464884919867216,en,man,Manual,pragm,NA
+1565,10.1177/1464884919868049,en,man,Manual,const,NA
+1566,10.1177/1464884919868049,en,man,Manual,quali,NA
+1567,10.1177/1464884919868049,en,man,Manual,props,NA
+1568,10.1177/1464884919873173,cn,man,Manual,thing,NA
+1569,10.1177/1464884919873173,cn,man,Manual,const,NA
+1570,10.1177/1464884919873173,cn,man,Manual,quali,NA
+1571,10.1177/1464884919873173,cn,man,Manual,frame,NA
+1572,10.1177/1464884919879850,en,man,Manual,theme,NA
+1573,10.1177/1464884919887311,en,man,Manual,theme,NA
+1574,10.1177/1464884919887311,en,man,Manual,senti,NA
+1575,10.1177/1464884919894126,pt,man,Manual,props,NA
+1576,10.1177/1464884919894126,pt,man,Manual,pragm,NA
+1577,10.1177/1464884919894138,nl,man,Manual,types,NA
+1578,10.1177/1464884919894409,kr,man,Manual,thing,NA
+1579,10.1177/1464884919894409,kr,man,Manual,senti,NA
+1580,10.1177/1464884919894409,kr,man,Manual,pragm,NA
+1581,10.1177/1464884919899313,nl,man,Manual,forma,NA
+1582,10.1177/1464884919899313,nl,man,Manual,quali,NA
+1583,10.1177/1464884920901615,de,man,Manual,types,NA
+1584,10.1177/1464884920901615,de,man,Manual,theme,NA
+1585,10.1177/1464884920901615,de,man,Manual,props,NA
+1586,10.1177/1464884920916359,de,man,Manual,thing,NA
+1587,10.1177/1464884920916359,de,man,Manual,const,NA
+1588,10.1177/1464884920916359,de,man,Manual,theme,NA
+1589,10.1177/1464884920919311,nl,man,Manual,frame,NA
+1590,10.1177/1464884920922388,en,man,Manual,forma,NA
+1591,10.1177/1464884920922388,en,man,Manual,const,NA
+1592,10.1177/1464884920922388,en,man,Manual,attri,NA
+1593,10.1177/1464884920922388,en,man,Manual,frame,NA
+1594,10.1177/1464884920928157,pl,man,Manual,thing,NA
+1595,10.1177/1464884920928157,pl,man,Manual,const,NA
+1596,10.1177/1464884920928157,pl,man,Manual,theme,NA
+1597,10.1177/1464884920928157,pl,man,Manual,attri,NA
+1598,10.1177/1464884920928157,pl,man,Manual,props,NA
+1599,10.1177/1464884920928157,pl,man,Manual,frame,NA
+1600,10.1177/1464884920933754,en,man,Manual,quali,NA
+1601,10.1177/1464884920933754,en,man,Manual,attri,NA
+1602,10.1177/1940161215613060,en,man,Manual,thing,NA
+1603,10.1177/1940161215613060,en,man,Manual,const,NA
+1604,10.1177/1940161215613060,en,man,Manual,props,NA
+1605,10.1177/1940161215613060,en,man,Manual,frame,NA
+1606,10.1177/1940161215614565,es,man,Manual,thing,NA
+1607,10.1177/1940161215614565,es,man,Manual,const,NA
+1608,10.1177/1940161215614565,es,man,Manual,props,NA
+1609,10.1177/1940161215614565,es,man,Manual,frame,NA
+1610,10.1177/1940161216664726,en,man,Manual,thing,NA
+1611,10.1177/1940161216664726,en,man,Manual,const,NA
+1612,10.1177/1940161216664726,en,man,Manual,theme,NA
+1613,10.1177/1940161216664726,en,man,Manual,quali,NA
+1614,10.1177/1940161216674651,de,man,Manual,thing,NA
+1615,10.1177/1940161216674651,de,man,Manual,theme,NA
+1616,10.1177/1940161216674651,de,man,Manual,senti,NA
+1617,10.1177/1940161216681164,en,man,Manual,const,NA
+1618,10.1177/1940161217693394,en,man,Manual,thing,NA
+1619,10.1177/1940161217693394,en,man,Manual,theme,NA
+1620,10.1177/1940161217693394,en,man,Manual,frame,NA
+1621,10.1177/1940161217693395,es,man,Manual,const,NA
+1622,10.1177/1940161217693395,es,man,Manual,quali,NA
+1623,10.1177/1940161217704969,nl,man,Manual,thing,NA
+1624,10.1177/1940161217704969,nl,man,Manual,theme,NA
+1625,10.1177/1940161217704969,nl,man,Manual,relas,NA
+1626,10.1177/1940161217720773,nl,man,Manual,thing,NA
+1627,10.1177/1940161217720773,nl,man,Manual,theme,NA
+1628,10.1177/1940161217720773,nl,man,Manual,attri,NA
+1629,10.1177/1940161217720773,nl,man,Manual,props,NA
+1630,10.1177/1940161217736888,es,man,Manual,quali,NA
+1631,10.1177/1940161218821802,de,man,Manual,const,NA
+1632,10.1177/1940161218821802,de,man,Manual,senti,NA
+1633,10.1177/1940161218821802,de,man,Manual,quali,NA
+1634,10.1177/1940161218821802,de,man,Manual,attri,NA
+1635,10.1177/1940161219843404,en,man,Manual,thing,NA
+1636,10.1177/1940161219843404,en,man,Manual,senti,NA
+1637,10.1177/1940161219851071,en,man,Manual,const,NA
+1638,10.1177/1940161219851071,en,man,Manual,attri,NA
+1639,10.1177/1940161219853517,en,man,Manual,thing,NA
+1640,10.1177/1940161219853517,en,man,Manual,theme,NA
+1641,10.1177/1940161219853517,en,man,Manual,attri,NA
+1642,10.1177/1940161219858687,ct,man,Manual,pragm,NA
+1643,10.1177/1940161219882653,pt,man,Manual,const,NA
+1644,10.1177/1940161219882653,pt,man,Manual,quali,NA
+1645,10.1177/1940161219882653,pt,man,Manual,attri,NA
+1646,10.1177/1940161220915719,en,man,Manual,thing,NA
+1647,10.1177/1940161220915719,en,man,Manual,attri,NA
+1648,10.1177/1940161220915719,en,man,Manual,props,NA
+1649,10.1177/1940161220942760,nl,man,Manual,thing,NA
+1650,10.1177/1940161220942760,nl,man,Manual,frame,NA
+1651,10.1177/2050157916639348,en,man,Manual,forma,NA
+1652,10.1177/2050157916639348,en,man,Manual,const,NA
+1653,10.1177/2056305115624528,se,man,Manual,const,NA
+1654,10.1177/2056305115624528,se,man,Manual,props,NA
+1655,10.1177/2056305115624528,se,man,Manual,pragm,NA
+1656,10.1177/2056305116628888,de,man,Manual,thing,NA
+1657,10.1177/2056305116628888,de,man,Manual,types,NA
+1658,10.1177/2056305116628888,de,man,Manual,theme,NA
+1659,10.1177/2056305116628888,de,man,Manual,attri,NA
+1660,10.1177/2056305116628888,de,man,Manual,pragm,NA
+1661,10.1177/2056305116662170,en,man,Manual,quali,NA
+1662,10.1177/2056305116662170,en,man,Manual,pragm,NA
+1663,10.1177/2056305116662175,en,man,Manual,forma,NA
+1664,10.1177/2056305116662175,en,man,Manual,senti,NA
+1665,10.1177/2056305116662175,en,man,Manual,frame,NA
+1666,10.1177/2056305116662179,se,man,Manual,thing,NA
+1667,10.1177/2056305116662179,se,man,Manual,const,NA
+1668,10.1177/2056305116662179,se,man,Manual,types,NA
+1669,10.1177/2056305116662179,se,man,Manual,quali,NA
+1670,10.1177/2056305116662179,se,man,Manual,pragm,NA
+1671,10.1177/2056305116665857,en,man,Manual,forma,NA
+1672,10.1177/2056305116665857,en,man,Manual,quali,NA
+1673,10.1177/2056305116665857,en,man,Manual,pragm,NA
+1674,10.1177/2056305117704408,en,man,Manual,senti,NA
+1675,10.1177/2056305117715696,en,man,Manual,quali,NA
+1676,10.1177/2056305117715696,en,man,Manual,pragm,NA
+1677,10.1177/2056305117716271,en,man,Manual,theme,NA
+1678,10.1177/2056305118761201,en,man,Manual,quali,NA
+1679,10.1177/2056305118762444,en,man,Manual,const,NA
+1680,10.1177/2056305118762444,en,man,Manual,quali,NA
+1681,10.1177/2056305118762444,en,man,Manual,pragm,NA
+1682,10.1177/2056305118765736,fr,man,Manual,thing,NA
+1683,10.1177/2056305118765736,fr,man,Manual,theme,NA
+1684,10.1177/2056305118765736,fr,man,Manual,senti,NA
+1685,10.1177/2056305118768811,en,man,Manual,const,NA
+1686,10.1177/2056305118782687,en,man,Manual,forma,NA
+1687,10.1177/2056305118782687,en,man,Manual,frame,NA
+1688,10.1177/2056305118784771,he,man,Manual,forma,NA
+1689,10.1177/2056305118784771,he,man,Manual,thing,NA
+1690,10.1177/2056305118784771,he,man,Manual,const,NA
+1691,10.1177/2056305118784771,he,man,Manual,quali,NA
+1692,10.1177/2056305118784771,he,man,Manual,attri,NA
+1693,10.1177/2056305118784771,he,man,Manual,pragm,NA
+1694,10.1177/2056305118800311,he,man,Manual,const,NA
+1695,10.1177/2056305118800311,he,man,Manual,theme,NA
+1696,10.1177/2056305118800311,he,man,Manual,frame,NA
+1697,10.1177/2056305118808799,en,man,Manual,senti,NA
+1698,10.1177/2056305118813373,en,man,Manual,forma,NA
+1699,10.1177/2056305118813373,en,man,Manual,thing,NA
+1700,10.1177/2056305118813373,en,man,Manual,const,NA
+1701,10.1177/2056305118813373,en,man,Manual,types,NA
+1702,10.1177/2056305118813373,en,man,Manual,quali,NA
+1703,10.1177/2056305118824199,un,man,Manual,const,NA
+1704,10.1177/2056305118824199,un,man,Manual,theme,NA
+1705,10.1177/2056305118824199,un,man,Manual,attri,NA
+1706,10.1177/2056305118824199,un,man,Manual,pragm,NA
+1707,10.1177/2056305119826129,es,man,Manual,thing,NA
+1708,10.1177/2056305119826129,es,man,Manual,theme,NA
+1709,10.1177/2056305119826129,es,man,Manual,quali,NA
+1710,10.1177/2056305119826129,es,man,Manual,pragm,NA
+1711,10.1177/2056305119834595,kr,man,Manual,quali,NA
+1712,10.1177/2056305119843637,en,man,Manual,const,NA
+1713,10.1177/2056305119843637,en,man,Manual,quali,NA
+1714,10.1177/2056305119855141,en,man,Manual,frame,NA
+1715,10.1177/2056305119865466,en,man,Manual,thing,NA
+1716,10.1177/2056305119865466,en,man,Manual,const,NA
+1717,10.1177/2056305119872950,en,man,Manual,thing,NA
+1718,10.1177/2056305119872950,en,man,Manual,const,NA
+1719,10.1177/2056305119872950,en,man,Manual,quali,NA
+1720,10.1177/2056305119872950,en,man,Manual,attri,NA
+1721,10.1177/2056305119880019,en,man,Manual,theme,NA
+1722,10.1177/2056305119898777,de,man,Manual,frame,NA
+1723,10.1177/2056305120909473,en,man,Manual,const,NA
+1724,10.1177/2056305120909473,en,man,Manual,pragm,NA
+1725,10.1177/2056305120913979,en,man,Manual,thing,NA
+1726,10.1177/2056305120913979,en,man,Manual,senti,NA
+1727,10.1177/2056305120913979,en,man,Manual,attri,NA
+1728,10.1177/2056305120919105,en,man,Manual,props,NA
+1729,10.1177/2056305120919926,en,man,Manual,theme,NA
+1730,10.1177/2056305120937318,en,man,Manual,forma,NA
+1731,10.1177/2056305120937318,en,man,Manual,const,NA
+1732,10.1177/2056305120937318,en,man,Manual,pragm,NA
+1733,10.1332/030557315X14431876145728,de,man,Manual,theme,NA
+1734,10.1332/030557315X14464923526339,de,man,Manual,props,NA
+1735,10.1332/030557317X14938075758958,en,man,Manual,theme,NA
+1736,10.1332/030557317X14976099453327,de,man,Manual,quali,NA
+1737,10.1332/030557317X15035697297906,nl,man,Manual,frame,NA
+1738,10.1332/030557318X15407316633243,nl,man,Manual,senti,NA
+1739,10.3758/s13428-016-0838-6,en,man,Manual,other,NA
+1740,10.3758/s13428-017-0955-x,en,man,Manual,theme,NA
+1741,10.3758/s13428-018-1077-9,en,man,Manual,forma,NA
+1742,10.1080/1369118X.2016.1203973,nl,key,Rule-based,thing,no validation attempt
+1743,10.1080/1369118X.2016.1203973,fr,key,Rule-based,thing,no validation attempt
+1744,10.1080/1369118X.2016.1229006,en,man,Manual,theme,demonstration
+1745,10.1080/1369118X.2016.1229006,en,lnk,Rule-based,theme,demonstration
+1746,10.1080/1369118X.2016.1229006,tr,man,Manual,theme,demonstration
+1747,10.1080/1369118X.2016.1229006,tr,lnk,Rule-based,theme,demonstration
+1748,10.1080/1369118X.2017.1303076,en,man,Manual,thing,no validation attempt
+1749,10.1080/1369118X.2017.1303076,en,man,Manual,senti,no validation attempt
+1750,10.1080/1369118X.2017.1303076,en,man,Manual,attri,no validation attempt
+1751,10.1080/1369118X.2017.1303076,en,man,Manual,other,no validation attempt
+1752,10.1080/1369118X.2017.1303076,en,lnk,Rule-based,thing,no validation attempt
+1753,10.1080/1369118X.2017.1303076,en,lnk,Rule-based,senti,no validation attempt
+1754,10.1080/1369118X.2017.1303076,en,lnk,Rule-based,attri,no validation attempt
+1755,10.1080/1369118X.2017.1303076,en,lnk,Rule-based,other,no validation attempt
+1756,10.1080/1369118X.2017.1303076,cn,man,Manual,thing,no validation attempt
+1757,10.1080/1369118X.2017.1303076,cn,man,Manual,senti,no validation attempt
+1758,10.1080/1369118X.2017.1303076,cn,man,Manual,attri,no validation attempt
+1759,10.1080/1369118X.2017.1303076,cn,man,Manual,other,no validation attempt
+1760,10.1080/1369118X.2017.1303076,cn,lnk,Rule-based,thing,no validation attempt
+1761,10.1080/1369118X.2017.1303076,cn,lnk,Rule-based,senti,no validation attempt
+1762,10.1080/1369118X.2017.1303076,cn,lnk,Rule-based,attri,no validation attempt
+1763,10.1080/1369118X.2017.1303076,cn,lnk,Rule-based,other,no validation attempt
+1764,10.1080/1369118X.2017.1410204,xx,lnk,Rule-based,relas,discussion
+1765,10.1080/1369118X.2017.1410204,xx,plg,Unsupervised,relas,discussion
+1766,10.1080/1369118X.2018.1426777,ru,dct,Rule-based,theme,discussion
+1767,10.1080/1369118X.2018.1426777,ru,dct,Rule-based,quali,discussion
+1768,10.1080/1369118X.2018.1426777,ua,dct,Rule-based,theme,discussion
+1769,10.1080/1369118X.2018.1426777,ua,dct,Rule-based,quali,discussion
+1770,10.1080/1369118X.2020.1776373,de,sof,Rule-based,quali,no validation attempt
+1771,10.1080/1369118X.2020.1776373,de,lda,Unsupervised,quali,no validation attempt
+1772,10.1080/1369118X.2020.1776373,es,sof,Rule-based,quali,no validation attempt
+1773,10.1080/1369118X.2020.1776373,es,lda,Unsupervised,quali,no validation attempt
+1774,10.1080/1369118X.2020.1776373,it,sof,Rule-based,quali,no validation attempt
+1775,10.1080/1369118X.2020.1776373,it,lda,Unsupervised,quali,no validation attempt
+1776,10.1111/risa.13228,en,sof,Rule-based,senti,discussion
+1777,10.1111/risa.13228,es,sof,Rule-based,senti,discussion
+1778,10.1111/risa.13228,pt,sof,Rule-based,senti,discussion
+1779,10.1140/epjds/s13688-016-0070-8,xx,nlp,Rule-based,relas,discussion & demonstration
+1780,10.1080/1369118X.2016.1271903,en,man,Manual,pragm,NA
+1781,10.1080/1369118X.2016.1271903,de,man,Manual,pragm,NA
+1782,10.1080/1369118X.2016.1271903,he,man,Manual,pragm,NA
+1783,10.1080/1369118X.2017.1329333,en,man,Manual,thing,NA
+1784,10.1080/1369118X.2017.1329333,en,man,Manual,quali,NA
+1785,10.1080/1369118X.2017.1329333,de,man,Manual,thing,NA
+1786,10.1080/1369118X.2017.1329333,de,man,Manual,quali,NA
+1787,10.1080/1369118X.2017.1329333,fr,man,Manual,thing,NA
+1788,10.1080/1369118X.2017.1329333,fr,man,Manual,quali,NA
+1789,10.1080/1369118X.2017.1329333,it,man,Manual,thing,NA
+1790,10.1080/1369118X.2017.1329333,it,man,Manual,quali,NA
+1791,10.1080/1369118X.2018.1430161,ru,man,Manual,const,NA
+1792,10.1080/1369118X.2018.1430161,ru,man,Manual,theme,NA
+1793,10.1080/1369118X.2018.1430161,ru,man,Manual,frame,NA
+1794,10.1080/1369118X.2018.1430161,ua,man,Manual,const,NA
+1795,10.1080/1369118X.2018.1430161,ua,man,Manual,theme,NA
+1796,10.1080/1369118X.2018.1430161,ua,man,Manual,frame,NA
+1797,10.1080/1369118X.2018.1474241,en,man,Manual,thing,NA
+1798,10.1080/1369118X.2018.1474241,en,man,Manual,theme,NA
+1799,10.1080/1369118X.2018.1474241,en,man,Manual,quali,NA
+1800,10.1080/1369118X.2018.1474241,de,man,Manual,thing,NA
+1801,10.1080/1369118X.2018.1474241,de,man,Manual,theme,NA
+1802,10.1080/1369118X.2018.1474241,de,man,Manual,quali,NA
+1803,10.1080/1369118X.2020.1751864,en,man,Manual,pragm,NA
+1804,10.1080/1369118X.2020.1751864,ph,man,Manual,pragm,NA
+1805,10.1177/0891243216643320,en,man,Manual,theme,NA
+1806,10.1177/0891243216643320,de,man,Manual,theme,NA
+1807,10.1177/0891243216643320,nl,man,Manual,theme,NA
+1808,10.1177/0891243216643320,fr,man,Manual,theme,NA
+1809,10.1111/ajps.12291,en,hca,Supervised,types,discussion & demonstration
+1810,10.1111/ajps.12291,cn,hca,Supervised,types,discussion & demonstration
+1811,10.1016/j.chb.2018.04.051,en,lnk,Rule-based,attri,discussion & demonstration
+1812,10.1016/j.chb.2018.04.051,my,lnk,Rule-based,attri,discussion & demonstration
+1813,10.1017/pan.2016.12,en,nlp,Rule-based,frame,discussion & demonstration
+1814,10.1017/pan.2016.12,en,sof,Rule-based,frame,discussion & demonstration
+1815,10.1017/pan.2016.12,en,sna,Unsupervised,frame,discussion & demonstration
+1816,10.1017/pan.2016.12,cn,nlp,Rule-based,frame,discussion & demonstration
+1817,10.1017/pan.2016.12,cn,sof,Rule-based,frame,discussion & demonstration
+1818,10.1017/pan.2016.12,cn,sna,Unsupervised,frame,discussion & demonstration
+1819,10.1017/pan.2018.26,de,lda,Unsupervised,theme,discussion & demonstration
+1820,10.1017/pan.2018.26,fr,lda,Unsupervised,theme,discussion & demonstration
+1821,10.1017/pan.2018.26,es,lda,Unsupervised,theme,discussion & demonstration
+1822,10.1017/pan.2018.26,pt,lda,Unsupervised,theme,discussion & demonstration
+1823,10.1017/pan.2018.26,dk,lda,Unsupervised,theme,discussion & demonstration
+1824,10.1017/pan.2018.30,en,dcs,Unsupervised,quali,discussion & demonstration
+1825,10.1017/pan.2018.30,fr,dcs,Unsupervised,quali,discussion & demonstration
+1826,10.1017/pan.2018.62,en,dct,Rule-based,senti,discussion & demonstration
+1827,10.1017/pan.2018.62,en,dct,Rule-based,quali,discussion & demonstration
+1828,10.1017/pan.2018.62,en,dcs,Unsupervised,senti,discussion & demonstration
+1829,10.1017/pan.2018.62,en,dcs,Unsupervised,quali,discussion & demonstration
+1830,10.1017/pan.2018.62,de,dct,Rule-based,senti,discussion & demonstration
+1831,10.1017/pan.2018.62,de,dct,Rule-based,quali,discussion & demonstration
+1832,10.1017/pan.2018.62,de,dcs,Unsupervised,senti,discussion & demonstration
+1833,10.1017/pan.2018.62,de,dcs,Unsupervised,quali,discussion & demonstration
+1834,10.1017/pan.2018.62,fr,dct,Rule-based,senti,discussion & demonstration
+1835,10.1017/pan.2018.62,fr,dct,Rule-based,quali,discussion & demonstration
+1836,10.1017/pan.2018.62,fr,dcs,Unsupervised,senti,discussion & demonstration
+1837,10.1017/pan.2018.62,fr,dcs,Unsupervised,quali,discussion & demonstration
+1838,10.1017/pan.2019.46,en,lda,Unsupervised,theme,discussion & demonstration
+1839,10.1017/pan.2019.46,en,lda,Unsupervised,quali,discussion & demonstration
+1840,10.1017/pan.2019.46,cn,lda,Unsupervised,theme,discussion & demonstration
+1841,10.1017/pan.2019.46,cn,lda,Unsupervised,quali,discussion & demonstration
+1842,10.1017/pan.2020.4,en,sml,Supervised,theme,discussion & demonstration
+1843,10.1017/pan.2020.4,en,sml,Supervised,quali,discussion & demonstration
+1844,10.1017/pan.2020.4,en,sml,Supervised,frame,discussion & demonstration
+1845,10.1017/pan.2020.4,de,sml,Supervised,theme,discussion & demonstration
+1846,10.1017/pan.2020.4,de,sml,Supervised,quali,discussion & demonstration
+1847,10.1017/pan.2020.4,de,sml,Supervised,frame,discussion & demonstration
+1848,10.1017/S0007123414000283,de,dcs,Unsupervised,quali,discussion & demonstration
+1849,10.1017/S0007123414000283,fr,dcs,Unsupervised,quali,discussion & demonstration
+1850,10.1017/S0007123417000023,en,nlp,Rule-based,thing,discussion
+1851,10.1017/S0007123417000023,en,nlp,Rule-based,attri,discussion
+1852,10.1017/S0007123417000023,de,nlp,Rule-based,thing,discussion
+1853,10.1017/S0007123417000023,de,nlp,Rule-based,attri,discussion
+1854,10.1017/S0007123417000023,nl,nlp,Rule-based,thing,discussion
+1855,10.1017/S0007123417000023,nl,nlp,Rule-based,attri,discussion
+1856,10.1017/S0007123417000023,fr,nlp,Rule-based,thing,discussion
+1857,10.1017/S0007123417000023,fr,nlp,Rule-based,attri,discussion
+1858,10.1017/S0007123417000023,es,nlp,Rule-based,thing,discussion
+1859,10.1017/S0007123417000023,es,nlp,Rule-based,attri,discussion
+1860,10.1017/S0007123417000023,it,nlp,Rule-based,thing,discussion
+1861,10.1017/S0007123417000023,it,nlp,Rule-based,attri,discussion
+1862,10.1017/S0007123417000023,pt,nlp,Rule-based,thing,discussion
+1863,10.1017/S0007123417000023,pt,nlp,Rule-based,attri,discussion
+1864,10.1017/S0007123417000023,sf,nlp,Rule-based,thing,discussion
+1865,10.1017/S0007123417000023,sf,nlp,Rule-based,attri,discussion
+1866,10.1080/10584609.2018.1478472,en,key,Rule-based,theme,no validation attempt
+1867,10.1080/10584609.2018.1478472,de,key,Rule-based,theme,no validation attempt
+1868,10.1080/10584609.2018.1478472,nl,key,Rule-based,theme,no validation attempt
+1869,10.1080/10584609.2018.1478472,fr,key,Rule-based,theme,no validation attempt
+1870,10.1080/10584609.2018.1483606,xx,sml,Supervised,theme,no validation attempt
+1871,10.1080/10584609.2018.1483606,xx,sml,Supervised,frame,no validation attempt
+1872,10.1080/10584609.2018.1483606,xx,dcs,Unsupervised,theme,no validation attempt
+1873,10.1080/10584609.2018.1483606,xx,dcs,Unsupervised,frame,no validation attempt
+1874,10.1080/1461670X.2015.1114899,en,key,Rule-based,thing,no validation attempt
+1875,10.1080/1461670X.2015.1114899,de,key,Rule-based,thing,no validation attempt
+1876,10.1080/1461670X.2015.1114899,fr,key,Rule-based,thing,no validation attempt
+1877,10.1080/1461670X.2015.1114899,es,key,Rule-based,thing,no validation attempt
+1878,10.1080/1461670X.2015.1114899,cn,key,Rule-based,thing,no validation attempt
+1879,10.1080/1461670X.2015.1114899,he,key,Rule-based,thing,no validation attempt
+1880,10.1080/1461670X.2015.1114899,ru,key,Rule-based,thing,no validation attempt
+1881,10.1080/1461670X.2015.1114899,ar,key,Rule-based,thing,no validation attempt
+1882,10.1080/1461670X.2015.1114899,jp,key,Rule-based,thing,no validation attempt
+1883,10.1080/1461670X.2015.1114899,fs,key,Rule-based,thing,no validation attempt
+1884,10.1080/1461670X.2017.1305285,en,nlp,Rule-based,quali,discussion & demonstration
+1885,10.1080/1461670X.2017.1305285,de,nlp,Rule-based,quali,discussion & demonstration
+1886,10.1080/19312458.2018.1555798,en,lda,Unsupervised,theme,discussion
+1887,10.1080/19312458.2018.1555798,de,lda,Unsupervised,theme,discussion
+1888,10.1080/19312458.2019.1594741,en,man,Manual,quali,discussion & demonstration
+1889,10.1080/19312458.2019.1594741,en,dcs,Unsupervised,quali,discussion & demonstration
+1890,10.1080/19312458.2019.1594741,de,man,Manual,quali,discussion & demonstration
+1891,10.1080/19312458.2019.1594741,de,dcs,Unsupervised,quali,discussion & demonstration
+1892,10.1080/19312458.2019.1594741,nl,man,Manual,quali,discussion & demonstration
+1893,10.1080/19312458.2019.1594741,nl,dcs,Unsupervised,quali,discussion & demonstration
+1894,10.1080/19312458.2019.1594741,fr,man,Manual,quali,discussion & demonstration
+1895,10.1080/19312458.2019.1594741,fr,dcs,Unsupervised,quali,discussion & demonstration
+1896,10.1080/19312458.2019.1594741,es,man,Manual,quali,discussion & demonstration
+1897,10.1080/19312458.2019.1594741,es,dcs,Unsupervised,quali,discussion & demonstration
+1898,10.1080/19312458.2019.1594741,it,man,Manual,quali,discussion & demonstration
+1899,10.1080/19312458.2019.1594741,it,dcs,Unsupervised,quali,discussion & demonstration
+1900,10.1080/19312458.2019.1594741,se,man,Manual,quali,discussion & demonstration
+1901,10.1080/19312458.2019.1594741,se,dcs,Unsupervised,quali,discussion & demonstration
+1902,10.1080/19312458.2019.1594741,pt,man,Manual,quali,discussion & demonstration
+1903,10.1080/19312458.2019.1594741,pt,dcs,Unsupervised,quali,discussion & demonstration
+1904,10.1080/19312458.2019.1594741,dk,man,Manual,quali,discussion & demonstration
+1905,10.1080/19312458.2019.1594741,dk,dcs,Unsupervised,quali,discussion & demonstration
+1906,10.1080/19312458.2019.1594741,gr,man,Manual,quali,discussion & demonstration
+1907,10.1080/19312458.2019.1594741,gr,dcs,Unsupervised,quali,discussion & demonstration
+1908,10.1080/19312458.2019.1594741,cz,man,Manual,quali,discussion & demonstration
+1909,10.1080/19312458.2019.1594741,cz,dcs,Unsupervised,quali,discussion & demonstration
+1910,10.1080/19312458.2019.1594741,pl,man,Manual,quali,discussion & demonstration
+1911,10.1080/19312458.2019.1594741,pl,dcs,Unsupervised,quali,discussion & demonstration
+1912,10.1080/19312458.2019.1594741,sf,man,Manual,quali,discussion & demonstration
+1913,10.1080/19312458.2019.1594741,sf,dcs,Unsupervised,quali,discussion & demonstration
+1914,10.1080/19312458.2019.1594741,bg,man,Manual,quali,discussion & demonstration
+1915,10.1080/19312458.2019.1594741,bg,dcs,Unsupervised,quali,discussion & demonstration
+1916,10.1080/19312458.2019.1594741,lv,man,Manual,quali,discussion & demonstration
+1917,10.1080/19312458.2019.1594741,lv,dcs,Unsupervised,quali,discussion & demonstration
+1918,10.1080/19312458.2019.1594741,ro,man,Manual,quali,discussion & demonstration
+1919,10.1080/19312458.2019.1594741,ro,dcs,Unsupervised,quali,discussion & demonstration
+1920,10.1080/19312458.2019.1594741,sr,man,Manual,quali,discussion & demonstration
+1921,10.1080/19312458.2019.1594741,sr,dcs,Unsupervised,quali,discussion & demonstration
+1922,10.1080/19312458.2019.1594741,ee,man,Manual,quali,discussion & demonstration
+1923,10.1080/19312458.2019.1594741,ee,dcs,Unsupervised,quali,discussion & demonstration
+1924,10.1080/19312458.2019.1594741,sl,man,Manual,quali,discussion & demonstration
+1925,10.1080/19312458.2019.1594741,sl,dcs,Unsupervised,quali,discussion & demonstration
+1926,10.1080/19312458.2019.1594741,li,man,Manual,quali,discussion & demonstration
+1927,10.1080/19312458.2019.1594741,li,dcs,Unsupervised,quali,discussion & demonstration
+1928,10.1080/19312458.2019.1594741,sk,man,Manual,quali,discussion & demonstration
+1929,10.1080/19312458.2019.1594741,sk,dcs,Unsupervised,quali,discussion & demonstration
+1930,10.1111/ajps.12526,en,lda,Unsupervised,relas,discussion & demonstration
+1931,10.1111/ajps.12526,cn,lda,Unsupervised,relas,discussion & demonstration
+1932,10.1111/jcom.12259,en,sml,Supervised,theme,discussion
+1933,10.1111/jcom.12259,en,sml,Supervised,quali,discussion
+1934,10.1111/jcom.12259,de,sml,Supervised,theme,discussion
+1935,10.1111/jcom.12259,de,sml,Supervised,quali,discussion
+1936,10.1111/jcom.12259,es,sml,Supervised,theme,discussion
+1937,10.1111/jcom.12259,es,sml,Supervised,quali,discussion
+1938,10.1111/jcom.12259,gr,sml,Supervised,theme,discussion
+1939,10.1111/jcom.12259,gr,sml,Supervised,quali,discussion
+1940,10.1111/jcom.12272,en,dct,Rule-based,frame,discussion & demonstration
+1941,10.1111/jcom.12272,en,dct,Rule-based,relas,discussion & demonstration
+1942,10.1111/jcom.12272,de,dct,Rule-based,frame,discussion & demonstration
+1943,10.1111/jcom.12272,de,dct,Rule-based,relas,discussion & demonstration
+1944,10.1111/jcom.12272,fr,dct,Rule-based,frame,discussion & demonstration
+1945,10.1111/jcom.12272,fr,dct,Rule-based,relas,discussion & demonstration
+1946,10.1111/jcom.12272,he,dct,Rule-based,frame,discussion & demonstration
+1947,10.1111/jcom.12272,he,dct,Rule-based,relas,discussion & demonstration
+1948,10.1111/jcom.12272,ar,dct,Rule-based,frame,discussion & demonstration
+1949,10.1111/jcom.12272,ar,dct,Rule-based,relas,discussion & demonstration
+1950,10.1111/pops.12308,en,key,Rule-based,theme,no validation attempt
+1951,10.1111/pops.12308,ph,key,Rule-based,theme,no validation attempt
+1952,10.1111/pops.12327,en,nlp,Rule-based,forma,no validation attempt
+1953,10.1111/pops.12327,pt,nlp,Rule-based,forma,no validation attempt
+1954,10.1111/pops.12327,ar,nlp,Rule-based,forma,no validation attempt
+1955,10.1111/pops.12478,en,man,Manual,theme,discussion
+1956,10.1111/pops.12478,en,man,Manual,senti,discussion
+1957,10.1111/pops.12478,en,man,Manual,quali,discussion
+1958,10.1111/pops.12478,en,lnk,Rule-based,theme,discussion
+1959,10.1111/pops.12478,en,lnk,Rule-based,senti,discussion
+1960,10.1111/pops.12478,en,lnk,Rule-based,quali,discussion
+1961,10.1111/pops.12478,en,sml,Supervised,theme,discussion
+1962,10.1111/pops.12478,en,sml,Supervised,senti,discussion
+1963,10.1111/pops.12478,en,sml,Supervised,quali,discussion
+1964,10.1111/pops.12478,es,man,Manual,theme,discussion
+1965,10.1111/pops.12478,es,man,Manual,senti,discussion
+1966,10.1111/pops.12478,es,man,Manual,quali,discussion
+1967,10.1111/pops.12478,es,lnk,Rule-based,theme,discussion
+1968,10.1111/pops.12478,es,lnk,Rule-based,senti,discussion
+1969,10.1111/pops.12478,es,lnk,Rule-based,quali,discussion
+1970,10.1111/pops.12478,es,sml,Supervised,theme,discussion
+1971,10.1111/pops.12478,es,sml,Supervised,senti,discussion
+1972,10.1111/pops.12478,es,sml,Supervised,quali,discussion
+1973,10.1111/pops.12478,ru,man,Manual,theme,discussion
+1974,10.1111/pops.12478,ru,man,Manual,senti,discussion
+1975,10.1111/pops.12478,ru,man,Manual,quali,discussion
+1976,10.1111/pops.12478,ru,lnk,Rule-based,theme,discussion
+1977,10.1111/pops.12478,ru,lnk,Rule-based,senti,discussion
+1978,10.1111/pops.12478,ru,lnk,Rule-based,quali,discussion
+1979,10.1111/pops.12478,ru,sml,Supervised,theme,discussion
+1980,10.1111/pops.12478,ru,sml,Supervised,senti,discussion
+1981,10.1111/pops.12478,ru,sml,Supervised,quali,discussion
+1982,10.1111/pops.12478,tr,man,Manual,theme,discussion
+1983,10.1111/pops.12478,tr,man,Manual,senti,discussion
+1984,10.1111/pops.12478,tr,man,Manual,quali,discussion
+1985,10.1111/pops.12478,tr,lnk,Rule-based,theme,discussion
+1986,10.1111/pops.12478,tr,lnk,Rule-based,senti,discussion
+1987,10.1111/pops.12478,tr,lnk,Rule-based,quali,discussion
+1988,10.1111/pops.12478,tr,sml,Supervised,theme,discussion
+1989,10.1111/pops.12478,tr,sml,Supervised,senti,discussion
+1990,10.1111/pops.12478,tr,sml,Supervised,quali,discussion
+1991,10.1111/pops.12478,ua,man,Manual,theme,discussion
+1992,10.1111/pops.12478,ua,man,Manual,senti,discussion
+1993,10.1111/pops.12478,ua,man,Manual,quali,discussion
+1994,10.1111/pops.12478,ua,lnk,Rule-based,theme,discussion
+1995,10.1111/pops.12478,ua,lnk,Rule-based,senti,discussion
+1996,10.1111/pops.12478,ua,lnk,Rule-based,quali,discussion
+1997,10.1111/pops.12478,ua,sml,Supervised,theme,discussion
+1998,10.1111/pops.12478,ua,sml,Supervised,senti,discussion
+1999,10.1111/pops.12478,ua,sml,Supervised,quali,discussion
+2000,10.1177/0010414019830736,en,dct,Rule-based,thing,discussion & demonstration
+2001,10.1177/0010414019830736,en,dct,Rule-based,theme,discussion & demonstration
+2002,10.1177/0010414019830736,de,dct,Rule-based,thing,discussion & demonstration
+2003,10.1177/0010414019830736,de,dct,Rule-based,theme,discussion & demonstration
+2004,10.1177/0010414019830736,nl,dct,Rule-based,thing,discussion & demonstration
+2005,10.1177/0010414019830736,nl,dct,Rule-based,theme,discussion & demonstration
+2006,10.1177/0010414019830736,es,dct,Rule-based,thing,discussion & demonstration
+2007,10.1177/0010414019830736,es,dct,Rule-based,theme,discussion & demonstration
+2008,10.1177/0010414019830736,dk,dct,Rule-based,thing,discussion & demonstration
+2009,10.1177/0010414019830736,dk,dct,Rule-based,theme,discussion & demonstration
+2010,10.1177/0010414019830736,cz,dct,Rule-based,thing,discussion & demonstration
+2011,10.1177/0010414019830736,cz,dct,Rule-based,theme,discussion & demonstration
+2012,10.1177/0093650218815383,fr,dct,Rule-based,quali,discussion
+2013,10.1177/0093650218815383,he,dct,Rule-based,quali,discussion
+2014,10.1177/0093650218815383,ar,dct,Rule-based,quali,discussion
+2015,10.1177/0267323118810843,en,nlp,Rule-based,senti,no validation attempt
+2016,10.1177/0267323118810843,de,nlp,Rule-based,senti,no validation attempt
+2017,10.1177/0267323118810843,nl,nlp,Rule-based,senti,no validation attempt
+2018,10.1177/0267323118810843,fr,nlp,Rule-based,senti,no validation attempt
+2019,10.1177/0267323118810843,es,nlp,Rule-based,senti,no validation attempt
+2020,10.1177/0267323118810843,it,nlp,Rule-based,senti,no validation attempt
+2021,10.1177/0267323118810843,dk,nlp,Rule-based,senti,no validation attempt
+2022,10.1177/0267323118810843,pl,nlp,Rule-based,senti,no validation attempt
+2023,10.1177/0267323120909288,en,dct,Rule-based,thing,discussion & demonstration
+2024,10.1177/0267323120909288,en,dct,Rule-based,const,discussion & demonstration
+2025,10.1177/0267323120909288,en,dct,Rule-based,senti,discussion & demonstration
+2026,10.1177/0267323120909288,fr,dct,Rule-based,thing,discussion & demonstration
+2027,10.1177/0267323120909288,fr,dct,Rule-based,const,discussion & demonstration
+2028,10.1177/0267323120909288,fr,dct,Rule-based,senti,discussion & demonstration
+2029,10.1177/1464884916688292,en,dct,Rule-based,thing,no validation attempt
+2030,10.1177/1464884916688292,de,dct,Rule-based,thing,no validation attempt
+2031,10.1177/1464884916688292,fr,dct,Rule-based,thing,no validation attempt
+2032,10.1177/1464884916688292,es,dct,Rule-based,thing,no validation attempt
+2033,10.1177/1464884916688292,it,dct,Rule-based,thing,no validation attempt
+2034,10.1177/1464884916688292,cn,dct,Rule-based,thing,no validation attempt
+2035,10.1177/1464884916688292,he,dct,Rule-based,thing,no validation attempt
+2036,10.1177/1464884916688292,ru,dct,Rule-based,thing,no validation attempt
+2037,10.1177/1464884916688292,ar,dct,Rule-based,thing,no validation attempt
+2038,10.1177/1464884916688292,kr,dct,Rule-based,thing,no validation attempt
+2039,10.1177/1464884916688292,jp,dct,Rule-based,thing,no validation attempt
+2040,10.1177/1940161216674652,en,dct,Rule-based,const,no validation attempt
+2041,10.1177/1940161216674652,en,dct,Rule-based,other,no validation attempt
+2042,10.1177/1940161216674652,fr,dct,Rule-based,const,no validation attempt
+2043,10.1177/1940161216674652,fr,dct,Rule-based,other,no validation attempt
+2044,10.1177/1940161216674652,it,dct,Rule-based,const,no validation attempt
+2045,10.1177/1940161216674652,it,dct,Rule-based,other,no validation attempt
+2046,10.1177/1940161217704968,en,man,Manual,thing,no validation attempt
+2047,10.1177/1940161217704968,en,man,Manual,props,no validation attempt
+2048,10.1177/1940161217704968,en,key,Rule-based,thing,no validation attempt
+2049,10.1177/1940161217704968,en,key,Rule-based,props,no validation attempt
+2050,10.1177/1940161217704968,de,man,Manual,thing,no validation attempt
+2051,10.1177/1940161217704968,de,man,Manual,props,no validation attempt
+2052,10.1177/1940161217704968,de,key,Rule-based,thing,no validation attempt
+2053,10.1177/1940161217704968,de,key,Rule-based,props,no validation attempt
+2054,10.1177/1940161217704968,fr,man,Manual,thing,no validation attempt
+2055,10.1177/1940161217704968,fr,man,Manual,props,no validation attempt
+2056,10.1177/1940161217704968,fr,key,Rule-based,thing,no validation attempt
+2057,10.1177/1940161217704968,fr,key,Rule-based,props,no validation attempt
+2058,10.1177/1940161217723149,en,dct,Rule-based,theme,discussion
+2059,10.1177/1940161217723149,nl,dct,Rule-based,theme,discussion
+2060,10.1177/1940161217723149,he,dct,Rule-based,theme,discussion
+2061,10.1177/1940161218779231,en,dct,Rule-based,thing,no validation attempt
+2062,10.1177/1940161218779231,nl,dct,Rule-based,thing,no validation attempt
+2063,10.1177/1940161218779231,fr,dct,Rule-based,thing,no validation attempt
+2064,10.1177/1940161218779231,it,dct,Rule-based,thing,no validation attempt
+2065,10.1177/1940161218779231,dk,dct,Rule-based,thing,no validation attempt
+2066,10.1177/1940161218779231,pl,dct,Rule-based,thing,no validation attempt
+2067,10.1177/1940161218787046,fr,man,Manual,thing,discussion
+2068,10.1177/1940161218787046,fr,man,Manual,const,discussion
+2069,10.1177/1940161218787046,fr,man,Manual,quali,discussion
+2070,10.1177/1940161218787046,fr,nlp,Rule-based,thing,discussion
+2071,10.1177/1940161218787046,fr,nlp,Rule-based,const,discussion
+2072,10.1177/1940161218787046,fr,nlp,Rule-based,quali,discussion
+2073,10.1177/1940161218787046,es,man,Manual,thing,discussion
+2074,10.1177/1940161218787046,es,man,Manual,const,discussion
+2075,10.1177/1940161218787046,es,man,Manual,quali,discussion
+2076,10.1177/1940161218787046,es,nlp,Rule-based,thing,discussion
+2077,10.1177/1940161218787046,es,nlp,Rule-based,const,discussion
+2078,10.1177/1940161218787046,es,nlp,Rule-based,quali,discussion
+2079,10.1177/1940161218787046,it,man,Manual,thing,discussion
+2080,10.1177/1940161218787046,it,man,Manual,const,discussion
+2081,10.1177/1940161218787046,it,man,Manual,quali,discussion
+2082,10.1177/1940161218787046,it,nlp,Rule-based,thing,discussion
+2083,10.1177/1940161218787046,it,nlp,Rule-based,const,discussion
+2084,10.1177/1940161218787046,it,nlp,Rule-based,quali,discussion
+2085,10.1177/1940161219858704,en,key,Rule-based,senti,discussion & demonstration
+2086,10.1177/1940161219858704,de,key,Rule-based,senti,discussion & demonstration
+2087,10.1177/1940161219858704,nl,key,Rule-based,senti,discussion & demonstration
+2088,10.1177/1940161219858704,fr,key,Rule-based,senti,discussion & demonstration
+2089,10.1177/1940161219858704,es,key,Rule-based,senti,discussion & demonstration
+2090,10.1177/2056305116686992,en,man,Manual,forma,no validation attempt
+2091,10.1177/2056305116686992,en,man,Manual,const,no validation attempt
+2092,10.1177/2056305116686992,en,man,Manual,theme,no validation attempt
+2093,10.1177/2056305116686992,en,lnk,Rule-based,forma,no validation attempt
+2094,10.1177/2056305116686992,en,lnk,Rule-based,const,no validation attempt
+2095,10.1177/2056305116686992,en,lnk,Rule-based,theme,no validation attempt
+2096,10.1177/2056305116686992,fr,man,Manual,forma,no validation attempt
+2097,10.1177/2056305116686992,fr,man,Manual,const,no validation attempt
+2098,10.1177/2056305116686992,fr,man,Manual,theme,no validation attempt
+2099,10.1177/2056305116686992,fr,lnk,Rule-based,forma,no validation attempt
+2100,10.1177/2056305116686992,fr,lnk,Rule-based,const,no validation attempt
+2101,10.1177/2056305116686992,fr,lnk,Rule-based,theme,no validation attempt
+2102,10.1177/2056305116686992,es,man,Manual,forma,no validation attempt
+2103,10.1177/2056305116686992,es,man,Manual,const,no validation attempt
+2104,10.1177/2056305116686992,es,man,Manual,theme,no validation attempt
+2105,10.1177/2056305116686992,es,lnk,Rule-based,forma,no validation attempt
+2106,10.1177/2056305116686992,es,lnk,Rule-based,const,no validation attempt
+2107,10.1177/2056305116686992,es,lnk,Rule-based,theme,no validation attempt
+2108,10.1177/2056305118764429,en,lnk,Rule-based,other,discussion
+2109,10.1177/2056305118764429,de,lnk,Rule-based,other,discussion
+2110,10.1177/2056305118764429,es,lnk,Rule-based,other,discussion
+2111,10.1177/2056305118764429,ar,lnk,Rule-based,other,discussion
+2112,10.1177/2056305118764429,sn,lnk,Rule-based,other,discussion
+2113,10.1177/2056305118764429,tm,lnk,Rule-based,other,discussion
+2114,10.1177/2056305118764437,en,lnk,Rule-based,frame,no validation attempt
+2115,10.1177/2056305118764437,de,lnk,Rule-based,frame,no validation attempt
+2116,10.1177/2056305118764437,fr,lnk,Rule-based,frame,no validation attempt
+2117,10.1177/2056305118764437,it,lnk,Rule-based,frame,no validation attempt
+2118,10.1177/2056305118764437,se,lnk,Rule-based,frame,no validation attempt
+2119,10.1177/2056305118764437,tr,lnk,Rule-based,frame,no validation attempt
+2120,10.1177/2056305118764437,hu,lnk,Rule-based,frame,no validation attempt
+2121,10.1177/2056305119863147,en,man,Manual,types,discussion
+2122,10.1177/2056305119863147,en,man,Manual,quali,discussion
+2123,10.1177/2056305119863147,en,lnk,Rule-based,types,discussion
+2124,10.1177/2056305119863147,en,lnk,Rule-based,quali,discussion
+2125,10.1177/2056305119863147,de,man,Manual,types,discussion
+2126,10.1177/2056305119863147,de,man,Manual,quali,discussion
+2127,10.1177/2056305119863147,de,lnk,Rule-based,types,discussion
+2128,10.1177/2056305119863147,de,lnk,Rule-based,quali,discussion
+2129,10.1177/2056305119863147,fr,man,Manual,types,discussion
+2130,10.1177/2056305119863147,fr,man,Manual,quali,discussion
+2131,10.1177/2056305119863147,fr,lnk,Rule-based,types,discussion
+2132,10.1177/2056305119863147,fr,lnk,Rule-based,quali,discussion
+2133,10.1177/2056305119890882,en,sml,Supervised,attri,discussion & demonstration
+2134,10.1177/2056305119890882,en,sml,Supervised,frame,discussion & demonstration
+2135,10.1177/2056305119890882,es,sml,Supervised,attri,discussion & demonstration
+2136,10.1177/2056305119890882,es,sml,Supervised,frame,discussion & demonstration
+2137,10.1177/2056305119890882,it,sml,Supervised,attri,discussion & demonstration
+2138,10.1177/2056305119890882,it,sml,Supervised,frame,discussion & demonstration
+2139,10.1177/2056305120912481,en,man,Manual,thing,no validation attempt
+2140,10.1177/2056305120912481,en,man,Manual,const,no validation attempt
+2141,10.1177/2056305120912481,en,man,Manual,senti,no validation attempt
+2142,10.1177/2056305120912481,en,sof,Rule-based,thing,no validation attempt
+2143,10.1177/2056305120912481,en,sof,Rule-based,const,no validation attempt
+2144,10.1177/2056305120912481,en,sof,Rule-based,senti,no validation attempt
+2145,10.1177/2056305120912481,de,man,Manual,thing,no validation attempt
+2146,10.1177/2056305120912481,de,man,Manual,const,no validation attempt
+2147,10.1177/2056305120912481,de,man,Manual,senti,no validation attempt
+2148,10.1177/2056305120912481,de,sof,Rule-based,thing,no validation attempt
+2149,10.1177/2056305120912481,de,sof,Rule-based,const,no validation attempt
+2150,10.1177/2056305120912481,de,sof,Rule-based,senti,no validation attempt
+2151,10.3758/s13428-015-0621-0,xx,lnk,Rule-based,forma,discussion & demonstration
+2152,10.3758/s13428-020-01406-3,en,nlp,Rule-based,forma,discussion
+2153,10.3758/s13428-020-01406-3,de,nlp,Rule-based,forma,discussion
+2154,10.3758/s13428-020-01406-3,nl,nlp,Rule-based,forma,discussion
+2155,10.3758/s13428-020-01406-3,fr,nlp,Rule-based,forma,discussion
+2156,10.3758/s13428-020-01406-3,es,nlp,Rule-based,forma,discussion
+2157,10.3758/s13428-020-01406-3,pt,nlp,Rule-based,forma,discussion
+2158,10.3758/s13428-020-01406-3,pl,nlp,Rule-based,forma,discussion
+2159,10.3758/s13428-020-01406-3,tr,nlp,Rule-based,forma,discussion
+2160,10.3758/s13428-020-01406-3,fs,nlp,Rule-based,forma,discussion
+2161,10.3758/s13428-020-01406-3,sf,nlp,Rule-based,forma,discussion
+2162,10.3758/s13428-020-01406-3,my,nlp,Rule-based,forma,discussion
+2163,10.1002/poi3.186,en,man,Manual,thing,NA
+2164,10.1002/poi3.186,en,man,Manual,types,NA
+2165,10.1002/poi3.186,en,man,Manual,theme,NA
+2166,10.1002/poi3.186,cn,man,Manual,thing,NA
+2167,10.1002/poi3.186,cn,man,Manual,types,NA
+2168,10.1002/poi3.186,cn,man,Manual,theme,NA
+2169,10.1002/poi3.219,en,man,Manual,forma,NA
+2170,10.1002/poi3.219,en,man,Manual,quali,NA
+2171,10.1002/poi3.219,en,man,Manual,props,NA
+2172,10.1002/poi3.219,de,man,Manual,forma,NA
+2173,10.1002/poi3.219,de,man,Manual,quali,NA
+2174,10.1002/poi3.219,de,man,Manual,props,NA
+2175,10.1002/poi3.219,se,man,Manual,forma,NA
+2176,10.1002/poi3.219,se,man,Manual,quali,NA
+2177,10.1002/poi3.219,se,man,Manual,props,NA
+2178,10.1002/poi3.219,dk,man,Manual,forma,NA
+2179,10.1002/poi3.219,dk,man,Manual,quali,NA
+2180,10.1002/poi3.219,dk,man,Manual,props,NA
+2181,10.1007/s11558-018-9320-9,en,man,Manual,thing,NA
+2182,10.1007/s11558-018-9320-9,en,man,Manual,attri,NA
+2183,10.1007/s11558-018-9320-9,de,man,Manual,thing,NA
+2184,10.1007/s11558-018-9320-9,de,man,Manual,attri,NA
+2185,10.1016/j.chb.2017.03.013,en,man,Manual,attri,NA
+2186,10.1016/j.chb.2017.03.013,kr,man,Manual,attri,NA
+2187,10.1016/j.chb.2017.07.045,en,man,Manual,attri,NA
+2188,10.1016/j.chb.2017.07.045,cn,man,Manual,attri,NA
+2189,10.1017/S0003055416000058,en,man,Manual,quali,NA
+2190,10.1017/S0003055416000058,de,man,Manual,quali,NA
+2191,10.1017/S0003055416000058,es,man,Manual,quali,NA
+2192,10.1017/S0003055416000058,it,man,Manual,quali,NA
+2193,10.1017/S0003055416000058,pt,man,Manual,quali,NA
+2194,10.1017/S0003055416000058,gr,man,Manual,quali,NA
+2195,10.1017/S0007123413000525,en,man,Manual,frame,NA
+2196,10.1017/S0007123413000525,de,man,Manual,frame,NA
+2197,10.1017/S0007123413000525,nl,man,Manual,frame,NA
+2198,10.1017/S0007123413000525,fr,man,Manual,frame,NA
+2199,10.1017/S0007123413000525,es,man,Manual,frame,NA
+2200,10.1017/S0007123413000525,it,man,Manual,frame,NA
+2201,10.1017/S0007123413000525,se,man,Manual,frame,NA
+2202,10.1017/S0007123413000525,pt,man,Manual,frame,NA
+2203,10.1017/S0007123413000525,dk,man,Manual,frame,NA
+2204,10.1017/S0007123413000525,gr,man,Manual,frame,NA
+2205,10.1017/S0007123413000525,cz,man,Manual,frame,NA
+2206,10.1017/S0007123413000525,pl,man,Manual,frame,NA
+2207,10.1017/S0007123413000525,hu,man,Manual,frame,NA
+2208,10.1017/S0007123413000525,sf,man,Manual,frame,NA
+2209,10.1017/S0007123413000525,bg,man,Manual,frame,NA
+2210,10.1017/S0007123413000525,lv,man,Manual,frame,NA
+2211,10.1017/S0007123413000525,li,man,Manual,frame,NA
+2212,10.1017/S0007123413000525,sk,man,Manual,frame,NA
+2213,10.1017/S000712341500006X,en,man,Manual,frame,NA
+2214,10.1017/S000712341500006X,de,man,Manual,frame,NA
+2215,10.1017/S000712341500006X,nl,man,Manual,frame,NA
+2216,10.1017/S000712341500006X,fr,man,Manual,frame,NA
+2217,10.1017/S000712341500006X,es,man,Manual,frame,NA
+2218,10.1017/S000712341500006X,it,man,Manual,frame,NA
+2219,10.1017/S000712341500006X,se,man,Manual,frame,NA
+2220,10.1017/S000712341500006X,pt,man,Manual,frame,NA
+2221,10.1017/S000712341500006X,dk,man,Manual,frame,NA
+2222,10.1017/S000712341500006X,gr,man,Manual,frame,NA
+2223,10.1017/S000712341500006X,cz,man,Manual,frame,NA
+2224,10.1017/S000712341500006X,pl,man,Manual,frame,NA
+2225,10.1017/S000712341500006X,hu,man,Manual,frame,NA
+2226,10.1017/S000712341500006X,sf,man,Manual,frame,NA
+2227,10.1017/S000712341500006X,bg,man,Manual,frame,NA
+2228,10.1017/S000712341500006X,lv,man,Manual,frame,NA
+2229,10.1017/S000712341500006X,li,man,Manual,frame,NA
+2230,10.1017/S000712341500006X,sk,man,Manual,frame,NA
+2231,10.1017/S000712341500006X,en,man,Manual,frame,NA
+2232,10.1017/S000712341500006X,de,man,Manual,frame,NA
+2233,10.1017/S000712341500006X,nl,man,Manual,frame,NA
+2234,10.1017/S000712341500006X,fr,man,Manual,frame,NA
+2235,10.1017/S000712341500006X,es,man,Manual,frame,NA
+2236,10.1017/S000712341500006X,it,man,Manual,frame,NA
+2237,10.1017/S000712341500006X,se,man,Manual,frame,NA
+2238,10.1017/S000712341500006X,pt,man,Manual,frame,NA
+2239,10.1017/S000712341500006X,dk,man,Manual,frame,NA
+2240,10.1017/S000712341500006X,gr,man,Manual,frame,NA
+2241,10.1017/S000712341500006X,cz,man,Manual,frame,NA
+2242,10.1017/S000712341500006X,pl,man,Manual,frame,NA
+2243,10.1017/S000712341500006X,hu,man,Manual,frame,NA
+2244,10.1017/S000712341500006X,sf,man,Manual,frame,NA
+2245,10.1017/S000712341500006X,bg,man,Manual,frame,NA
+2246,10.1017/S000712341500006X,lv,man,Manual,frame,NA
+2247,10.1017/S000712341500006X,li,man,Manual,frame,NA
+2248,10.1017/S000712341500006X,sk,man,Manual,frame,NA
+2249,10.1017/S0007123415000204,en,man,Manual,thing,NA
+2250,10.1017/S0007123415000204,de,man,Manual,thing,NA
+2251,10.1017/S0007123415000204,nl,man,Manual,thing,NA
+2252,10.1017/S0007123415000204,fr,man,Manual,thing,NA
+2253,10.1017/S0007123415000204,es,man,Manual,thing,NA
+2254,10.1017/S0007123415000204,it,man,Manual,thing,NA
+2255,10.1017/S0007123415000204,se,man,Manual,thing,NA
+2256,10.1017/S0007123415000204,pt,man,Manual,thing,NA
+2257,10.1017/S0007123415000204,dk,man,Manual,thing,NA
+2258,10.1017/S0007123415000204,gr,man,Manual,thing,NA
+2259,10.1017/S0007123415000204,cz,man,Manual,thing,NA
+2260,10.1017/S0007123415000204,pl,man,Manual,thing,NA
+2261,10.1017/S0007123415000204,hu,man,Manual,thing,NA
+2262,10.1017/S0007123415000204,sf,man,Manual,thing,NA
+2263,10.1017/S0007123415000204,bg,man,Manual,thing,NA
+2264,10.1017/S0007123415000204,lv,man,Manual,thing,NA
+2265,10.1017/S0007123415000204,ro,man,Manual,thing,NA
+2266,10.1017/S0007123415000204,sr,man,Manual,thing,NA
+2267,10.1017/S0007123415000204,ee,man,Manual,thing,NA
+2268,10.1017/S0007123415000204,sl,man,Manual,thing,NA
+2269,10.1017/S0007123415000204,li,man,Manual,thing,NA
+2270,10.1017/S0007123415000204,sk,man,Manual,thing,NA
+2271,10.1017/S0007123415000599,en,man,Manual,thing,NA
+2272,10.1017/S0007123415000599,es,man,Manual,thing,NA
+2273,10.1017/S0007123415000599,dk,man,Manual,thing,NA
+2274,10.1017/S0007123417000199,en,man,Manual,theme,NA
+2275,10.1017/S0007123417000199,es,man,Manual,theme,NA
+2276,10.1080/00913367.2015.1077491,en,man,Manual,const,NA
+2277,10.1080/00913367.2015.1077491,de,man,Manual,const,NA
+2278,10.1080/00913367.2015.1077491,fr,man,Manual,const,NA
+2279,10.1080/10584609.2015.1022240,en,man,Manual,thing,NA
+2280,10.1080/10584609.2015.1022240,en,man,Manual,theme,NA
+2281,10.1080/10584609.2015.1022240,en,man,Manual,props,NA
+2282,10.1080/10584609.2015.1022240,de,man,Manual,thing,NA
+2283,10.1080/10584609.2015.1022240,de,man,Manual,theme,NA
+2284,10.1080/10584609.2015.1022240,de,man,Manual,props,NA
+2285,10.1080/10584609.2015.1022240,fr,man,Manual,thing,NA
+2286,10.1080/10584609.2015.1022240,fr,man,Manual,theme,NA
+2287,10.1080/10584609.2015.1022240,fr,man,Manual,props,NA
+2288,10.1080/10584609.2017.1383953,en,man,Manual,thing,NA
+2289,10.1080/10584609.2017.1383953,en,man,Manual,theme,NA
+2290,10.1080/10584609.2017.1383953,de,man,Manual,thing,NA
+2291,10.1080/10584609.2017.1383953,de,man,Manual,theme,NA
+2292,10.1080/10584609.2017.1383953,nl,man,Manual,thing,NA
+2293,10.1080/10584609.2017.1383953,nl,man,Manual,theme,NA
+2294,10.1080/10584609.2017.1383953,fr,man,Manual,thing,NA
+2295,10.1080/10584609.2017.1383953,fr,man,Manual,theme,NA
+2296,10.1080/10584609.2017.1383953,es,man,Manual,thing,NA
+2297,10.1080/10584609.2017.1383953,es,man,Manual,theme,NA
+2298,10.1080/10584609.2017.1383953,it,man,Manual,thing,NA
+2299,10.1080/10584609.2017.1383953,it,man,Manual,theme,NA
+2300,10.1080/10584609.2017.1383953,se,man,Manual,thing,NA
+2301,10.1080/10584609.2017.1383953,se,man,Manual,theme,NA
+2302,10.1080/10584609.2017.1383953,he,man,Manual,thing,NA
+2303,10.1080/10584609.2017.1383953,he,man,Manual,theme,NA
+2304,10.1080/10584609.2017.1383953,pt,man,Manual,thing,NA
+2305,10.1080/10584609.2017.1383953,pt,man,Manual,theme,NA
+2306,10.1080/10584609.2017.1383953,dk,man,Manual,thing,NA
+2307,10.1080/10584609.2017.1383953,dk,man,Manual,theme,NA
+2308,10.1080/10584609.2017.1383953,gr,man,Manual,thing,NA
+2309,10.1080/10584609.2017.1383953,gr,man,Manual,theme,NA
+2310,10.1080/10584609.2017.1383953,no,man,Manual,thing,NA
+2311,10.1080/10584609.2017.1383953,no,man,Manual,theme,NA
+2312,10.1080/10584609.2019.1637980,en,man,Manual,thing,NA
+2313,10.1080/10584609.2019.1637980,en,man,Manual,attri,NA
+2314,10.1080/10584609.2019.1637980,en,man,Manual,props,NA
+2315,10.1080/10584609.2019.1637980,de,man,Manual,thing,NA
+2316,10.1080/10584609.2019.1637980,de,man,Manual,attri,NA
+2317,10.1080/10584609.2019.1637980,de,man,Manual,props,NA
+2318,10.1080/10584609.2019.1637980,fr,man,Manual,thing,NA
+2319,10.1080/10584609.2019.1637980,fr,man,Manual,attri,NA
+2320,10.1080/10584609.2019.1637980,fr,man,Manual,props,NA
+2321,10.1080/13501763.2016.1170192,se,man,Manual,props,NA
+2322,10.1080/13501763.2016.1170192,dk,man,Manual,props,NA
+2323,10.1080/13501763.2017.1375546,en,man,Manual,thing,NA
+2324,10.1080/13501763.2017.1375546,en,man,Manual,quali,NA
+2325,10.1080/13501763.2017.1375546,de,man,Manual,thing,NA
+2326,10.1080/13501763.2017.1375546,de,man,Manual,quali,NA
+2327,10.1080/13501763.2017.1375546,nl,man,Manual,thing,NA
+2328,10.1080/13501763.2017.1375546,nl,man,Manual,quali,NA
+2329,10.1080/13501763.2017.1375546,fr,man,Manual,thing,NA
+2330,10.1080/13501763.2017.1375546,fr,man,Manual,quali,NA
+2331,10.1080/13501763.2017.1375546,pt,man,Manual,thing,NA
+2332,10.1080/13501763.2017.1375546,pt,man,Manual,quali,NA
+2333,10.1080/13501763.2017.1375546,gr,man,Manual,thing,NA
+2334,10.1080/13501763.2017.1375546,gr,man,Manual,quali,NA
+2335,10.1080/13501763.2019.1599041,en,man,Manual,thing,NA
+2336,10.1080/13501763.2019.1599041,en,man,Manual,attri,NA
+2337,10.1080/13501763.2019.1599041,dk,man,Manual,thing,NA
+2338,10.1080/13501763.2019.1599041,dk,man,Manual,attri,NA
+2339,10.1080/13501763.2019.1622587,en,man,Manual,theme,NA
+2340,10.1080/13501763.2019.1622587,en,man,Manual,quali,NA
+2341,10.1080/13501763.2019.1622587,de,man,Manual,theme,NA
+2342,10.1080/13501763.2019.1622587,de,man,Manual,quali,NA
+2343,10.1080/13501763.2019.1622587,nl,man,Manual,theme,NA
+2344,10.1080/13501763.2019.1622587,nl,man,Manual,quali,NA
+2345,10.1080/13501763.2019.1622587,fr,man,Manual,theme,NA
+2346,10.1080/13501763.2019.1622587,fr,man,Manual,quali,NA
+2347,10.1080/13501763.2019.1622587,it,man,Manual,theme,NA
+2348,10.1080/13501763.2019.1622587,it,man,Manual,quali,NA
+2349,10.1080/13501763.2019.1622587,se,man,Manual,theme,NA
+2350,10.1080/13501763.2019.1622587,se,man,Manual,quali,NA
+2351,10.1080/13501763.2020.1815825,en,man,Manual,attri,NA
+2352,10.1080/13501763.2020.1815825,de,man,Manual,attri,NA
+2353,10.1080/13501763.2020.1815825,nl,man,Manual,attri,NA
+2354,10.1080/13501763.2020.1815825,es,man,Manual,attri,NA
+2355,10.1080/13501763.2020.1815825,it,man,Manual,attri,NA
+2356,10.1080/13501763.2020.1815825,se,man,Manual,attri,NA
+2357,10.1080/13563467.2019.1586864,en,man,Manual,thing,NA
+2358,10.1080/13563467.2019.1586864,en,man,Manual,theme,NA
+2359,10.1080/13563467.2019.1586864,en,man,Manual,senti,NA
+2360,10.1080/13563467.2019.1586864,de,man,Manual,thing,NA
+2361,10.1080/13563467.2019.1586864,de,man,Manual,theme,NA
+2362,10.1080/13563467.2019.1586864,de,man,Manual,senti,NA
+2363,10.1080/1461670X.2014.963369,en,man,Manual,frame,NA
+2364,10.1080/1461670X.2014.963369,de,man,Manual,frame,NA
+2365,10.1080/1461670X.2014.963369,fr,man,Manual,frame,NA
+2366,10.1080/1461670X.2014.963369,it,man,Manual,frame,NA
+2367,10.1080/1461670X.2014.987549,en,man,Manual,attri,NA
+2368,10.1080/1461670X.2014.987549,en,man,Manual,props,NA
+2369,10.1080/1461670X.2014.987549,en,man,Manual,frame,NA
+2370,10.1080/1461670X.2014.987549,fr,man,Manual,attri,NA
+2371,10.1080/1461670X.2014.987549,fr,man,Manual,props,NA
+2372,10.1080/1461670X.2014.987549,fr,man,Manual,frame,NA
+2373,10.1080/1461670X.2014.987549,no,man,Manual,attri,NA
+2374,10.1080/1461670X.2014.987549,no,man,Manual,props,NA
+2375,10.1080/1461670X.2014.987549,no,man,Manual,frame,NA
+2376,10.1080/1461670X.2015.1017596,en,man,Manual,quali,NA
+2377,10.1080/1461670X.2015.1017596,nl,man,Manual,quali,NA
+2378,10.1080/1461670X.2015.1017596,fr,man,Manual,quali,NA
+2379,10.1080/1461670X.2015.1040891,en,man,Manual,thing,NA
+2380,10.1080/1461670X.2015.1040891,en,man,Manual,theme,NA
+2381,10.1080/1461670X.2015.1040891,en,man,Manual,senti,NA
+2382,10.1080/1461670X.2015.1040891,en,man,Manual,frame,NA
+2383,10.1080/1461670X.2015.1040891,it,man,Manual,thing,NA
+2384,10.1080/1461670X.2015.1040891,it,man,Manual,theme,NA
+2385,10.1080/1461670X.2015.1040891,it,man,Manual,senti,NA
+2386,10.1080/1461670X.2015.1040891,it,man,Manual,frame,NA
+2387,10.1080/1461670X.2015.1040891,se,man,Manual,thing,NA
+2388,10.1080/1461670X.2015.1040891,se,man,Manual,theme,NA
+2389,10.1080/1461670X.2015.1040891,se,man,Manual,senti,NA
+2390,10.1080/1461670X.2015.1040891,se,man,Manual,frame,NA
+2391,10.1080/1461670X.2015.1066231,se,man,Manual,thing,NA
+2392,10.1080/1461670X.2015.1066231,se,man,Manual,const,NA
+2393,10.1080/1461670X.2015.1066231,se,man,Manual,theme,NA
+2394,10.1080/1461670X.2015.1066231,se,man,Manual,attri,NA
+2395,10.1080/1461670X.2015.1066231,dk,man,Manual,thing,NA
+2396,10.1080/1461670X.2015.1066231,dk,man,Manual,const,NA
+2397,10.1080/1461670X.2015.1066231,dk,man,Manual,theme,NA
+2398,10.1080/1461670X.2015.1066231,dk,man,Manual,attri,NA
+2399,10.1080/1461670X.2015.1066231,no,man,Manual,thing,NA
+2400,10.1080/1461670X.2015.1066231,no,man,Manual,const,NA
+2401,10.1080/1461670X.2015.1066231,no,man,Manual,theme,NA
+2402,10.1080/1461670X.2015.1066231,no,man,Manual,attri,NA
+2403,10.1080/1461670X.2015.1066231,sf,man,Manual,thing,NA
+2404,10.1080/1461670X.2015.1066231,sf,man,Manual,const,NA
+2405,10.1080/1461670X.2015.1066231,sf,man,Manual,theme,NA
+2406,10.1080/1461670X.2015.1066231,sf,man,Manual,attri,NA
+2407,10.1080/1461670X.2015.1087815,en,man,Manual,thing,NA
+2408,10.1080/1461670X.2015.1087815,de,man,Manual,thing,NA
+2409,10.1080/1461670X.2015.1087815,nl,man,Manual,thing,NA
+2410,10.1080/1461670X.2015.1087815,fr,man,Manual,thing,NA
+2411,10.1080/1461670X.2015.1087815,es,man,Manual,thing,NA
+2412,10.1080/1461670X.2015.1087815,it,man,Manual,thing,NA
+2413,10.1080/1461670X.2015.1087815,se,man,Manual,thing,NA
+2414,10.1080/1461670X.2015.1087815,pt,man,Manual,thing,NA
+2415,10.1080/1461670X.2015.1087815,dk,man,Manual,thing,NA
+2416,10.1080/1461670X.2015.1087815,gr,man,Manual,thing,NA
+2417,10.1080/1461670X.2015.1087815,cz,man,Manual,thing,NA
+2418,10.1080/1461670X.2015.1087815,pl,man,Manual,thing,NA
+2419,10.1080/1461670X.2015.1087815,sf,man,Manual,thing,NA
+2420,10.1080/1461670X.2015.1087815,bg,man,Manual,thing,NA
+2421,10.1080/1461670X.2015.1087815,lv,man,Manual,thing,NA
+2422,10.1080/1461670X.2015.1087815,ro,man,Manual,thing,NA
+2423,10.1080/1461670X.2015.1087815,sr,man,Manual,thing,NA
+2424,10.1080/1461670X.2015.1087815,ee,man,Manual,thing,NA
+2425,10.1080/1461670X.2015.1087815,sl,man,Manual,thing,NA
+2426,10.1080/1461670X.2015.1087815,li,man,Manual,thing,NA
+2427,10.1080/1461670X.2015.1087815,sk,man,Manual,thing,NA
+2428,10.1080/1461670X.2016.1165138,en,man,Manual,types,NA
+2429,10.1080/1461670X.2016.1165138,es,man,Manual,types,NA
+2430,10.1080/1461670X.2016.1165138,se,man,Manual,types,NA
+2431,10.1080/1461670X.2016.1251332,se,man,Manual,theme,NA
+2432,10.1080/1461670X.2016.1251332,ru,man,Manual,theme,NA
+2433,10.1080/1461670X.2016.1251332,pl,man,Manual,theme,NA
+2434,10.1080/1461670X.2016.1251332,ua,man,Manual,theme,NA
+2435,10.1080/1461670X.2016.1265896,en,man,Manual,forma,NA
+2436,10.1080/1461670X.2016.1265896,en,man,Manual,theme,NA
+2437,10.1080/1461670X.2016.1265896,en,man,Manual,quali,NA
+2438,10.1080/1461670X.2016.1265896,es,man,Manual,forma,NA
+2439,10.1080/1461670X.2016.1265896,es,man,Manual,theme,NA
+2440,10.1080/1461670X.2016.1265896,es,man,Manual,quali,NA
+2441,10.1080/1461670X.2016.1265896,pt,man,Manual,forma,NA
+2442,10.1080/1461670X.2016.1265896,pt,man,Manual,theme,NA
+2443,10.1080/1461670X.2016.1265896,pt,man,Manual,quali,NA
+2444,10.1080/1461670X.2017.1308229,en,man,Manual,thing,NA
+2445,10.1080/1461670X.2017.1308229,en,man,Manual,const,NA
+2446,10.1080/1461670X.2017.1308229,en,man,Manual,attri,NA
+2447,10.1080/1461670X.2017.1308229,de,man,Manual,thing,NA
+2448,10.1080/1461670X.2017.1308229,de,man,Manual,const,NA
+2449,10.1080/1461670X.2017.1308229,de,man,Manual,attri,NA
+2450,10.1080/1461670X.2017.1308229,fr,man,Manual,thing,NA
+2451,10.1080/1461670X.2017.1308229,fr,man,Manual,const,NA
+2452,10.1080/1461670X.2017.1308229,fr,man,Manual,attri,NA
+2453,10.1080/1461670X.2017.1308229,it,man,Manual,thing,NA
+2454,10.1080/1461670X.2017.1308229,it,man,Manual,const,NA
+2455,10.1080/1461670X.2017.1308229,it,man,Manual,attri,NA
+2456,10.1080/1461670X.2017.1343650,en,man,Manual,thing,NA
+2457,10.1080/1461670X.2017.1343650,en,man,Manual,attri,NA
+2458,10.1080/1461670X.2017.1343650,en,man,Manual,frame,NA
+2459,10.1080/1461670X.2017.1343650,de,man,Manual,thing,NA
+2460,10.1080/1461670X.2017.1343650,de,man,Manual,attri,NA
+2461,10.1080/1461670X.2017.1343650,de,man,Manual,frame,NA
+2462,10.1080/1461670X.2017.1343650,nl,man,Manual,thing,NA
+2463,10.1080/1461670X.2017.1343650,nl,man,Manual,attri,NA
+2464,10.1080/1461670X.2017.1343650,nl,man,Manual,frame,NA
+2465,10.1080/1461670X.2017.1343650,it,man,Manual,thing,NA
+2466,10.1080/1461670X.2017.1343650,it,man,Manual,attri,NA
+2467,10.1080/1461670X.2017.1343650,it,man,Manual,frame,NA
+2468,10.1080/1461670X.2017.1399813,en,man,Manual,thing,NA
+2469,10.1080/1461670X.2017.1399813,en,man,Manual,theme,NA
+2470,10.1080/1461670X.2017.1399813,en,man,Manual,props,NA
+2471,10.1080/1461670X.2017.1399813,en,man,Manual,pragm,NA
+2472,10.1080/1461670X.2017.1399813,cn,man,Manual,thing,NA
+2473,10.1080/1461670X.2017.1399813,cn,man,Manual,theme,NA
+2474,10.1080/1461670X.2017.1399813,cn,man,Manual,props,NA
+2475,10.1080/1461670X.2017.1399813,cn,man,Manual,pragm,NA
+2476,10.1080/1461670X.2018.1423631,de,man,Manual,thing,NA
+2477,10.1080/1461670X.2018.1423631,de,man,Manual,const,NA
+2478,10.1080/1461670X.2018.1423631,de,man,Manual,quali,NA
+2479,10.1080/1461670X.2018.1423631,fr,man,Manual,thing,NA
+2480,10.1080/1461670X.2018.1423631,fr,man,Manual,const,NA
+2481,10.1080/1461670X.2018.1423631,fr,man,Manual,quali,NA
+2482,10.1080/1461670X.2018.1423631,it,man,Manual,thing,NA
+2483,10.1080/1461670X.2018.1423631,it,man,Manual,const,NA
+2484,10.1080/1461670X.2018.1423631,it,man,Manual,quali,NA
+2485,10.1080/1461670X.2018.1463168,en,man,Manual,quali,NA
+2486,10.1080/1461670X.2018.1463168,ph,man,Manual,quali,NA
+2487,10.1080/1461670X.2019.1580149,en,man,Manual,theme,NA
+2488,10.1080/1461670X.2019.1580149,en,man,Manual,pragm,NA
+2489,10.1080/1461670X.2019.1580149,fr,man,Manual,theme,NA
+2490,10.1080/1461670X.2019.1580149,fr,man,Manual,pragm,NA
+2491,10.1080/1461670X.2019.1580149,es,man,Manual,theme,NA
+2492,10.1080/1461670X.2019.1580149,es,man,Manual,pragm,NA
+2493,10.1080/1461670X.2019.1580149,it,man,Manual,theme,NA
+2494,10.1080/1461670X.2019.1580149,it,man,Manual,pragm,NA
+2495,10.1080/1461670X.2019.1586566,fr,man,Manual,const,NA
+2496,10.1080/1461670X.2019.1586566,fr,man,Manual,theme,NA
+2497,10.1080/1461670X.2019.1586566,fr,man,Manual,senti,NA
+2498,10.1080/1461670X.2019.1586566,es,man,Manual,const,NA
+2499,10.1080/1461670X.2019.1586566,es,man,Manual,theme,NA
+2500,10.1080/1461670X.2019.1586566,es,man,Manual,senti,NA
+2501,10.1080/1461670X.2019.1586566,it,man,Manual,const,NA
+2502,10.1080/1461670X.2019.1586566,it,man,Manual,theme,NA
+2503,10.1080/1461670X.2019.1586566,it,man,Manual,senti,NA
+2504,10.1080/1461670X.2019.1586566,pt,man,Manual,const,NA
+2505,10.1080/1461670X.2019.1586566,pt,man,Manual,theme,NA
+2506,10.1080/1461670X.2019.1586566,pt,man,Manual,senti,NA
+2507,10.1080/1461670X.2020.1722730,de,man,Manual,thing,NA
+2508,10.1080/1461670X.2020.1722730,de,man,Manual,theme,NA
+2509,10.1080/1461670X.2020.1722730,de,man,Manual,attri,NA
+2510,10.1080/1461670X.2020.1722730,de,man,Manual,frame,NA
+2511,10.1080/1461670X.2020.1722730,nl,man,Manual,thing,NA
+2512,10.1080/1461670X.2020.1722730,nl,man,Manual,theme,NA
+2513,10.1080/1461670X.2020.1722730,nl,man,Manual,attri,NA
+2514,10.1080/1461670X.2020.1722730,nl,man,Manual,frame,NA
+2515,10.1080/1461670X.2020.1722730,it,man,Manual,thing,NA
+2516,10.1080/1461670X.2020.1722730,it,man,Manual,theme,NA
+2517,10.1080/1461670X.2020.1722730,it,man,Manual,attri,NA
+2518,10.1080/1461670X.2020.1722730,it,man,Manual,frame,NA
+2519,10.1080/1461670X.2020.1722731,se,man,Manual,const,NA
+2520,10.1080/1461670X.2020.1722731,se,man,Manual,senti,NA
+2521,10.1080/1461670X.2020.1722731,se,man,Manual,relas,NA
+2522,10.1080/1461670X.2020.1722731,dk,man,Manual,const,NA
+2523,10.1080/1461670X.2020.1722731,dk,man,Manual,senti,NA
+2524,10.1080/1461670X.2020.1722731,dk,man,Manual,relas,NA
+2525,10.1080/1461670X.2020.1722731,no,man,Manual,const,NA
+2526,10.1080/1461670X.2020.1722731,no,man,Manual,senti,NA
+2527,10.1080/1461670X.2020.1722731,no,man,Manual,relas,NA
+2528,10.1080/1461670X.2020.1771193,de,man,Manual,thing,NA
+2529,10.1080/1461670X.2020.1771193,de,man,Manual,theme,NA
+2530,10.1080/1461670X.2020.1771193,fr,man,Manual,thing,NA
+2531,10.1080/1461670X.2020.1771193,fr,man,Manual,theme,NA
+2532,10.1080/1461670X.2020.1771193,it,man,Manual,thing,NA
+2533,10.1080/1461670X.2020.1771193,it,man,Manual,theme,NA
+2534,10.1080/1461670X.2020.1776144,en,man,Manual,thing,NA
+2535,10.1080/1461670X.2020.1776144,en,man,Manual,const,NA
+2536,10.1080/1461670X.2020.1776144,en,man,Manual,types,NA
+2537,10.1080/1461670X.2020.1776144,en,man,Manual,frame,NA
+2538,10.1080/1461670X.2020.1776144,es,man,Manual,thing,NA
+2539,10.1080/1461670X.2020.1776144,es,man,Manual,const,NA
+2540,10.1080/1461670X.2020.1776144,es,man,Manual,types,NA
+2541,10.1080/1461670X.2020.1776144,es,man,Manual,frame,NA
+2542,10.1080/1461670X.2020.1797526,en,man,Manual,const,NA
+2543,10.1080/1461670X.2020.1797526,en,man,Manual,pragm,NA
+2544,10.1080/1461670X.2020.1797526,he,man,Manual,const,NA
+2545,10.1080/1461670X.2020.1797526,he,man,Manual,pragm,NA
+2546,10.1080/1461670X.2020.1797526,ar,man,Manual,const,NA
+2547,10.1080/1461670X.2020.1797526,ar,man,Manual,pragm,NA
+2548,10.1093/ser/mww034,en,man,Manual,frame,NA
+2549,10.1093/ser/mww034,de,man,Manual,frame,NA
+2550,10.1093/ser/mwx016,de,man,Manual,quali,NA
+2551,10.1093/ser/mwx016,fr,man,Manual,quali,NA
+2552,10.1093/ser/mwx016,es,man,Manual,quali,NA
+2553,10.1093/ser/mwx016,it,man,Manual,quali,NA
+2554,10.1111/jcom.12202,en,man,Manual,const,NA
+2555,10.1111/jcom.12202,he,man,Manual,const,NA
+2556,10.1111/jcom.12296,en,man,Manual,forma,NA
+2557,10.1111/jcom.12296,en,man,Manual,theme,NA
+2558,10.1111/jcom.12296,en,man,Manual,frame,NA
+2559,10.1111/jcom.12296,es,man,Manual,forma,NA
+2560,10.1111/jcom.12296,es,man,Manual,theme,NA
+2561,10.1111/jcom.12296,es,man,Manual,frame,NA
+2562,10.1111/jcom.12337,en,man,Manual,attri,NA
+2563,10.1111/jcom.12337,en,man,Manual,props,NA
+2564,10.1111/jcom.12337,en,man,Manual,frame,NA
+2565,10.1111/jcom.12337,de,man,Manual,attri,NA
+2566,10.1111/jcom.12337,de,man,Manual,props,NA
+2567,10.1111/jcom.12337,de,man,Manual,frame,NA
+2568,10.1111/jcom.12337,fr,man,Manual,attri,NA
+2569,10.1111/jcom.12337,fr,man,Manual,props,NA
+2570,10.1111/jcom.12337,fr,man,Manual,frame,NA
+2571,10.1111/pops.12227,he,man,Manual,senti,NA
+2572,10.1111/pops.12227,he,man,Manual,attri,NA
+2573,10.1111/pops.12227,ar,man,Manual,senti,NA
+2574,10.1111/pops.12227,ar,man,Manual,attri,NA
+2575,10.1111/pops.12583,en,man,Manual,quali,NA
+2576,10.1111/pops.12583,ru,man,Manual,quali,NA
+2577,10.1111/rego.12153,de,man,Manual,quali,NA
+2578,10.1111/rego.12153,nl,man,Manual,quali,NA
+2579,10.1111/rego.12153,fr,man,Manual,quali,NA
+2580,10.1111/rego.12302,en,man,Manual,types,NA
+2581,10.1111/rego.12302,es,man,Manual,types,NA
+2582,10.1177/0010414017695334,en,man,Manual,thing,NA
+2583,10.1177/0010414017695334,en,man,Manual,attri,NA
+2584,10.1177/0010414017695334,de,man,Manual,thing,NA
+2585,10.1177/0010414017695334,de,man,Manual,attri,NA
+2586,10.1177/0010414017695334,nl,man,Manual,thing,NA
+2587,10.1177/0010414017695334,nl,man,Manual,attri,NA
+2588,10.1177/0010414017695334,se,man,Manual,thing,NA
+2589,10.1177/0010414017695334,se,man,Manual,attri,NA
+2590,10.1177/0010414017695334,dk,man,Manual,thing,NA
+2591,10.1177/0010414017695334,dk,man,Manual,attri,NA
+2592,10.1177/0010414018774347,en,man,Manual,thing,NA
+2593,10.1177/0010414018774347,nl,man,Manual,thing,NA
+2594,10.1177/0010414018774347,fr,man,Manual,thing,NA
+2595,10.1177/0010414018774347,es,man,Manual,thing,NA
+2596,10.1177/0010414018774347,pt,man,Manual,thing,NA
+2597,10.1177/0010414018784044,en,man,Manual,thing,NA
+2598,10.1177/0010414018784044,en,man,Manual,attri,NA
+2599,10.1177/0010414018784044,de,man,Manual,thing,NA
+2600,10.1177/0010414018784044,de,man,Manual,attri,NA
+2601,10.1177/0010414018784044,nl,man,Manual,thing,NA
+2602,10.1177/0010414018784044,nl,man,Manual,attri,NA
+2603,10.1177/0010414018784044,se,man,Manual,thing,NA
+2604,10.1177/0010414018784044,se,man,Manual,attri,NA
+2605,10.1177/0010414018784044,dk,man,Manual,thing,NA
+2606,10.1177/0010414018784044,dk,man,Manual,attri,NA
+2607,10.1177/0010414019830726,en,man,Manual,theme,NA
+2608,10.1177/0010414019830726,de,man,Manual,theme,NA
+2609,10.1177/0010414019830726,nl,man,Manual,theme,NA
+2610,10.1177/0010414019830726,fr,man,Manual,theme,NA
+2611,10.1177/0010414019830726,es,man,Manual,theme,NA
+2612,10.1177/0010414019830726,it,man,Manual,theme,NA
+2613,10.1177/0010414019830726,se,man,Manual,theme,NA
+2614,10.1177/0010414019830726,pt,man,Manual,theme,NA
+2615,10.1177/0010414019830726,dk,man,Manual,theme,NA
+2616,10.1177/0010414019830726,gr,man,Manual,theme,NA
+2617,10.1177/0010414019830726,cz,man,Manual,theme,NA
+2618,10.1177/0010414019830726,pl,man,Manual,theme,NA
+2619,10.1177/0010414019830726,hu,man,Manual,theme,NA
+2620,10.1177/0010414019830726,sf,man,Manual,theme,NA
+2621,10.1177/0010414019830726,bg,man,Manual,theme,NA
+2622,10.1177/0010414019830726,lv,man,Manual,theme,NA
+2623,10.1177/0010414019830726,ro,man,Manual,theme,NA
+2624,10.1177/0010414019830726,sr,man,Manual,theme,NA
+2625,10.1177/0010414019830726,ee,man,Manual,theme,NA
+2626,10.1177/0010414019830726,sl,man,Manual,theme,NA
+2627,10.1177/0010414019830726,li,man,Manual,theme,NA
+2628,10.1177/0010414019830726,sk,man,Manual,theme,NA
+2629,10.1177/0093650214565923,en,man,Manual,thing,NA
+2630,10.1177/0093650214565923,en,man,Manual,types,NA
+2631,10.1177/0093650214565923,de,man,Manual,thing,NA
+2632,10.1177/0093650214565923,de,man,Manual,types,NA
+2633,10.1177/0093650214565923,es,man,Manual,thing,NA
+2634,10.1177/0093650214565923,es,man,Manual,types,NA
+2635,10.1177/0093650214565923,cn,man,Manual,thing,NA
+2636,10.1177/0093650214565923,cn,man,Manual,types,NA
+2637,10.1177/0093650214565923,pt,man,Manual,thing,NA
+2638,10.1177/0093650214565923,pt,man,Manual,types,NA
+2639,10.1177/0093650214565923,pl,man,Manual,thing,NA
+2640,10.1177/0093650214565923,pl,man,Manual,types,NA
+2641,10.1177/0267323116647235,en,man,Manual,const,NA
+2642,10.1177/0267323116647235,en,man,Manual,attri,NA
+2643,10.1177/0267323116647235,en,man,Manual,frame,NA
+2644,10.1177/0267323116647235,de,man,Manual,const,NA
+2645,10.1177/0267323116647235,de,man,Manual,attri,NA
+2646,10.1177/0267323116647235,de,man,Manual,frame,NA
+2647,10.1177/0267323116647235,nl,man,Manual,const,NA
+2648,10.1177/0267323116647235,nl,man,Manual,attri,NA
+2649,10.1177/0267323116647235,nl,man,Manual,frame,NA
+2650,10.1177/0267323116647235,cz,man,Manual,const,NA
+2651,10.1177/0267323116647235,cz,man,Manual,attri,NA
+2652,10.1177/0267323116647235,cz,man,Manual,frame,NA
+2653,10.1177/0267323116647235,sk,man,Manual,const,NA
+2654,10.1177/0267323116647235,sk,man,Manual,attri,NA
+2655,10.1177/0267323116647235,sk,man,Manual,frame,NA
+2656,10.1177/0267323116659977,en,man,Manual,quali,NA
+2657,10.1177/0267323116659977,en,man,Manual,attri,NA
+2658,10.1177/0267323116659977,en,man,Manual,frame,NA
+2659,10.1177/0267323116659977,de,man,Manual,quali,NA
+2660,10.1177/0267323116659977,de,man,Manual,attri,NA
+2661,10.1177/0267323116659977,de,man,Manual,frame,NA
+2662,10.1177/0267323116659977,fr,man,Manual,quali,NA
+2663,10.1177/0267323116659977,fr,man,Manual,attri,NA
+2664,10.1177/0267323116659977,fr,man,Manual,frame,NA
+2665,10.1177/0267323116659977,es,man,Manual,quali,NA
+2666,10.1177/0267323116659977,es,man,Manual,attri,NA
+2667,10.1177/0267323116659977,es,man,Manual,frame,NA
+2668,10.1177/0267323116659977,it,man,Manual,quali,NA
+2669,10.1177/0267323116659977,it,man,Manual,attri,NA
+2670,10.1177/0267323116659977,it,man,Manual,frame,NA
+2671,10.1177/0267323116659977,gr,man,Manual,quali,NA
+2672,10.1177/0267323116659977,gr,man,Manual,attri,NA
+2673,10.1177/0267323116659977,gr,man,Manual,frame,NA
+2674,10.1177/0267323116666478,de,man,Manual,const,NA
+2675,10.1177/0267323116666478,de,man,Manual,senti,NA
+2676,10.1177/0267323116666478,de,man,Manual,props,NA
+2677,10.1177/0267323116666478,de,man,Manual,frame,NA
+2678,10.1177/0267323116666478,fr,man,Manual,const,NA
+2679,10.1177/0267323116666478,fr,man,Manual,senti,NA
+2680,10.1177/0267323116666478,fr,man,Manual,props,NA
+2681,10.1177/0267323116666478,fr,man,Manual,frame,NA
+2682,10.1177/0267323116666478,it,man,Manual,const,NA
+2683,10.1177/0267323116666478,it,man,Manual,senti,NA
+2684,10.1177/0267323116666478,it,man,Manual,props,NA
+2685,10.1177/0267323116666478,it,man,Manual,frame,NA
+2686,10.1177/0267323116674110,en,man,Manual,const,NA
+2687,10.1177/0267323116674110,en,man,Manual,theme,NA
+2688,10.1177/0267323116674110,en,man,Manual,props,NA
+2689,10.1177/0267323116674110,dk,man,Manual,const,NA
+2690,10.1177/0267323116674110,dk,man,Manual,theme,NA
+2691,10.1177/0267323116674110,dk,man,Manual,props,NA
+2692,10.1177/0267323117720342,es,man,Manual,thing,NA
+2693,10.1177/0267323117720342,es,man,Manual,const,NA
+2694,10.1177/0267323117720342,es,man,Manual,senti,NA
+2695,10.1177/0267323117720342,es,man,Manual,props,NA
+2696,10.1177/0267323117720342,gr,man,Manual,thing,NA
+2697,10.1177/0267323117720342,gr,man,Manual,const,NA
+2698,10.1177/0267323117720342,gr,man,Manual,senti,NA
+2699,10.1177/0267323117720342,gr,man,Manual,props,NA
+2700,10.1177/0267323117720343,en,man,Manual,theme,NA
+2701,10.1177/0267323117720343,en,man,Manual,quali,NA
+2702,10.1177/0267323117720343,de,man,Manual,theme,NA
+2703,10.1177/0267323117720343,de,man,Manual,quali,NA
+2704,10.1177/0267323117720343,fr,man,Manual,theme,NA
+2705,10.1177/0267323117720343,fr,man,Manual,quali,NA
+2706,10.1177/0267323117720343,it,man,Manual,theme,NA
+2707,10.1177/0267323117720343,it,man,Manual,quali,NA
+2708,10.1177/0267323117725972,en,man,Manual,thing,NA
+2709,10.1177/0267323117725972,sr,man,Manual,thing,NA
+2710,10.1177/0267323117737953,fr,man,Manual,theme,NA
+2711,10.1177/0267323117737953,fr,man,Manual,quali,NA
+2712,10.1177/0267323117737953,gr,man,Manual,theme,NA
+2713,10.1177/0267323117737953,gr,man,Manual,quali,NA
+2714,10.1177/0267323117750673,en,man,Manual,thing,NA
+2715,10.1177/0267323117750673,en,man,Manual,const,NA
+2716,10.1177/0267323117750673,en,man,Manual,props,NA
+2717,10.1177/0267323117750673,fr,man,Manual,thing,NA
+2718,10.1177/0267323117750673,fr,man,Manual,const,NA
+2719,10.1177/0267323117750673,fr,man,Manual,props,NA
+2720,10.1177/0267323117750673,it,man,Manual,thing,NA
+2721,10.1177/0267323117750673,it,man,Manual,const,NA
+2722,10.1177/0267323117750673,it,man,Manual,props,NA
+2723,10.1177/0267323117750673,hu,man,Manual,thing,NA
+2724,10.1177/0267323117750673,hu,man,Manual,const,NA
+2725,10.1177/0267323117750673,hu,man,Manual,props,NA
+2726,10.1177/0267323117750673,lv,man,Manual,thing,NA
+2727,10.1177/0267323117750673,lv,man,Manual,const,NA
+2728,10.1177/0267323117750673,lv,man,Manual,props,NA
+2729,10.1177/0267323117750673,ro,man,Manual,thing,NA
+2730,10.1177/0267323117750673,ro,man,Manual,const,NA
+2731,10.1177/0267323117750673,ro,man,Manual,props,NA
+2732,10.1177/0267323118790155,en,man,Manual,thing,NA
+2733,10.1177/0267323118790155,en,man,Manual,attri,NA
+2734,10.1177/0267323118790155,fr,man,Manual,thing,NA
+2735,10.1177/0267323118790155,fr,man,Manual,attri,NA
+2736,10.1177/0267323118790155,ru,man,Manual,thing,NA
+2737,10.1177/0267323118790155,ru,man,Manual,attri,NA
+2738,10.1177/0267323118790155,sf,man,Manual,thing,NA
+2739,10.1177/0267323118790155,sf,man,Manual,attri,NA
+2740,10.1177/0267323118810884,cz,man,Manual,forma,NA
+2741,10.1177/0267323118810884,cz,man,Manual,thing,NA
+2742,10.1177/0267323118810884,cz,man,Manual,theme,NA
+2743,10.1177/0267323118810884,cz,man,Manual,attri,NA
+2744,10.1177/0267323118810884,cz,man,Manual,pragm,NA
+2745,10.1177/0267323118810884,pl,man,Manual,forma,NA
+2746,10.1177/0267323118810884,pl,man,Manual,thing,NA
+2747,10.1177/0267323118810884,pl,man,Manual,theme,NA
+2748,10.1177/0267323118810884,pl,man,Manual,attri,NA
+2749,10.1177/0267323118810884,pl,man,Manual,pragm,NA
+2750,10.1177/0267323120909292,en,man,Manual,thing,NA
+2751,10.1177/0267323120909292,en,man,Manual,quali,NA
+2752,10.1177/0267323120909292,en,man,Manual,attri,NA
+2753,10.1177/0267323120909292,en,man,Manual,props,NA
+2754,10.1177/0267323120909292,de,man,Manual,thing,NA
+2755,10.1177/0267323120909292,de,man,Manual,quali,NA
+2756,10.1177/0267323120909292,de,man,Manual,attri,NA
+2757,10.1177/0267323120909292,de,man,Manual,props,NA
+2758,10.1177/0267323120909292,nl,man,Manual,thing,NA
+2759,10.1177/0267323120909292,nl,man,Manual,quali,NA
+2760,10.1177/0267323120909292,nl,man,Manual,attri,NA
+2761,10.1177/0267323120909292,nl,man,Manual,props,NA
+2762,10.1177/0267323120909292,fr,man,Manual,thing,NA
+2763,10.1177/0267323120909292,fr,man,Manual,quali,NA
+2764,10.1177/0267323120909292,fr,man,Manual,attri,NA
+2765,10.1177/0267323120909292,fr,man,Manual,props,NA
+2766,10.1177/0267323120909292,es,man,Manual,thing,NA
+2767,10.1177/0267323120909292,es,man,Manual,quali,NA
+2768,10.1177/0267323120909292,es,man,Manual,attri,NA
+2769,10.1177/0267323120909292,es,man,Manual,props,NA
+2770,10.1177/0267323120909292,it,man,Manual,thing,NA
+2771,10.1177/0267323120909292,it,man,Manual,quali,NA
+2772,10.1177/0267323120909292,it,man,Manual,attri,NA
+2773,10.1177/0267323120909292,it,man,Manual,props,NA
+2774,10.1177/0267323120909292,se,man,Manual,thing,NA
+2775,10.1177/0267323120909292,se,man,Manual,quali,NA
+2776,10.1177/0267323120909292,se,man,Manual,attri,NA
+2777,10.1177/0267323120909292,se,man,Manual,props,NA
+2778,10.1177/0267323120909292,gr,man,Manual,thing,NA
+2779,10.1177/0267323120909292,gr,man,Manual,quali,NA
+2780,10.1177/0267323120909292,gr,man,Manual,attri,NA
+2781,10.1177/0267323120909292,gr,man,Manual,props,NA
+2782,10.1177/0267323120909292,no,man,Manual,thing,NA
+2783,10.1177/0267323120909292,no,man,Manual,quali,NA
+2784,10.1177/0267323120909292,no,man,Manual,attri,NA
+2785,10.1177/0267323120909292,no,man,Manual,props,NA
+2786,10.1177/0267323120909292,sf,man,Manual,thing,NA
+2787,10.1177/0267323120909292,sf,man,Manual,quali,NA
+2788,10.1177/0267323120909292,sf,man,Manual,attri,NA
+2789,10.1177/0267323120909292,sf,man,Manual,props,NA
+2790,10.1177/1461444814546728,en,man,Manual,forma,NA
+2791,10.1177/1461444814546728,en,man,Manual,theme,NA
+2792,10.1177/1461444814546728,en,man,Manual,pragm,NA
+2793,10.1177/1461444814546728,en,man,Manual,other,NA
+2794,10.1177/1461444814546728,nl,man,Manual,forma,NA
+2795,10.1177/1461444814546728,nl,man,Manual,theme,NA
+2796,10.1177/1461444814546728,nl,man,Manual,pragm,NA
+2797,10.1177/1461444814546728,nl,man,Manual,other,NA
+2798,10.1177/1461444817719087,en,man,Manual,const,NA
+2799,10.1177/1461444817719087,en,man,Manual,types,NA
+2800,10.1177/1461444817719087,en,man,Manual,other,NA
+2801,10.1177/1461444817719087,cz,man,Manual,const,NA
+2802,10.1177/1461444817719087,cz,man,Manual,types,NA
+2803,10.1177/1461444817719087,cz,man,Manual,other,NA
+2804,10.1177/1461444819855966,en,man,Manual,forma,NA
+2805,10.1177/1461444819855966,en,man,Manual,quali,NA
+2806,10.1177/1461444819855966,de,man,Manual,forma,NA
+2807,10.1177/1461444819855966,de,man,Manual,quali,NA
+2808,10.1177/1461444819893991,de,man,Manual,const,NA
+2809,10.1177/1461444819893991,de,man,Manual,attri,NA
+2810,10.1177/1461444819893991,de,man,Manual,pragm,NA
+2811,10.1177/1461444819893991,nl,man,Manual,const,NA
+2812,10.1177/1461444819893991,nl,man,Manual,attri,NA
+2813,10.1177/1461444819893991,nl,man,Manual,pragm,NA
+2814,10.1177/1461444819893991,se,man,Manual,const,NA
+2815,10.1177/1461444819893991,se,man,Manual,attri,NA
+2816,10.1177/1461444819893991,se,man,Manual,pragm,NA
+2817,10.1177/1461444819899625,en,man,Manual,const,NA
+2818,10.1177/1461444819899625,en,man,Manual,quali,NA
+2819,10.1177/1461444819899625,en,man,Manual,pragm,NA
+2820,10.1177/1461444819899625,de,man,Manual,const,NA
+2821,10.1177/1461444819899625,de,man,Manual,quali,NA
+2822,10.1177/1461444819899625,de,man,Manual,pragm,NA
+2823,10.1177/1464884915595472,en,man,Manual,thing,NA
+2824,10.1177/1464884915595472,en,man,Manual,attri,NA
+2825,10.1177/1464884915595472,en,man,Manual,frame,NA
+2826,10.1177/1464884915595472,cn,man,Manual,thing,NA
+2827,10.1177/1464884915595472,cn,man,Manual,attri,NA
+2828,10.1177/1464884915595472,cn,man,Manual,frame,NA
+2829,10.1177/1464884916657509,es,man,Manual,quali,NA
+2830,10.1177/1464884916657509,pt,man,Manual,quali,NA
+2831,10.1177/1464884916667872,en,man,Manual,const,NA
+2832,10.1177/1464884916667872,en,man,Manual,theme,NA
+2833,10.1177/1464884916667872,de,man,Manual,const,NA
+2834,10.1177/1464884916667872,de,man,Manual,theme,NA
+2835,10.1177/1464884916667872,fr,man,Manual,const,NA
+2836,10.1177/1464884916667872,fr,man,Manual,theme,NA
+2837,10.1177/1464884916667872,it,man,Manual,const,NA
+2838,10.1177/1464884916667872,it,man,Manual,theme,NA
+2839,10.1177/1464884916680372,en,man,Manual,quali,NA
+2840,10.1177/1464884916680372,en,man,Manual,frame,NA
+2841,10.1177/1464884916680372,de,man,Manual,quali,NA
+2842,10.1177/1464884916680372,de,man,Manual,frame,NA
+2843,10.1177/1464884916680372,pt,man,Manual,quali,NA
+2844,10.1177/1464884916680372,pt,man,Manual,frame,NA
+2845,10.1177/1464884916683548,de,man,Manual,thing,NA
+2846,10.1177/1464884916683548,de,man,Manual,frame,NA
+2847,10.1177/1464884916683548,es,man,Manual,thing,NA
+2848,10.1177/1464884916683548,es,man,Manual,frame,NA
+2849,10.1177/1464884916689152,en,man,Manual,const,NA
+2850,10.1177/1464884916689152,he,man,Manual,const,NA
+2851,10.1177/1464884918774311,en,man,Manual,forma,NA
+2852,10.1177/1464884918774311,en,man,Manual,thing,NA
+2853,10.1177/1464884918774311,en,man,Manual,types,NA
+2854,10.1177/1464884918774311,en,man,Manual,theme,NA
+2855,10.1177/1464884918774311,de,man,Manual,forma,NA
+2856,10.1177/1464884918774311,de,man,Manual,thing,NA
+2857,10.1177/1464884918774311,de,man,Manual,types,NA
+2858,10.1177/1464884918774311,de,man,Manual,theme,NA
+2859,10.1177/1464884918774311,nl,man,Manual,forma,NA
+2860,10.1177/1464884918774311,nl,man,Manual,thing,NA
+2861,10.1177/1464884918774311,nl,man,Manual,types,NA
+2862,10.1177/1464884918774311,nl,man,Manual,theme,NA
+2863,10.1177/1464884918774311,pt,man,Manual,forma,NA
+2864,10.1177/1464884918774311,pt,man,Manual,thing,NA
+2865,10.1177/1464884918774311,pt,man,Manual,types,NA
+2866,10.1177/1464884918774311,pt,man,Manual,theme,NA
+2867,10.1177/1464884918774311,ru,man,Manual,forma,NA
+2868,10.1177/1464884918774311,ru,man,Manual,thing,NA
+2869,10.1177/1464884918774311,ru,man,Manual,types,NA
+2870,10.1177/1464884918774311,ru,man,Manual,theme,NA
+2871,10.1177/1464884918774311,cz,man,Manual,forma,NA
+2872,10.1177/1464884918774311,cz,man,Manual,thing,NA
+2873,10.1177/1464884918774311,cz,man,Manual,types,NA
+2874,10.1177/1464884918774311,cz,man,Manual,theme,NA
+2875,10.1177/1464884918774311,pl,man,Manual,forma,NA
+2876,10.1177/1464884918774311,pl,man,Manual,thing,NA
+2877,10.1177/1464884918774311,pl,man,Manual,types,NA
+2878,10.1177/1464884918774311,pl,man,Manual,theme,NA
+2879,10.1177/1464884918774311,ua,man,Manual,forma,NA
+2880,10.1177/1464884918774311,ua,man,Manual,thing,NA
+2881,10.1177/1464884918774311,ua,man,Manual,types,NA
+2882,10.1177/1464884918774311,ua,man,Manual,theme,NA
+2883,10.1177/1464884918774311,lv,man,Manual,forma,NA
+2884,10.1177/1464884918774311,lv,man,Manual,thing,NA
+2885,10.1177/1464884918774311,lv,man,Manual,types,NA
+2886,10.1177/1464884918774311,lv,man,Manual,theme,NA
+2887,10.1177/1464884918774311,ro,man,Manual,forma,NA
+2888,10.1177/1464884918774311,ro,man,Manual,thing,NA
+2889,10.1177/1464884918774311,ro,man,Manual,types,NA
+2890,10.1177/1464884918774311,ro,man,Manual,theme,NA
+2891,10.1177/1464884918774311,sr,man,Manual,forma,NA
+2892,10.1177/1464884918774311,sr,man,Manual,thing,NA
+2893,10.1177/1464884918774311,sr,man,Manual,types,NA
+2894,10.1177/1464884918774311,sr,man,Manual,theme,NA
+2895,10.1177/1464884918774311,al,man,Manual,forma,NA
+2896,10.1177/1464884918774311,al,man,Manual,thing,NA
+2897,10.1177/1464884918774311,al,man,Manual,types,NA
+2898,10.1177/1464884918774311,al,man,Manual,theme,NA
+2899,10.1177/1464884919830181,en,man,Manual,theme,NA
+2900,10.1177/1464884919830181,en,man,Manual,attri,NA
+2901,10.1177/1464884919830181,pl,man,Manual,theme,NA
+2902,10.1177/1464884919830181,pl,man,Manual,attri,NA
+2903,10.1177/1464884919830479,en,man,Manual,forma,NA
+2904,10.1177/1464884919830479,en,man,Manual,thing,NA
+2905,10.1177/1464884919830479,en,man,Manual,const,NA
+2906,10.1177/1464884919830479,ru,man,Manual,forma,NA
+2907,10.1177/1464884919830479,ru,man,Manual,thing,NA
+2908,10.1177/1464884919830479,ru,man,Manual,const,NA
+2909,10.1177/1464884919870323,en,man,Manual,const,NA
+2910,10.1177/1464884919870323,jp,man,Manual,const,NA
+2911,10.1177/1464884920929202,en,man,Manual,pragm,NA
+2912,10.1177/1464884920929202,kr,man,Manual,pragm,NA
+2913,10.1177/1940161216631114,en,man,Manual,thing,NA
+2914,10.1177/1940161216631114,en,man,Manual,attri,NA
+2915,10.1177/1940161216631114,en,man,Manual,props,NA
+2916,10.1177/1940161216631114,cn,man,Manual,thing,NA
+2917,10.1177/1940161216631114,cn,man,Manual,attri,NA
+2918,10.1177/1940161216631114,cn,man,Manual,props,NA
+2919,10.1177/1940161216631114,pt,man,Manual,thing,NA
+2920,10.1177/1940161216631114,pt,man,Manual,attri,NA
+2921,10.1177/1940161216631114,pt,man,Manual,props,NA
+2922,10.1177/1940161216661848,en,man,Manual,frame,NA
+2923,10.1177/1940161216661848,de,man,Manual,frame,NA
+2924,10.1177/1940161216661848,pt,man,Manual,frame,NA
+2925,10.1177/1940161217708525,en,man,Manual,props,NA
+2926,10.1177/1940161217708525,en,man,Manual,frame,NA
+2927,10.1177/1940161217708525,nl,man,Manual,props,NA
+2928,10.1177/1940161217708525,nl,man,Manual,frame,NA
+2929,10.1177/1940161217708525,es,man,Manual,props,NA
+2930,10.1177/1940161217708525,es,man,Manual,frame,NA
+2931,10.1177/1940161217708525,dk,man,Manual,props,NA
+2932,10.1177/1940161217708525,dk,man,Manual,frame,NA
+2933,10.1177/1940161218782740,en,man,Manual,thing,NA
+2934,10.1177/1940161218782740,en,man,Manual,const,NA
+2935,10.1177/1940161218782740,en,man,Manual,quali,NA
+2936,10.1177/1940161218782740,fr,man,Manual,thing,NA
+2937,10.1177/1940161218782740,fr,man,Manual,const,NA
+2938,10.1177/1940161218782740,fr,man,Manual,quali,NA
+2939,10.1177/1940161218782740,se,man,Manual,thing,NA
+2940,10.1177/1940161218782740,se,man,Manual,const,NA
+2941,10.1177/1940161218782740,se,man,Manual,quali,NA
+2942,10.1177/1940161218785979,en,man,Manual,thing,NA
+2943,10.1177/1940161218785979,en,man,Manual,quali,NA
+2944,10.1177/1940161218785979,en,man,Manual,attri,NA
+2945,10.1177/1940161218785979,en,man,Manual,pragm,NA
+2946,10.1177/1940161218785979,de,man,Manual,thing,NA
+2947,10.1177/1940161218785979,de,man,Manual,quali,NA
+2948,10.1177/1940161218785979,de,man,Manual,attri,NA
+2949,10.1177/1940161218785979,de,man,Manual,pragm,NA
+2950,10.1177/1940161218785979,nl,man,Manual,thing,NA
+2951,10.1177/1940161218785979,nl,man,Manual,quali,NA
+2952,10.1177/1940161218785979,nl,man,Manual,attri,NA
+2953,10.1177/1940161218785979,nl,man,Manual,pragm,NA
+2954,10.1177/1940161218785979,fr,man,Manual,thing,NA
+2955,10.1177/1940161218785979,fr,man,Manual,quali,NA
+2956,10.1177/1940161218785979,fr,man,Manual,attri,NA
+2957,10.1177/1940161218785979,fr,man,Manual,pragm,NA
+2958,10.1177/1940161218785979,it,man,Manual,thing,NA
+2959,10.1177/1940161218785979,it,man,Manual,quali,NA
+2960,10.1177/1940161218785979,it,man,Manual,attri,NA
+2961,10.1177/1940161218785979,it,man,Manual,pragm,NA
+2962,10.1177/1940161218785979,se,man,Manual,thing,NA
+2963,10.1177/1940161218785979,se,man,Manual,quali,NA
+2964,10.1177/1940161218785979,se,man,Manual,attri,NA
+2965,10.1177/1940161218785979,se,man,Manual,pragm,NA
+2966,10.1177/1940161218785979,pl,man,Manual,thing,NA
+2967,10.1177/1940161218785979,pl,man,Manual,quali,NA
+2968,10.1177/1940161218785979,pl,man,Manual,attri,NA
+2969,10.1177/1940161218785979,pl,man,Manual,pragm,NA
+2970,10.1177/1940161218785979,bg,man,Manual,thing,NA
+2971,10.1177/1940161218785979,bg,man,Manual,quali,NA
+2972,10.1177/1940161218785979,bg,man,Manual,attri,NA
+2973,10.1177/1940161218785979,bg,man,Manual,pragm,NA
+2974,10.1177/1940161218786426,cn,man,Manual,thing,NA
+2975,10.1177/1940161218786426,cn,man,Manual,types,NA
+2976,10.1177/1940161218786426,cn,man,Manual,attri,NA
+2977,10.1177/1940161218786426,cn,man,Manual,props,NA
+2978,10.1177/1940161218786426,ru,man,Manual,thing,NA
+2979,10.1177/1940161218786426,ru,man,Manual,types,NA
+2980,10.1177/1940161218786426,ru,man,Manual,attri,NA
+2981,10.1177/1940161218786426,ru,man,Manual,props,NA
+2982,10.1177/1940161218786426,ar,man,Manual,thing,NA
+2983,10.1177/1940161218786426,ar,man,Manual,types,NA
+2984,10.1177/1940161218786426,ar,man,Manual,attri,NA
+2985,10.1177/1940161218786426,ar,man,Manual,props,NA
+2986,10.1177/1940161218786426,fs,man,Manual,thing,NA
+2987,10.1177/1940161218786426,fs,man,Manual,types,NA
+2988,10.1177/1940161218786426,fs,man,Manual,attri,NA
+2989,10.1177/1940161218786426,fs,man,Manual,props,NA
+2990,10.1177/1940161218788956,en,man,Manual,quali,NA
+2991,10.1177/1940161218788956,en,man,Manual,attri,NA
+2992,10.1177/1940161218788956,de,man,Manual,quali,NA
+2993,10.1177/1940161218788956,de,man,Manual,attri,NA
+2994,10.1177/1940161218788956,fr,man,Manual,quali,NA
+2995,10.1177/1940161218788956,fr,man,Manual,attri,NA
+2996,10.1177/1940161218805143,en,man,Manual,thing,NA
+2997,10.1177/1940161218805143,en,man,Manual,theme,NA
+2998,10.1177/1940161218805143,de,man,Manual,thing,NA
+2999,10.1177/1940161218805143,de,man,Manual,theme,NA
+3000,10.1177/1940161218805143,nl,man,Manual,thing,NA
+3001,10.1177/1940161218805143,nl,man,Manual,theme,NA
+3002,10.1177/1940161218805143,fr,man,Manual,thing,NA
+3003,10.1177/1940161218805143,fr,man,Manual,theme,NA
+3004,10.1177/1940161218805143,pt,man,Manual,thing,NA
+3005,10.1177/1940161218805143,pt,man,Manual,theme,NA
+3006,10.1177/1940161218805143,gr,man,Manual,thing,NA
+3007,10.1177/1940161218805143,gr,man,Manual,theme,NA
+3008,10.1177/1940161218819430,en,man,Manual,thing,NA
+3009,10.1177/1940161218819430,en,man,Manual,theme,NA
+3010,10.1177/1940161218819430,en,man,Manual,quali,NA
+3011,10.1177/1940161218819430,de,man,Manual,thing,NA
+3012,10.1177/1940161218819430,de,man,Manual,theme,NA
+3013,10.1177/1940161218819430,de,man,Manual,quali,NA
+3014,10.1177/1940161218819430,fr,man,Manual,thing,NA
+3015,10.1177/1940161218819430,fr,man,Manual,theme,NA
+3016,10.1177/1940161218819430,fr,man,Manual,quali,NA
+3017,10.1177/1940161218819430,it,man,Manual,thing,NA
+3018,10.1177/1940161218819430,it,man,Manual,theme,NA
+3019,10.1177/1940161218819430,it,man,Manual,quali,NA
+3020,10.1177/1940161219872155,en,man,Manual,quali,NA
+3021,10.1177/1940161219872155,de,man,Manual,quali,NA
+3022,10.1177/1940161219872155,es,man,Manual,quali,NA
+3023,10.1177/1940161219872155,cn,man,Manual,quali,NA
+3024,10.1177/1940161219872155,pt,man,Manual,quali,NA
+3025,10.1177/1940161219872155,gr,man,Manual,quali,NA
+3026,10.1177/1940161219872155,ru,man,Manual,quali,NA
+3027,10.1177/1940161219872155,pl,man,Manual,quali,NA
+3028,10.1177/1940161219872155,hu,man,Manual,quali,NA
+3029,10.1177/1940161220910106,en,man,Manual,quali,NA
+3030,10.1177/1940161220910106,de,man,Manual,quali,NA
+3031,10.1177/1940161220910106,es,man,Manual,quali,NA
+3032,10.1177/1940161220910106,cn,man,Manual,quali,NA
+3033,10.1177/1940161220910106,pt,man,Manual,quali,NA
+3034,10.1177/1940161220912694,de,man,Manual,thing,NA
+3035,10.1177/1940161220912694,de,man,Manual,const,NA
+3036,10.1177/1940161220912694,de,man,Manual,attri,NA
+3037,10.1177/1940161220912694,fr,man,Manual,thing,NA
+3038,10.1177/1940161220912694,fr,man,Manual,const,NA
+3039,10.1177/1940161220912694,fr,man,Manual,attri,NA
+3040,10.1177/1940161220912694,it,man,Manual,thing,NA
+3041,10.1177/1940161220912694,it,man,Manual,const,NA
+3042,10.1177/1940161220912694,it,man,Manual,attri,NA
+3043,10.1177/2056305117717888,en,man,Manual,forma,NA
+3044,10.1177/2056305117717888,en,man,Manual,thing,NA
+3045,10.1177/2056305117717888,en,man,Manual,const,NA
+3046,10.1177/2056305117717888,en,man,Manual,types,NA
+3047,10.1177/2056305117717888,en,man,Manual,quali,NA
+3048,10.1177/2056305117717888,un,man,Manual,forma,NA
+3049,10.1177/2056305117717888,un,man,Manual,thing,NA
+3050,10.1177/2056305117717888,un,man,Manual,const,NA
+3051,10.1177/2056305117717888,un,man,Manual,types,NA
+3052,10.1177/2056305117717888,un,man,Manual,quali,NA
+3053,10.1177/2056305118823358,en,man,Manual,thing,NA
+3054,10.1177/2056305118823358,en,man,Manual,quali,NA
+3055,10.1177/2056305118823358,de,man,Manual,thing,NA
+3056,10.1177/2056305118823358,de,man,Manual,quali,NA
+3057,10.1177/2056305118823358,fr,man,Manual,thing,NA
+3058,10.1177/2056305118823358,fr,man,Manual,quali,NA
+3059,10.1177/2056305118823358,it,man,Manual,thing,NA
+3060,10.1177/2056305118823358,it,man,Manual,quali,NA
+3061,10.1177/2056305119888657,en,man,Manual,const,NA
+3062,10.1177/2056305119888657,en,man,Manual,types,NA
+3063,10.1177/2056305119888657,en,man,Manual,pragm,NA
+3064,10.1177/2056305119888657,es,man,Manual,const,NA
+3065,10.1177/2056305119888657,es,man,Manual,types,NA
+3066,10.1177/2056305119888657,es,man,Manual,pragm,NA
+3067,10.1332/030557315X14434668993301,en,man,Manual,thing,NA
+3068,10.1332/030557315X14434668993301,en,man,Manual,attri,NA
+3069,10.1332/030557315X14434668993301,de,man,Manual,thing,NA
+3070,10.1332/030557315X14434668993301,de,man,Manual,attri,NA
+3071,10.1332/030557315X14434668993301,fr,man,Manual,thing,NA
+3072,10.1332/030557315X14434668993301,fr,man,Manual,attri,NA
